@@ -1,0 +1,913 @@
+sid,lemma,label,depth,is_def,def_pl,def_la,action,def_other,def_qualifier,cross_ref,uncertain,frequency,grammatical,collocation,usage_label,domain,effective_def_sid,note,exp_target_sid
+auctoritas.1,AUCTORITAS,I,1,False,,,qualifier,,,,,,,,t. t.,iur.,,,
+auctoritas.1.1,AUCTORITAS,I.A,2,False,,,exclude,,,,,,,,,,,,
+auctoritas.1.1.1,AUCTORITAS,I.A.1,3,True,"władza i dostojeństwo z nią związane (władza kościelna, władców świeckich oraz ich urzędników, władza sędziowska itp.)","potestas atque dignitas ei adiuncta (ecclesiastica,principum atque magistratuum eorum, iudicum etc.).",keep,,,,,,,brachium,,,auctoritas.1.1.1,,auctoritas.1.1.1
+auctoritas.1.1.1.1,AUCTORITAS,I.A.1.α,4,True,"samowolnie, własnowolnie","sua sponte, sine auctoritate publica",exclude,,,,,,,auctoritate propria,,,auctoritas.1.1.1.1,,
+auctoritas.1.1.1.2,AUCTORITAS,I.A.1.β,4,False,,,exclude,,,,,,,,,,auctoritas.1.1.1,,
+auctoritas.1.1.1.3,AUCTORITAS,I.A.1.a,4,False,,,exclude,,,,,,acc.,,,,auctoritas.1.1.1,,
+auctoritas.1.1.1.4,AUCTORITAS,I.A.1.b,4,False,,,exclude,,,,,,gen.,,obiectivo,,auctoritas.1.1.1,,
+auctoritas.1.1.2,AUCTORITAS,I.A.2,3,True,"moc, władza, prawo czynienia czegoś",ius atque arbitrium,keep,,,,,,,faciendi aliquid,,,auctoritas.1.1.2,,auctoritas.1.1.2
+auctoritas.1.1.2.1,AUCTORITAS,I.A.2.a,4,False,,,exclude,,,,,,,ad,,,auctoritas.1.1.2,,
+auctoritas.1.1.2.2,AUCTORITAS,I.A.2.b,4,False,,,exclude,,,,,,,ut:,,,auctoritas.1.1.2,,
+auctoritas.1.1.3,AUCTORITAS,I.A.3,3,True,"zakres władzy, jurysdykcja",iurisdictio,keep,,,,,,,,,,auctoritas.1.1.3,,auctoritas.1.1.3
+auctoritas.1.1.4,AUCTORITAS,I.A.4,3,True,"ktoś, kto posiada władzę: urząd lub urzędnik","is, qui potestate praeditus est, magistratus",keep,,,,,,,,,,auctoritas.1.1.4,,auctoritas.1.1.4
+auctoritas.1.1.5,AUCTORITAS,I.A.5,3,True,postanowienie władzy,decretum,keep,,,,,,,,,,auctoritas.1.1.5,,auctoritas.1.1.5
+auctoritas.1.2,AUCTORITAS,I.B,2,False,,,exclude,,,,,,,,,,,,
+auctoritas.1.2.1,AUCTORITAS,I.B.1,3,True,"prawo do czegoś, uprawnienie",ius atque facultas,keep,,,,,,,,,,auctoritas.1.2.1,,auctoritas.1.2.1
+auctoritas.1.2.2,AUCTORITAS,I.B.2,3,True,"zezwolenie, upoważnienie, pełnomocnictwo","permissio, licentia rerum agendarum alicui concessa",keep,,,,,,,,,,auctoritas.1.2.2,,auctoritas.1.2.2
+auctoritas.2,AUCTORITAS,II,1,False,,,exclude,,,,,,,,,,,,
+auctoritas.2.1,AUCTORITAS,II.1,2,True,"powaga, autorytet","vis, existimatio, momentum",keep,,abstr.,,,,,,,,auctoritas.2.1,,auctoritas.2.1
+auctoritas.2.1.1,AUCTORITAS,II.1.α,3,False,,,exclude,,,,,,,sapientum sanxit auctoritas,in arengis diplomatum,,auctoritas.2.1,,
+auctoritas.2.1.2,AUCTORITAS,II.1.β,3,False,,,exclude,,,,,,,cantus,,,auctoritas.2.1,,
+auctoritas.2.1.3,AUCTORITAS,II.1.γ,3,False,,,exclude,,,,,,,scribendi,,,auctoritas.2.1,,
+auctoritas.2.2,AUCTORITAS,II.2,2,True,"jakieś zdanie lub tekst uznany za uświęcony, autorytatywny, miarodajny",opinio aliqua vel textus summa auctoritate praeditus,keep,,concr.,,,,,,,,auctoritas.2.2,,auctoritas.2.2
+auctoritas.2.2.1,AUCTORITAS,II.2.a,3,False,,,exclude,,,,,,,,Scripturae Sacrae,,auctoritas.2.2,,
+auctoritas.2.2.2,AUCTORITAS,II.2.b,3,False,,,exclude,,,,,,,,Aristotelis,,auctoritas.2.2,,
+auctoritas.2.2.3,AUCTORITAS,II.2.c,3,True,innych autorów,aliorum scriptorum,exclude,,,,,,,,,,auctoritas.2.2.3,,
+auctoritas.2.3,AUCTORITAS,II.3,2,True,"argument, dowód",,keep,,singulare,,,,,,,,auctoritas.2.3,,auctoritas.2.3
+bellum.1,BELLUM,I,1,True,wojna,"populorum dissensio, qua sibi invicem arma inferunt",keep,,,,,,,,,,bellum.1,,bellum.1
+bellum.1.1,BELLUM,I.a,2,False,,,exclude,,,,,,adi.,,,,bellum.1,,
+bellum.1.1.1,BELLUM,I.a.α,3,False,,,exclude,,,,,,,carnale spirituale) a perfectis ... b-a carnalia non sunt peragenda. Th. materiale,"Ita saepius. II 1830, 60 sqq. Simili sensu",,bellum.1,,
+bellum.1.1.2,BELLUM,I.a.β,3,False,,,exclude,,,,,,,,simili sensu,,bellum.1,,
+bellum.1.1.3,BELLUM,I.a.γ,3,False,,,exclude,,,,,,,generale fundamentale particulare: partiale: vicarium,,,bellum.1,,
+bellum.1.1.4,BELLUM,I.a.δ,3,False,,,exclude,,,,,,,offensivum defensivum classicum,i. q. maritimum Simili sensu,,bellum.1,,
+bellum.1.1.5,BELLUM,I.a.ζ,3,False,,,exclude,,,,,,,,"gentis, cum qua geritur, gr. inscriptio carminis",,bellum.1,,
+bellum.1.2,BELLUM,I.b,2,True,wojna graniczna,quod in finibus regionis alicuius geritur,exclude,,,,,,gen. subst.,granicierum,,,bellum.1.2,,
+bellum.1.3,BELLUM,I.1,2,False,,,exclude,,,,,,,belli indictio suscitatio seminarium,simili sensu,,bellum.1,,
+bellum.1.4,BELLUM,I.2,2,False,,,exclude,,,,,,,bello defervescere,"simili sensu II 1834,6); II 1833, 24); II 1831, 81).",,bellum.1,,
+bellum.1.5,BELLUM,I.3,2,False,,,exclude,,,,,,,"bellum parare coquere decoquere struere Th. occupare in bellum parari ( indicere (de)nuntiare; poscere (alicui, contra aliquem) inferre assumere","). gotować wojnę; item II 1838, 17 ); Etiam indicere wypowiedzieć wojnę; simili sensu (alicui, contra aliquem) inferre rozpocząć wojnę; simili sensu vel II 1834, 56 ); (item II 1835, 42 ; item ex Livio 18, 10 (item II 1838, 6);",,bellum.1,,
+bellum.1.5.1,BELLUM,I.3.δ,3,False,,,exclude,,,,,,,,(cum aliquo) gerere toczyć wojnę;simili sensu,,bellum.1,,
+bellum.1.5.2,BELLUM,I.3.ε,3,False,,,exclude,,,,,,,,"odnowić wojnę II 1840,10); item",,bellum.1,,
+bellum.1.5.3,BELLUM,I.3.ζ,3,False,,,exclude,,,,,,,,propulsare prowadzić wojnę obronną; simili sensu,,bellum.1,,
+bellum.1.5.4,BELLUM,I.3.η,3,False,,,exclude,,,,,,,,"zakończyć wojnę; simili sensu II 1835,69); II 1839,78 sqq.);",,bellum.1,,
+bellum.1.6,BELLUM,I.4,2,False,,,exclude,,,,,,abs.,bellum frequentare intercedere Th. intrare (pro aliquo in belio esse ( ad (in) bellum ire bellum ire,"iść na wojnę,brać udział w wojnie simili sensu II 1840, 79);",,bellum.1,,
+bellum.1.6.1,BELLUM,I.4.β,3,False,,,exclude,,,,,,,,simili sensu,,bellum.1,,
+bellum.1.6.2,BELLUM,I.4.γ,3,True,pełnić służbę wojskową,militare,exclude,,,,,,,(ad) bellum (de)servire,,,bellum.1.6.2,,
+bellum.1.6.3,BELLUM,I.4.δ,3,True,wyprawić na wojnę,mittere,exclude,,,,,,,ad (in) bellum expedire,,,bellum.1.6.3,,
+bellum.2,BELLUM,II,1,True,bitwa,"pugna, proelium,",keep,,,,,,,particulare,,,bellum.2,,bellum.2
+bellum.2.1,BELLUM,II.α,2,False,,,exclude,,,,,,,,(i. q.,,bellum.2,,
+bellum.2.2,BELLUM,II.β,2,False,,,exclude,,,,,,,planum,,,bellum.2,,
+bellum.2.3,BELLUM,II.α,2,False,,,exclude,,,,,,,,"II 1824, 75 sqq.).",,bellum.2,,
+bellum.2.4,BELLUM,II.β,2,True,zwyciężyć w bitwie,proelio vincere,exclude,,,,,,,obtinere amittere:,,,bellum.2.4,,
+bellum.3,BELLUM,II,1,True,pojedynek,certamen singulare,keep,,,,,,abs.,duorum,,,bellum.3,,bellum.3
+beneficium.1,BENEFICIUM,I,1,False,,,exclude,,,,,,,,,,,,
+beneficium.1.1,BENEFICIUM,I.1,2,True,"dobry czyn, zasługa","bonum opus, meritum",keep,,,,,,,,,,beneficium.1.1,,beneficium.1.1
+beneficium.1.2,BENEFICIUM,I.2,2,True,dobro posiadane,bonum alicuius proprium,keep,,,,,,,,,,beneficium.1.2,,beneficium.1.2
+beneficium.1.2.1,BENEFICIUM,I.2.a,3,True,majątek,opes,keep,,concr.,,,,,,,,beneficium.1.2.1,,beneficium.1.2.1
+beneficium.1.2.2,BENEFICIUM,I.2.b,3,True,"cnota, zaleta",virtus,keep,,abstr.,,,,,,,,beneficium.1.2.2,,beneficium.1.2.2
+beneficium.1.3,BENEFICIUM,I.3,2,True,"dobrodziejstwo, dar, przysługa","bonum alicui tributum, donum, commodum",keep,,,,,,gen.,in beneficium alicuius rei,,,beneficium.1.3,,beneficium.1.3
+beneficium.1.4,BENEFICIUM,I.4,2,False,,,exclude,,,,,,,,singularia,,,,
+beneficium.1.4.1,BENEFICIUM,I.4.a,3,True,pomoc,auxilium,keep,,,,,,,beneficio alicuius rei,,,beneficium.1.4.1,,beneficium.1.4.1
+beneficium.1.4.2,BENEFICIUM,I.4.b,3,True,"świadczenie, usługa","munus, servitus",keep,,,,,,,,,,beneficium.1.4.2,,beneficium.1.4.2
+beneficium.1.4.3,BENEFICIUM,I.4.c,3,True,dochód,reditus,keep,,,,,,,,,,beneficium.1.4.3,,beneficium.1.4.3
+beneficium.1.4.4,BENEFICIUM,I.4.d,3,True,"dobrodziejstwo prawa, tj. korzyść wynikająca dla kogoś z przepisu prawa","commodum, quod alicui ex legis praescripto fit",keep,,,,,,,iuris,,,beneficium.1.4.4,,beneficium.1.4.4
+beneficium.2,BENEFICIUM,II,1,False,,,qualifier,,,,,,,,t. t.,iur.,,,
+beneficium.2.1,BENEFICIUM,II.1,2,True,urząd kościelny wraz z jego uposażeniem,officium ecclesiasticum eique competentium bonorum redituumque usus,keep,,,,,,abs.,ecclesiasticum,,,beneficium.2.1,,beneficium.2.1
+beneficium.2.1.1,BENEFICIUM,II.1.a,3,False,,,exclude,,,,,,,,nominales,,beneficium.2.1,,
+beneficium.2.1.1.1,BENEFICIUM,II.1.a.α,4,True,związane z obowiązkami duszpasterskimi,cui cura animarum annexa est,exclude,,,,,,,curatum,,,beneficium.2.1.1.1,,
+beneficium.2.1.1.2,BENEFICIUM,II.1.a.β,4,True,którego nie można było posiadać równocześnie z drugim beneficjum,quod simul cum altero beneficio haberi non poterat,exclude,,,,,,,incompatibile,,,beneficium.2.1.1.2,,
+beneficium.2.1.1.3,BENEFICIUM,II.1.a.γ,4,True,dożywotnie,quod alicui viventi adimi non poterat,exclude,,,,,,,perpetuum,,,beneficium.2.1.1.3,,
+beneficium.2.1.1.4,BENEFICIUM,II.1.a.δ,4,True,utworzone specjalnie dla pewnej osoby,non nisi ad vitam certae cuiusdam personae institutum,exclude,,,,,,,personale regulare saeculare,,,beneficium.2.1.1.4,,
+beneficium.2.1.1.5,BENEFICIUM,II.1.a.ζ,4,False,,,exclude,,,,,,,,i. q.,,beneficium.2.1,,
+beneficium.2.1.2,BENEFICIUM,II.1.b,3,False,,,exclude,,,,,,,,verbales et,,beneficium.2.1,,
+beneficium.2.2,BENEFICIUM,II.2,2,True,urząd świecki i jego uposażenie,munus saeculare bonis reditibusque saecularibus instructum,keep,,,,,,abs.,saeculare,,,beneficium.2.2,,beneficium.2.2
+castellanus_2.1,CASTELLANUS-2,I,1,True,mieszkaniec lub żołnierz grodu,castelli incola vel miles,keep,,,,,,,,,,castellanus_2.1,,castellanus_2.1
+castellanus_2.2,CASTELLANUS-2,II,1,False,,,exclude,,,,,,,,,,,,
+castellanus_2.2.1,CASTELLANUS-2,II.1,2,False,,,exclude,,,,,,,,,,,,
+castellanus_2.2.1.1,CASTELLANUS-2,II.1.a,3,True,"urzędnik książęcy przełożony nad kasztelanią, z czasem dostojnik ziemski","magistratus ducis, castellaniae (cf. s. v. I 1) praepositus, deinde dignitate terrestri, quae vocabatur, fungens",keep,,,cf. s.v. I 1,,,,,,,castellanus_2.2.1.1,,castellanus_2.2.1.1
+castellanus_2.2.1.2,CASTELLANUS-2,II.1.b,3,True,urzędnik z ramienia kapituły sprawujący jurysdykcję w należącej do niej kasztelanii,magistratus nomine capituli in castellania eius iudicia exercens,keep,,,,,,,canonicorum,,,castellanus_2.2.1.2,,castellanus_2.2.1.2
+castellanus_2.2.2,CASTELLANUS-2,II.3,2,True,sędzia w sądzie wyższym prawa niemieckiego,iudex in superiore iudicio iuris Teutonici quod vocabatur,keep,,,,,,,supremus,,,castellanus_2.2.2,,castellanus_2.2.2
+castellanus_2.2.3,CASTELLANUS-2,II.4,2,True,"apud exteras nationes: zwierzchnik grodu, burgrabia",castello praefectus,keep,,,,,,,,,,castellanus_2.2.3,,castellanus_2.2.3
+castellanus_2.2.3.1,CASTELLANUS-2,II.4.a,3,False,,,exclude,,,,,,gen.,,", cf. sqq. et saepius.",,castellanus_2.2.3,,
+castellanus_2.2.3.2,CASTELLANUS-2,II.4.b,3,False,,,exclude,,,,,,,,,,castellanus_2.2.3,,
+castellanus_2.2.3.3,CASTELLANUS-2,II.4.c,3,False,,,exclude,,,,,,abl.,,cf.,,castellanus_2.2.3,,
+castellanus_2.2.3.4,CASTELLANUS-2,II.4.d,3,False,,,exclude,,,,,,adi.,,a nomine loci formato,,castellanus_2.2.3,,
+civitas.1,CIVITAS,I,1,False,,,exclude,,,,,,,,,,,,
+civitas.1.1,CIVITAS,I.1,2,True,miasto,urbs,keep,,,,,,,,,,civitas.1.1,,civitas.1.1
+civitas.1.1.1,CIVITAS,I.1.a,3,False,,,exclude,,,,,,,,appositione.,,civitas.1.1,,
+civitas.1.1.2,CIVITAS,I.1.b,3,False,,,exclude,,,,,,gen.,,,,civitas.1.1,,
+civitas.1.1.3,CIVITAS,I.1.c,3,False,,,exclude,,,,,,,,adiectivo.,,civitas.1.1,,
+civitas.1.1.4,CIVITAS,I.1.d,3,False,,,exclude,,,,,,prp.,de:,,,civitas.1.1,,
+civitas.1.1.4.1,CIVITAS,I.1.d.α,4,True,,,exclude,unknown: Nowe Miasto Korczyn,,,,,,Nova,,,civitas.1.1.4.1,,
+civitas.1.1.4.2,CIVITAS,I.1.d.β,4,True,Jerozolima,Hierosolyma,exclude,,,,,,,sancta,,,civitas.1.1.4.2,,
+civitas.1.1.4.3,CIVITAS,I.1.d.γ,4,False,,,qualifier,,,,,,,,in imagine,,civitas.1.1,,
+civitas.1.2,CIVITAS,I.2,2,True,gmina miejska,"res publica civium urbanorum, municipium",keep,,,,,,,,,,civitas.1.2,,civitas.1.2
+civitas.1.2.1,CIVITAS,I.2.a,3,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.1.1,CIVITAS,I.2.a.α,4,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.1.2,CIVITAS,I.2.a.β,4,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.1.3,CIVITAS,I.2.a.γ,4,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.1.4,CIVITAS,I.2.a.δ,4,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.2,CIVITAS,I.2.b,3,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.2.2.1,CIVITAS,I.2.b.α,4,False,,,exclude,,,,,,,ius,,,civitas.1.2,,
+civitas.1.2.2.2,CIVITAS,I.2.b.β,4,False,,,exclude,,,,,,,,,,civitas.1.2,,
+civitas.1.3,CIVITAS,I.3,2,True,władze miejskie,magistratus urbis,keep,,,,,,,,,,civitas.1.3,,civitas.1.3
+civitas.2,CIVITAS,II,1,True,"obywatelstwo, prawa obywatelskie (zwł. miejskie)","ius civitatis, iura civis (praec. urbani)",keep,,,,,,,,,,civitas.2,,civitas.2
+comes.1,COMES,I,1,True,"towarzysz(-ka), członek świty, orszaku","socius (-a), comitatus particeps, assecla",keep,,,,,,,,,,comes.1,,comes.1
+comes.2,COMES,I,1,True,"członek orszaku zbrojnego, roty",unus e satellitibus armatis,keep,,,,,,sg. obi.,"viae, itineris",,,comes.2,,comes.2
+comes.2.1,COMES,I.2,2,True,"póki życia starczy, za życia",vita suppetente,exclude,,,,,,,vita (alicui) comite,,,comes.2.1,,
+comes.3,COMES,II,1,True,"komes, możnowladca, wielmoża (przebywający zazwyczaj w otoczeniu władcy i piastujący często godności państwowe)",unus e primoribus regni (qui saepe principem comitabatur summosque magistratus gerebat),keep,,,,,,,nobilis,,,comes.3,,comes.3
+comes.4,COMES,III,1,False,,,exclude,,,,,,,,,,,,
+comes.4.1,COMES,III.1,2,True,"palatyn, wojewoda (w w. XI i XII)",dux exercituum dignitate principi proximus (saec. XI et XII),keep,,,,,,,palatinus,,,comes.4.1,,comes.4.1
+comes.4.2,COMES,III.2,2,True,"komes grodowy, kasztelan","castro praefectus, castellanus",keep,,,,,,,tredecim civitatum,,,comes.4.2,,comes.4.2
+comes.4.3,COMES,III.3,2,True,"(na Węgrzech) namiestnik komitatu, tzw. żupan",comitatui (cf. s. v. II 1) praefectus,keep,,,cf. s.v. II 1,,,,,,,comes.4.3,,comes.4.3
+comes.4.4,COMES,III.4,2,True,(w cesarstwie rzymsko-niemieckim) hrabia,comes imperii Romano-Theutonici,keep,,,,,,,,,,comes.4.4,,comes.4.4
+comes.4.4.1,COMES,III.4.a,3,False,,,exclude,,,,,,adi.,,loci,,comes.4.4,,
+comes.4.4.2,COMES,III.4.b,3,False,,,exclude,,,,,,,ab,,,comes.4.4,,
+comes.4.4.3,COMES,III.4.c,3,False,,,exclude,,,,,,,de:,,,comes.4.4,,
+comes.4.4.4,COMES,III.4.d,3,False,,,exclude,,,,,,abl.,in,,,comes.4.4,,
+comes.5,COMES,IV,1,False,,,exclude,,,,,,,,,,,,
+comes.5.1,COMES,IV.1,2,False,,,exclude,,,,,,,,,,,,
+comes.5.1.1,COMES,IV.1.a,3,True,"wójt miejski, urząd związany z dochodami, przysługujący zwykle zasadźcy miasta i jego spadkobiercom","hereditarium munus (una cum iuribus et proventibus annexis) ei attribui solitum, qui oppidum locaverat eiusque heredibus",keep,,,,,,,hereditarius,,,comes.5.1.1,,comes.5.1.1
+comes.5.1.2,COMES,IV.1.b,3,True,"wójt jako urzędnik, sprawujący z ramienia księcia władzę sądowniczą wedle prawa niemieckiego","magistratus, qui principis auctoritate iudicia iuris Theutonici, quod vocabatur, exercebat",keep,,,,,,abs.,oppidalis,,,comes.5.1.2,,comes.5.1.2
+comes.5.2,COMES,IV.2,2,True,sołtys,scultetus (cf. s. v.),keep,,,scultetus,,,,rusticalis,,,comes.5.2,,comes.5.2
+comes.6,COMES,V,1,True,dostojnik cesarski lub papieski obdarzony prawem nominacji notariuszy publicznych i uprawniania dzieci nieślubnych,"magistratus auctoritate imperiali vel apostolika constitutus, cui notarios publicos creandi puerosque spurios legitimis coaequandi potestas competebat",keep,,,,,,,,,,comes.6,,comes.6
+comitia_1.1,COMITIA-1,,1,True,"hrabstwo, okręg podległy hrabiemu","provincia, quae a comite administrabatur, comitatus",keep,,,,,,,,,,comitia_1.1,,comitia_1.1
+comitia_2.1,COMITIA-2,I,1,True,"zjazd szlachty, sejmik, sejm",,keep,,,,,,,,,,comitia_2.1,,comitia_2.1
+comitia_2.2,COMITIA-2,II,1,True,wybory,electio,keep,,,,,,,,,,comitia_2.2,,comitia_2.2
+communitas.1,COMMUNITAS,I,1,False,,,exclude,,,,,,,,,,,,
+communitas.1.1,COMMUNITAS,I.A,2,False,,,exclude,,,,,,,,,,,,
+communitas.1.1.1,COMMUNITAS,I.A.1,3,True,"udział we wspólnym posiadaniu, spółka, wspólnota","alicuius rei usus communis, consortium",keep,,,,,,gen.,a.,,,communitas.1.1.1,,communitas.1.1.1
+communitas.1.1.2,COMMUNITAS,I.A.2,3,True,"obcowanie, stosunek, styczność","commercium, necessitudo",keep,,,,,,,,,,communitas.1.1.2,,communitas.1.1.2
+communitas.1.2,COMMUNITAS,I.B,2,True,"powszechność, ogólność",rei universae natura,keep,,,,,,,praedicationis,,phil.,communitas.1.2,,communitas.1.2
+communitas.2,COMMUNITAS,II,1,False,,,exclude,,,,,,,,,,,,
+communitas.2.1,COMMUNITAS,II.A,2,True,"zbiorowość, ogół, społeczność","commune, societas, universitas",keep,,,,,,gen.,,,,communitas.2.1,,communitas.2.1
+communitas.2.1.1,COMMUNITAS,II.A.1,3,True,gmina miejska,civitas,keep,,,,,,abs. pl. abs. gen. adi.,"civitatis civium a. b. civitatis, oppidi c. de d. in e.",,,communitas.2.1.1,,communitas.2.1.1
+communitas.2.1.2,COMMUNITAS,II.A.2,3,True,"gmina wiejska, gromada",pagi incolarum commune,keep,,,,,,abs.,"villae, cmethonum",,,communitas.2.1.2,,communitas.2.1.2
+communitas.2.1.3,COMMUNITAS,II.A.3,3,True,ogół szlachty (pewnego terytorium),nobiles (terrae alicuius),keep,,,,,,gen. pl.,,,,communitas.2.1.3,,communitas.2.1.3
+communitas.2.1.4,COMMUNITAS,II.A.4,3,True,gmina wyznaniowa,"commune eorum, qui eandem fidem profitentur",keep,,,,,,,,,,communitas.2.1.4,,communitas.2.1.4
+communitas.2.1.5,COMMUNITAS,II.A.5,3,True,pospólstwo,vulgus,keep,,,,,,abs.,plebis,,,communitas.2.1.5,,communitas.2.1.5
+communitas.2.2,COMMUNITAS,II.B,2,False,,,exclude,,,,,,,,,,,,
+communitas.2.2.1,COMMUNITAS,II.B.1,3,True,grono duchownych prowadzących wspólne życie,collegium clericorum vitam communem degentium,keep,,,,,,,,,eccl.,communitas.2.2.1,,communitas.2.2.1
+communitas.2.2.2,COMMUNITAS,II.B.2,3,True,cech rzemieślników,fabrorum collegium,keep,,,,,,,,,,communitas.2.2.2,,communitas.2.2.2
+communitas.2.2.3,COMMUNITAS,II.B.3,3,True,"zjazd, zgromadzenie, zebranie","conventus, concilium",keep,,,,,,,,,,communitas.2.2.3,,communitas.2.2.3
+communitas.3,COMMUNITAS,III,1,False,,,exclude,,,,,,,,singularia,,,,
+communitas.3.1,COMMUNITAS,III.1,2,True,przywilej,confunditur c. voce immunitatis,keep,,,,confund. immunitatis,,,,,,communitas.3.1,,communitas.3.1
+communitas.3.2,COMMUNITAS,III.2,2,True,wspólny dochód,reditus communis,keep,,,,,,,,,,communitas.3.2,,communitas.3.2
+communitas.3.3,COMMUNITAS,III.3,2,True,"zajęcie się czymś, troska, staranie","cura, sollicitudo",keep,,,,,,,,,,communitas.3.3,,communitas.3.3
+consilium.1,CONSILIUM,I,1,False,,,exclude,,,,,,,,,,,,
+consilium.1.1,CONSILIUM,I.A,2,True,"narada, obradowanie, zgromadzenie (zjazd) obradujących",,keep,,,,,,,,,,consilium.1.1,,consilium.1.1
+consilium.1.1.1,CONSILIUM,I.A.α,3,False,,,exclude,,,,,,,,verbales et passim; item,,consilium.1.1,,
+consilium.1.1.2,CONSILIUM,I.A.β,3,False,,,exclude,,,,,,adi.,,,,consilium.1.1,,
+consilium.1.2,CONSILIUM,I.B,2,True,,,qualifier,,meton.,,,,,,,,consilium.1.2,,
+consilium.1.2.1,CONSILIUM,I.B.1,3,True,"rada, tj. osoby składające radę, grono doradców",consiliariorum collegium. Praec,keep,,,,,,,,,,consilium.1.2.1,,consilium.1.2.1
+consilium.1.2.1.1,CONSILIUM,I.B.1.a,4,True,rada królewska (książęca),qui duci (regi) consilio adsunt,keep,,sim. et abs.,,,,abs.,"ducis (ducale), regis",,,consilium.1.2.1.1,,consilium.1.2.1.1
+consilium.1.2.1.2,CONSILIUM,I.B.1.b,4,True,,,keep,unknown: rada panów ziemi,,,,,,nobilium terrae,,,consilium.1.2.1.2,,consilium.1.2.1.2
+consilium.1.2.1.3,CONSILIUM,I.B.1.c,4,True,rada miejska,consulum civitatis collegium,keep,,,,,,,,,,consilium.1.2.1.3,,consilium.1.2.1.3
+consilium.1.2.1.4,CONSILIUM,I.B.1.d,4,True,kolegium sędziowskie,iudicum collegium,keep,,,,,,,,,,consilium.1.2.1.4,,consilium.1.2.1.4
+consilium.1.2.2,CONSILIUM,I.B.2,3,True,miejsce rady,locus consilii,keep,,,,,,,,,,consilium.1.2.2,,consilium.1.2.2
+consilium.2,CONSILIUM,II,1,False,,,exclude,,,,,,,,,,,,
+consilium.2.1,CONSILIUM,II.1,2,False,,,exclude,,,,,,,,,,,,
+consilium.2.1.1,CONSILIUM,II.1.a,3,True,"zastanawianie się nad czymś, rozwaga, roztropność, rozum","deliberatio, consideratio, prudentia, ratio",keep,,,,,,gen.,,,,consilium.2.1.1,,consilium.2.1.1
+consilium.2.1.1.1,CONSILIUM,II.1.a.α,4,True,"umyślnie, z rozmysłu",consulto,exclude,,,,,,,a consilio,,,consilium.2.1.1.1,,
+consilium.2.1.1.2,CONSILIUM,II.1.a.β,4,True,samowolnie,suo arbitrio,exclude,,,,,,,de consilio,,,consilium.2.1.1.2,,
+consilium.2.1.2,CONSILIUM,II.1.b,3,True,"troska, staranie",cura,keep,,,,,,,,,,consilium.2.1.2,,consilium.2.1.2
+consilium.2.2,CONSILIUM,II.2,2,False,,,exclude,,,,,,,,,,,,
+consilium.2.2.1,CONSILIUM,II.2.a,3,True,"sposób, plan, zamysł, zamiar","ratio, mens, cogitatio, propositum",keep,,,,,,,,,,consilium.2.2.1,,consilium.2.2.1
+consilium.2.2.2,CONSILIUM,II.2.b,3,True,"postanowienie, uchwała",,keep,,,,,,gen. obi.,a.,,,consilium.2.2.2,,consilium.2.2.2
+consilium.3,CONSILIUM,III,1,False,,,exclude,,,,,,,,,,,,
+consilium.3.1,CONSILIUM,III.A,2,False,,,exclude,,,,,,,,,,,,
+consilium.3.1.1,CONSILIUM,III.A.1,3,True,"rada udzielana komuś, pomoc (także materialna)","actus consulendi alicui, auxilium, subsidium",keep,,,,,,,,,,consilium.3.1.1,,consilium.3.1.1
+consilium.3.1.2,CONSILIUM,III.A.2,3,True,"zachęta, namowa","adhortatio, persuasio",keep,,,,,,,adhortatio inductio persuasio,,,consilium.3.1.2,,consilium.3.1.2
+consilium.3.1.2.1,CONSILIUM,III.A.2.α,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.2,CONSILIUM,III.A.2.β,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.3,CONSILIUM,III.A.2.γ,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.4,CONSILIUM,III.A.2.δ,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.5,CONSILIUM,III.A.2.ε,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.6,CONSILIUM,III.A.2.ζ,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.7,CONSILIUM,III.A.2.η,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.8,CONSILIUM,III.A.2.θ,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.9,CONSILIUM,III.A.2.α,4,False,,,exclude,,,,,,dat.,,,,consilium.3.1.2,,
+consilium.3.1.2.10,CONSILIUM,III.A.2.β,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.11,CONSILIUM,III.A.2.γ,4,False,,,exclude,,,,,,acc.,,,,consilium.3.1.2,,
+consilium.3.1.2.12,CONSILIUM,III.A.2.α,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.13,CONSILIUM,III.A.2.β,4,False,,,exclude,,,,,,,,,,consilium.3.1.2,,
+consilium.3.1.2.14,CONSILIUM,III.A.2.γ,4,False,,,exclude,,,,,,abl.,,,,consilium.3.1.2,,
+consilium.3.1.2.15,CONSILIUM,III.A.2.δ,4,False,,,exclude,,,,,,,,enuntiato interrogativo,,consilium.3.1.2,,
+consilium.3.2,CONSILIUM,III.B,2,True,"to, co strona może wobec sądu przytoczyć na swoje usprawiedliwienie, czym popiera swoją sprawę","omnia, quibus quis iudicibus causam suam probat, facta excusat",keep,,,,,,,,,,consilium.3.2,,consilium.3.2
+consilium.4,CONSILIUM,IV,1,True,sobór,episcoporum totius orbis Christiani conventus de rebus ecclesiasticis deliberantium,keep,unknown: confunditur c. v.,,,,,,concilii)sacrum,,,consilium.4,,consilium.4
+consuetudo.1,CONSUETUDO,I,1,True,"przyzwyczajenie, nawyk, zwyczaj","mos, usus",keep,,,,,,gen. inf.,,,,consuetudo.1,,consuetudo.1
+consuetudo.1.1,CONSUETUDO,I.2,2,True,obyczaje,mores,keep,,,,,,,,,,consuetudo.1.1,,consuetudo.1.1
+consuetudo.2,CONSUETUDO,II,1,True,,,exclude,,,,,,,,,iur.,consuetudo.2,,
+consuetudo.2.1,CONSUETUDO,II.A,2,True,"prawo powszechnie przyjęte, zwyczaj prawny",ius usu receptum,keep,,,,,,,antiqua,,,consuetudo.2.1,,consuetudo.2.1
+consuetudo.2.1.1,CONSUETUDO,II.A.1,3,True,prawo zwyczajowe (w przeciwstawieniu do stanowionego),opponitur legi. Explicat,keep,,,,,,gen. subi. gen. obi. abl.,mos ( ducatus Mazoviae:,,,consuetudo.2.1.1,,consuetudo.2.1.1
+consuetudo.2.1.2,CONSUETUDO,II.A.2,3,True,"prawo w ogóle, przepis prawny (także stanowiony) powszechnie przyjęty","iuris praescriptum, statutum usu receptum",keep,,sensu latiore,,,,inf.,in consuetudinem devenire (venire,,,consuetudo.2.1.2,,consuetudo.2.1.2
+consuetudo.2.2,CONSUETUDO,II.B,2,True,,,qualifier,,singulare,,,,,,,,consuetudo.2.2,,
+consuetudo.2.2.1,CONSUETUDO,II.B.1,3,True,ciężary wynikające z prawa zwyczajowego,onera (praec. operarum servarum) usu recepto imposita,keep,,pl.,,,,pl.,,,,consuetudo.2.2.1,,consuetudo.2.2.1
+consuetudo.2.2.2,CONSUETUDO,II.B.2,3,True,przedawnienie,praescriptio,keep,unknown: Saepius in malam partem,,,,,abs.,longi temporis,,,consuetudo.2.2.2,,consuetudo.2.2.2
+consul.1,CONSUL,I,1,True,"konsul, najwyższy urzędnik w Rzymie",summus Romanorum magistratus,keep,,,,,,,,,,consul.1,,consul.1
+consul.2,CONSUL,II,1,True,rajca miejski,senatus urbani particeps,keep,,,,,,gen. adi.,,,,consul.2,,consul.2
+consul.3,CONSUL,III,1,False,,,exclude,,,,,,,,,,,,
+consul.3.1,CONSUL,III.1,2,True,"osoba urzędowa, wobec której sporządzano dokument prawny, uwierzytelniająca ten dokument","magistratus, quo praesente litterae iuris actionem exprimentes conscribebantur quique eas ratas esse iubebat (formula ex antiquo iure Romano recepta)",keep,,,,,,,,,,consul.3.1,,consul.3.1
+consul.3.2,CONSUL,III.2,2,True,"radca, doradca (przełożonego klasztoru, także w klasztorach żeńskich)",qui rectori monasterii (etiam monialium) a consiliis erat,keep,,,,,,,,,,consul.3.2,,consul.3.2
+consul.3.3,CONSUL,III.3,2,True,zwierzchnik kolonii cudzoziemców (zwł. kupców) w jakimś mieście handlowym,rector peregrinorum (praec. mercatorum) in emporio,keep,,,,,,,,,,consul.3.3,,consul.3.3
+conventio.1,CONVENTIO,I,1,True,"zejście się, zebranie, spotkanie, zjazd","conventus, actus conveniendi, coetus, congressus",keep,,propr.,,,,abs. gen. subi. adi.,a. b. c. cum d. inter,,,conventio.1,,conventio.1
+conventio.1.1,CONVENTIO,I.1,2,True,"zjazd szlachty, sejm, sejmik","nobilium terrae alicuius vel totius Poloniae conventus, concilium",keep,,,,,,,,,,conventio.1.1,,conventio.1.1
+conventio.1.1.1,CONVENTIO,I.1.α,3,False,,,exclude,,,,,,,,regis,,conventio.1.1,,
+conventio.1.1.2,CONVENTIO,I.1.β,3,False,,,exclude,,,,,,,,,,conventio.1.1,,
+conventio.1.1.3,CONVENTIO,I.1.γ,3,False,,,exclude,,,,,,adi.,,"loci addito, gr.",,conventio.1.1,,
+conventio.1.2,CONVENTIO,I.2,2,True,posiedzenie sądowe,iudicii consessus,keep,,,,,,,,,iur.,conventio.1.2,,conventio.1.2
+conventio.2,CONVENTIO,II,1,False,,,exclude,,,,,,,,,,,,
+conventio.2.1,CONVENTIO,II.1,2,True,"układ, ugoda, porozumienie, umowa","condicio, conventus, pactum",keep,,,,,,abs. gen. obi. subi.,a. b. c. cum: d. pro,,,conventio.2.1,,conventio.2.1
+conventio.2.2,CONVENTIO,II.2,2,True,"dzierżawa, najem",conductio,keep,,,,,,,,,,conventio.2.2,,conventio.2.2
+conventio.2.2.1,CONVENTIO,II.2.α,3,True,wydzierżawienie prawa wyrębu drzewa,pretium lignorum in alicuius silva excidendorum,exclude,,,,?,,abs.,silvae,,,conventio.2.2.1,,
+conventio.2.2.2,CONVENTIO,II.2.β,3,True,dzierżawić coś,aliquid conductum tenere,exclude,,,,,,,in alicuius rei conventione residere,,,conventio.2.2.2,,
+conventio.2.3,CONVENTIO,II.3,2,True,skarga wniesiona przed sąd przez powoda,accusatio ab actore iudicibus proposita,keep,,,,,,,reconventio),,iur.,conventio.2.3,,conventio.2.3
+conventio.3,CONVENTIO,II,1,True,"związek, zgodność z czymś","conexio, coniunctio",keep,,,,,,,,,,conventio.3,,conventio.3
+conventio.4,CONVENTIO,IV,1,False,,,exclude,,,,,,,,singularia,,,,
+conventio.4.1,CONVENTIO,IV.1,2,True,stawienie się na rozprawę sądową w nieobecności strony przeciwnej,actus in iudicio comparendi adversario absente,keep,,,,,,,,,,conventio.4.1,,conventio.4.1
+conventio.4.2,CONVENTIO,IV.2,2,True,miejsce zetknięcia się granic,confinium,keep,,,,,,,granicierum,,,conventio.4.2,,conventio.4.2
+conventio.4.3,CONVENTIO,IV.3,2,True,"zgoda, przyzwolenie, przyznanie się","consensus, confessio",keep,,,,?,,,,,,conventio.4.3,,conventio.4.3
+conventio.4.4,CONVENTIO,IV.4,2,True,odpowiedniość,"decentia, decor",keep,,,,,,,,,,conventio.4.4,,conventio.4.4
+conventus.1,CONVENTUS,I,1,False,,,exclude,,,,,,,,,,,,
+conventus.1.1,CONVENTUS,I.A,2,True,"zejście się, zebranie, zgromadzenie, zjazd","actus conveniendi, coetus, congressus",keep,,,,,,,,,,conventus.1.1,,conventus.1.1
+conventus.1.1.1,CONVENTUS,I.A.1,3,True,"zjazd szlachty, sejm, sejmik","nobilium congressus, omnium procerum concilium",keep,,,,,,,conventio iustitiae,,,conventus.1.1.1,,conventus.1.1.1
+conventus.1.1.1.1,CONVENTUS,I.A.1.α,4,False,,,exclude,,,,,,,,additur,,conventus.1.1.1,,
+conventus.1.1.1.2,CONVENTUS,I.A.1.β,4,False,,,exclude,,,,,,,,,,conventus.1.1.1,,
+conventus.1.1.1.3,CONVENTUS,I.A.1.γ,4,False,,,exclude,,,,,,,,,,conventus.1.1.1,,
+conventus.1.1.2,CONVENTUS,I.A.2,3,True,"zgromadzenie sądowe w sprawach świeckich, sąd świecki",iudicium saeculare,keep,,,,,,,forensis,,,conventus.1.1.2,,conventus.1.1.2
+conventus.1.2,CONVENTUS,I.B,2,False,,,exclude,,,,,,,,,,,,
+conventus.1.2.1,CONVENTUS,I.B.1,3,True,"konwent, grono zakonników mieszkających w jednym klasztorze","collegium, coenobium",keep,,,,,,gen. abl. adi. adi.,a. b. c. d. de e. in : c-um in Nissa fundaverunt,,,conventus.1.2.1,,conventus.1.2.1
+conventus.1.2.2,CONVENTUS,I.B.2,3,False,,,exclude,,,,,,,,,,,,
+conventus.1.2.2.1,CONVENTUS,I.B.2.a,4,True,urząd ławniczy,scabinorum (cf. s. v.) collegium,keep,,,scabinorum,,,,scabinalis,,,conventus.1.2.2.1,,conventus.1.2.2.1
+conventus.1.2.2.2,CONVENTUS,I.B.2.b,4,True,"tzw. opole, tj. zgromadzenie mieszkańców sąsiednich wsi, tworzących związek opolny, zwoływanych m. in. celem wyznaczania granic między posiadłościami ziemskimi","vicinorum aliquot vicorum congregatio, Polonice opole dicta, quae limitum constituendorum causa plerumque convocabatur",keep,,,,,,m.,,,,conventus.1.2.2.2,,conventus.1.2.2.2
+conventus.1.2.3,CONVENTUS,I.B.3,3,True,"tłum, grupa (ludzi)","coetus, caterva",keep,,,,,,,,,,conventus.1.2.3,,conventus.1.2.3
+conventus.1.2.4,CONVENTUS,I.B.4,3,True,"otoczenie domu, podwórze","domus circuitus, area",keep,,,,,,,,,,conventus.1.2.4,,conventus.1.2.4
+conventus.2,CONVENTUS,II,1,True,umowa,"conventio, pactum",keep,,,,,,,,,,conventus.2,,conventus.2
+corona.1,CORONA,I,1,False,,,exclude,,,,,,,,,,,,
+corona.1.1,CORONA,I.A,2,False,,,exclude,,,,,,,,,,,,
+corona.1.1.1,CORONA,I.A.1,3,True,"ozdoba na głowę, wieniec","capitis ornamentum circulare, sertum",keep,,,,,,,,,,corona.1.1.1,,corona.1.1.1
+corona.1.1.2,CORONA,I.A.2,3,True,korona królewska,diadema regium,keep,,,,,,,,,,corona.1.1.2,,corona.1.1.2
+corona.1.1.3,CORONA,I.A.3,3,True,infula,episcoporum apex,keep,,,,,,,,,,corona.1.1.3,,corona.1.1.3
+corona.1.2,CORONA,I.B,2,False,,,qualifier,,,,,,,,meton.,,,,
+corona.1.2.1,CORONA,I.B.1,3,True,"władza królewska, król",,keep,,,,,,,,,,corona.1.2.1,,corona.1.2.1
+corona.1.2.2,CORONA,I.B.2,3,True,Królestwo Polskie (czasami jako rdzenna Polska bez Litwy),regnum Poloniae (saepe per opp. Lithuaniae),keep,,,,,,abs.,Bohemiae: regni Poloniae,,,corona.1.2.2,,corona.1.2.2
+corona.1.3,CORONA,I.C,2,False,,,qualifier,,,,,,,,sensu latiore,,,,
+corona.1.3.1,CORONA,I.C.1,3,False,,,exclude,,,,,,,,de hominibus,,,,
+corona.1.3.1.1,CORONA,I.C.1.a,4,True,"grono ludzi, orszak","coetus hominum, qui aliquem circumstant, stipantur",keep,,,,,,,,,,corona.1.3.1.1,,corona.1.3.1.1
+corona.1.3.1.2,CORONA,I.C.1.b,4,True,"krąg, koło (ludzi)",homines in circuli modum dispositi,keep,,,,,,,,,milit.,corona.1.3.1.2,,corona.1.3.1.2
+corona.1.3.2,CORONA,I.C.2,3,False,,,exclude,,,,,,,,de rebus,,,,
+corona.1.3.2.1,CORONA,I.C.2.a,4,True,szczyt głowy,vertex,keep,,,,,,,,,,corona.1.3.2.1,,corona.1.3.2.1
+corona.1.3.2.2,CORONA,I.C.2.b,4,True,wianuszek włosów dokoła tonsury,capilli in coronae modum tonsi,keep,,,,,,abs.,clericalis,,,corona.1.3.2.2,,corona.1.3.2.2
+corona.1.3.2.3,CORONA,I.C.2.c,4,True,rodzaj świecznika o kształcie kolistym,lychnulus ad modum circuli factus,keep,,,,,,,,,,corona.1.3.2.3,,corona.1.3.2.3
+corona.1.3.2.4,CORONA,I.C.2.d,4,True,okrągły bochenek chleba,panis rotundus,keep,,,,,,,panis,,,corona.1.3.2.4,,corona.1.3.2.4
+corona.1.3.2.5,CORONA,I.C.2.e,4,True,"nazwa monety francuskiej z wyobrażeniem korony królewskiej, korona",nutnmus Gallicus aureus diademate regio excuso ornatus,keep,,,,,,,,,,corona.1.3.2.5,,corona.1.3.2.5
+corona.1.3.2.6,CORONA,I.C.2.f,4,True,krąg świetlny wokół ciał niebieskich,halos,keep,,,,,,,,,,corona.1.3.2.6,,corona.1.3.2.6
+corona.1.4,CORONA,I.D,2,True,"chwała, najwyższa ozdoba, nagroda, szczyt czegoś","laus, gloria, decus summum, praemium, cacumen",keep,,transl.,,,,gen.,,,,corona.1.4,,corona.1.4
+corona.2,CORONA,II,1,False,,,qualifier,,,,,,,,,nat.,,,
+corona.2.1,CORONA,II.1,2,False,,,exclude,,,,,,,,,,,,
+corona.2.1.1,CORONA,II.1.a,3,True,Koniczyna różnoogonkowa,Trifolium agrarium Linn,exclude,,,,,,,,,,corona.2.1.1,,
+corona.2.1.2,CORONA,II.1.b,3,True,Nostrzyk żółty,Melilotus officinalis Lam.,exclude,,,,,,,,,,corona.2.1.2,,
+corona.2.1.3,CORONA,II.1.c,3,True,Ostróżeczka opolna,Delphinium Consolida Linn,exclude,,,,,,,,,,corona.2.1.3,,
+corona.2.1.4,CORONA,II.1.d,3,True,,,exclude,unknown: roślina o nazwie Ruscus aculeatus Linn,,,,,,,,,corona.2.1.4,,
+corona.2.2,CORONA,II.2,2,True,Powojnik prosty,Clematis recta Linn,exclude,,,,,,,Salomonis,,,corona.2.2,,
+decretum.1,DECRETUM,I,1,False,,,exclude,,,,,,,,,,,,
+decretum.1.1,DECRETUM,I.A,2,True,,,qualifier,,concr.,,,,,,,,decretum.1.1,,
+decretum.1.1.1,DECRETUM,I.A.1,3,True,"postanowienie, zarządzenie, ustawa","constitutio, edictum, lex",keep,,,,,,,,,,decretum.1.1.1,,decretum.1.1.1
+decretum.1.1.1.1,DECRETUM,I.A.1.a,4,False,,,exclude,,,,,,subi.,,gen. gr.,,decretum.1.1.1,,
+decretum.1.1.1.2,DECRETUM,I.A.1.b,4,False,,,exclude,,,,,,gen. obi.,,gr.,,decretum.1.1.1,,
+decretum.1.1.1.3,DECRETUM,I.A.1.e,4,False,,,exclude,,,,,,adi.,,gr.,,decretum.1.1.1,,
+decretum.1.1.1.4,DECRETUM,I.A.1.f,4,False,,,exclude,,,,,,enunt. obi.,,,,decretum.1.1.1,,
+decretum.1.1.2,DECRETUM,I.A.2,3,True,dekret papieski,papae edictum,keep,,,,,,pl.,,,eccl.,decretum.1.1.2,,decretum.1.1.2
+decretum.1.2,DECRETUM,I.B,2,True,"moc prawna, ważność, prawomocność","vis, auctoritas (litterarum publicarum)",keep,,abstr.,,,,,decretum (et auctoritatem) alicui rei apponere (interponere) decreti (et auctoritatis) interpositio,,,decretum.1.2,,decretum.1.2
+decretum.2,DECRETUM,II,1,True,"orzeczenie sądu, wyrok",iudicis(-um) sententia,keep,,,,,,,inventio (iudicii sententia,,iur.,decretum.2,,decretum.2
+decretum.2.1,DECRETUM,II.a,2,False,,,exclude,,,,,,gen. obi. gen. explic.,,gr. gr.,,decretum.2,,
+decretum.2.2,DECRETUM,II.b,2,False,,,exclude,,,,,,,,,,decretum.2,,
+decretum.2.3,DECRETUM,II.c,2,False,,,exclude,,,,,,,,,,decretum.2,,
+decretum.2.4,DECRETUM,II.d,2,False,,,exclude,,,,,,,,,,decretum.2,,
+decretum.2.5,DECRETUM,II.a,2,False,,,exclude,,,,,,,,de iudice,,decretum.2,,
+decretum.2.6,DECRETUM,II.b,2,True,postawić przed sądem,coram iudice,exclude,,,coram iudice,,,,aliquem ad decretum statuere ad ius et decretum postulare,,,decretum.2.6,,
+dignitas.1,DIGNITAS,I,1,False,,,exclude,,,,,,,,,,,,
+dignitas.1.1,DIGNITAS,I.A,2,True,"godność, znaczenie, poważanie, szacunek, powaga, autorytet","auctoritas, maiestas,excellentia, gravitas",keep,,,,,,,,,,dignitas.1.1,,dignitas.1.1
+dignitas.1.2,DIGNITAS,I.B,2,False,,,exclude,,,,,,,,de rebus,,,,
+dignitas.1.2.1,DIGNITAS,I.B.1,3,True,"wartość, znaczenie, wielkość, powaga","gravitas, magnitudo, aestimatio, vis",keep,,,,,,,,,,dignitas.1.2.1,,dignitas.1.2.1
+dignitas.1.2.1.1,DIGNITAS,I.B.1.a,4,False,,,exclude,,,,,,gen.,,,,dignitas.1.2.1,,
+dignitas.1.2.1.2,DIGNITAS,I.B.1.b,4,False,,,exclude,,,,,,abl.,,,,dignitas.1.2.1,,
+dignitas.1.2.1.3,DIGNITAS,I.B.1.c,4,True,przewaga,subintelligitur: maior,exclude,,,przewaga,,,,,,,dignitas.1.2.1.3,,
+dignitas.1.2.2,DIGNITAS,I.B.2,3,True,"uroda, tężyzna, dostojeństwo, godność","species digna, forma, pulchritudo, decor",keep,,,,,,abs.,,,,dignitas.1.2.2,,dignitas.1.2.2
+dignitas.1.2.3,DIGNITAS,I.B.3,3,True,"twierdzenie oczywiste nie wymagające dowodu, pewnik, aksjomat","propositio evidens, quae per se certa est, nulla demonstratione indiget, axioma",keep,unknown: log. t.t.,,,,,,αξίωμα,,log.,dignitas.1.2.3,,dignitas.1.2.3
+dignitas.1.2.3.1,DIGNITAS,I.B.3.α,4,False,,,exclude,,,,,,,,,,dignitas.1.2.3,,
+dignitas.1.2.3.2,DIGNITAS,I.B.3.β,4,False,,,exclude,,,,,,,,"), ),",,dignitas.1.2.3,,
+dignitas.1.2.3.3,DIGNITAS,I.B.3.γ,4,False,,,exclude,,,,,,,,,,dignitas.1.2.3,,
+dignitas.2,DIGNITAS,II,1,False,,,exclude,,,,,,,,,,,,
+dignitas.2.1,DIGNITAS,II.1,2,True,"wysoka godność, zaszczytne stanowisko, urząd, dostojeństwo","fastigium, honor",keep,,,,,,,,,,dignitas.2.1,,dignitas.2.1
+dignitas.2.1.1,DIGNITAS,II.1.α,3,False,,,exclude,,,,,,,,,,dignitas.2.1,,
+dignitas.2.1.2,DIGNITAS,II.1.β,3,False,,,exclude,,,,,,,,in,,dignitas.2.1,,
+dignitas.2.1.3,DIGNITAS,II.1.γ,3,False,,,exclude,,,,,,,,,,dignitas.2.1,,
+dignitas.2.2,DIGNITAS,II.2,2,True,,,qualifier,,meton.,,,,,,,,dignitas.2.2,,
+dignitas.2.2.1,DIGNITAS,II.2.a,3,True,"dostojnik, dygnitarz",homo summis honoribus ornatus,keep,,,,,,,,,,dignitas.2.2.1,,dignitas.2.2.1
+dignitas.2.2.2,DIGNITAS,II.2.b,3,True,,,keep,unknown: loco appellationis:(wasza) dostojność,,,,,,,,,dignitas.2.2.2,,dignitas.2.2.2
+dominium.1,DOMINIUM,I,1,False,,,exclude,,,,,,,,,,,,
+dominium.1.1,DOMINIUM,I.A,2,False,,,exclude,,,,,,,,,,,,
+dominium.1.1.1,DOMINIUM,I.A.1,3,True,"władza (pana), rządy,panowanie,zwierzchność","domini potestas, dominatio",keep,,,,,,,,,,dominium.1.1.1,,dominium.1.1.1
+dominium.1.1.1.1,DOMINIUM,I.A.1.a,4,False,,,exclude,,,,,,,,"in familiam, domum, rem familiarem.",,dominium.1.1.1,,
+dominium.1.1.1.2,DOMINIUM,I.A.1.b,4,True,"zwierzchnia,suwerenna władza monarchy",principis imperium maius,keep,,,,,,,ducale regale superius,,,dominium.1.1.1.2,,dominium.1.1.1.2
+dominium.1.1.2,DOMINIUM,I.A.2,3,True,"moc,władza, prawo czynienia czegoś","ius atque arbitrium, potestas",keep,,,,,,,faciendi aliquid,,,dominium.1.1.2,,dominium.1.1.2
+dominium.1.2,DOMINIUM,I.B,2,False,,,qualifier,,,,,,,,meton.,,,,
+dominium.1.2.1,DOMINIUM,I.B.1,3,False,,,exclude,,,,,,,,,,,,
+dominium.1.2.1.1,DOMINIUM,I.B.1.a,4,True,"terytorium podległe władzy króla, księcia, pana feudalnego, państwo, księstwo","regio potestati regis, ducis,viri nobilis subiecta, regnum, ducatus",keep,,,,,,,Th. patrimoniale et naturale,,,dominium.1.2.1.1,,dominium.1.2.1.1
+dominium.1.2.1.2,DOMINIUM,I.B.1.b,4,True,"dobra ziemskie, majątek, nieruchomości","bona, praedium, bona immobilia",keep,,pl.,,,,pl.,,,,dominium.1.2.1.2,,dominium.1.2.1.2
+dominium.1.2.2,DOMINIUM,I.B.2,3,True,"pan, władza zwierzchnia","dominus, erus",keep,,,,,,,,,,dominium.1.2.2,,dominium.1.2.2
+dominium.1.3,DOMINIUM,I.C,2,True,"władza nad czymś (kimś), przewaga","potestas maior, auctoritas",keep,,transl.,,,,abl.,a dominio esse in,,,dominium.1.3,,dominium.1.3
+dominium.2,DOMINIUM,II,1,True,"prawo własności, własność","potestas alicuius rei pleno proprietatis iure habendae utendae sim., possessio, proprietas",keep,,,,,,,,,iur.,dominium.2,,dominium.2
+dominium.2.1,DOMINIUM,II.α,2,False,,,exclude,,,,,,,directum et utile merum et mixtum fundi ususfructus fundi,vel et,,dominium.2,,
+dominium.2.2,DOMINIUM,II.β,2,False,,,exclude,,,,,,,maius et minus superius et inferius certum et mixtum,,,dominium.2,,
+dominium.2.3,DOMINIUM,II.γ,2,False,,,exclude,,,,,,,,"(additur 1,1896,49 V 1,1895,43).",,dominium.2,,
+dominium.2.4,DOMINIUM,II.δ,2,False,,,exclude,,,,,,,hereditarium [ΝRSTRONY:838]ε. siccum et madidum,(i. q. in terris et aquis?).,,dominium.2,,
+dominium.2.5,DOMINIUM,II.a,2,False,,,exclude,,,,,,gen. obi.,,,,dominium.2,,
+dominium.2.6,DOMINIUM,II.b,2,False,,,exclude,,,,,,abl.,in,,,dominium.2,,
+dominium.2.7,DOMINIUM,II.c,2,False,,,exclude,,,,,,,(de)super,,,dominium.2,,
+dominus.1,DOMINUS,I,1,False,,,exclude,,,,,,,,,,,,
+dominus.1.1,DOMINUS,I.A,2,True,"pan domu, gospodarz","is qui domum iure possessionis tenet, erus",keep,,,,,,,,,,dominus.1.1,,dominus.1.1
+dominus.1.2,DOMINUS,I.B,2,False,,,exclude,,,,,,,,,,,,
+dominus.1.2.1,DOMINUS,I.B.1,3,True,"pan, właściciel",possessor (rerum et hominum),keep,,,,,,,,,iur.,dominus.1.2.1,,dominus.1.2.1
+dominus.1.2.2,DOMINUS,I.B.2,3,True,"właściciel i zwierzchnik jakiegoś terytorium, wielki pan, magnat","cuiusdam regionis possessor ac rector, vir nobilis,optimas",keep,,,,,,abs. gen.,proprietatis,,,dominus.1.2.2,,dominus.1.2.2
+dominus.1.2.2.1,DOMINUS,I.B.2.a,4,False,,,exclude,,,,,,gen.,,,,dominus.1.2.2,,
+dominus.1.2.2.2,DOMINUS,I.B.2.b,4,True,gwarek,"socius congregationis eorum, quibus ius fodiendi in eadem fodina concessum erat",exclude,,,,,,abl.,,,,dominus.1.2.2.2,,
+dominus.1.2.3,DOMINUS,I.B.4,3,True,"kierownik,zarządca","rector,administrator",keep,,,,,,,,,,dominus.1.2.3,,dominus.1.2.3
+dominus.1.3,DOMINUS,I.C,2,True,"pan, władca kraju","qui regnandi et imperandi in regno potestate utitur,dominator (dicitur de regibus, ducibus)",keep,"unknown: Zwł. pan (udzielny), zwierzchnik (lenny) qui dominio iure feudali utitur",,,,,gen. abl. adi. adi.,,,,dominus.1.3,,dominus.1.3
+dominus.2,DOMINUS,II,1,True,tytuł honorowy dawany wysoko postawionym osobom,"appellatio,quae honoris gratia dabatur",keep,,,,,,,,,,dominus.2,,dominus.2
+dominus.2.1,DOMINUS,II.A,2,False,,,exclude,,,,,,,,"regibus,imperatoribus.",,dominus.2,,
+dominus.2.2,DOMINUS,II.B,2,False,,,exclude,,,,,,,,,,dominus.2,,
+dominus.2.2.1,DOMINUS,II.B.1,3,False,,,exclude,,,,,,abs.,,viris potentioribus magistratum aliquem gerentibus).,,dominus.2,,
+dominus.2.2.1.1,DOMINUS,II.B.1.a,4,True,rada panów zasiadających w sądzie ziemskim lub wiecowym,viri nobiles iudicio terrestri vel colloquio generali (cf. s. v. III 1) assidentes,keep,,,cf. s.v. III 1,,,gen.,"seniores, superiores",,,dominus.2.2.1.1,,dominus.2.2.1.1
+dominus.2.2.1.2,DOMINUS,II.B.1.b,4,True,rada miejska,senatus urbanus,keep,,,,,,,,,,dominus.2.2.1.2,,dominus.2.2.1.2
+dominus.2.2.1.2.1,DOMINUS,II.B.1.b.α,5,True,kasztelan,castellanus (cf. s. v. II 1 a),keep,,,cf. s.v. II 1 a,,,adi.,,,,dominus.2.2.1.2.1,,dominus.2.2.1.2.1
+dominus.2.2.1.2.2,DOMINUS,II.B.1.b.β,5,True,senator,"unus e consiliariis regis,senator",keep,,,,,,,,,,dominus.2.2.1.2.2,,dominus.2.2.1.2.2
+dominus.2.2.1.2.3,DOMINUS,II.B.1.b.ε,5,True,żupnik (zarządca lub dzierżawca żup królewskich),salinarum regalium praefectus vel conductor,keep,,,,,,,de zuppis,,,dominus.2.2.1.2.3,,dominus.2.2.1.2.3
+dominus.2.2.2,DOMINUS,II.B.2,3,True,członek kapituły,"capituli cf. supra II 755, 3 sqq.",keep,,,"cf. supra II 755, 3 sqq",,,,,,eccl.,dominus.2.2.2,,dominus.2.2.2
+dominus.3,DOMINUS,III,1,False,,,exclude,,,,,,,,,,,,
+dominus.3.1,DOMINUS,III.A,2,False,,,exclude,,,,,,,,,,,,
+dominus.4,DOMINUS,I,1,True,biskup,episcopus,keep,,,,,,,,,,dominus.4,,dominus.4
+dominus.4.1,DOMINUS,I.3,2,True,kanonik,canonicus cf. supra II 111,keep,,,cf. supra II 111,,,,,,,dominus.4.1,,dominus.4.1
+dominus.4.2,DOMINUS,I.2,2,True,Chrystus,Christus,keep,,,,,,,,,,dominus.4.2,,dominus.4.2
+dux.1,DUX,I,1,True,,,keep,unknown: et meton. (interdum sq. gen.),propr.,,,,gen.,,,,dux.1,,dux.1
+dux.1.1,DUX,I.1,2,True,"przewodnik, przewodniczka",qui (quae) viam monstrat,keep,,,,,,,,,,dux.1.1,,dux.1.1
+dux.1.2,DUX,I.2,2,True,"dowódca, przywódca, przywódczyni","ductor, imperator, ductrix, imperatrix (saepissime occurrit in abl. abs.).",keep,,,,,occ.,abl. abs.,,,,dux.1.2,,dux.1.2
+dux.1.2.1,DUX,I.2.a,3,True,,,exclude,,,,,,,exercituum dux generalis,,milit.,dux.1.2.1,,
+dux.1.2.2,DUX,I.2.b,3,True,królowa pszczół,apium rex,keep,,et abs.,,,,abs.,examinis,,,dux.1.2.2,,dux.1.2.2
+dux.1.2.3,DUX,I.2.c,3,True,"w systemie Gwidona z Arezzo ton tzw. autentyczny, czyli główny, podstawowy","tonus authentus qui vocabatur, i. principalis (secundum Guidonem Aretinum)",keep,,,,,,,,,mus.,dux.1.2.3,,dux.1.2.3
+dux.2,DUX,II,1,True,"tytuł władcy państwa lub dzielnicy, książę","appellatio principis rei publicae vel regionis alicuius, princeps, caput",keep,,,,,,,,,,dux.2,,dux.2
+dux.2.1,DUX,II.a,2,False,,,exclude,,,,,,adi.,,"terrae, gr.",,dux.2,,
+dux.2.2,DUX,II.b,2,False,,,exclude,,,,,,gen.,,"terrae, gr. et passim), et passim).",,dux.2,,
+dux.2.3,DUX,II.c,2,False,,,exclude,,,,,,gen.,,"gentis, gr. (i. Polonorum",,dux.2,,
+dux.2.4,DUX,II.d,2,False,,,qualifier,,,,,,,,"appositiones variae, gr. et passim), de Lithuaniae principe",,dux.2,,
+electio.1,ELECTIO,I,1,False,,,exclude,,,,,,,,,,,,
+electio.1.1,ELECTIO,I.A,2,True,"wybieranie,wybór,elekcja, czasem także prawo wybierania","actio eligendi,deligendi, distinguendi, quis ex pluribus eligatur, interdum fere i. q. potestas eligendi",keep,,,potestas eligendi,,,abs. gen. subi. acc.,ad de in c.,,,electio.1.1,,electio.1.1
+electio.1.2,ELECTIO,I.B,2,False,,,exclude,,,,,,,,rerum,,,,
+electio.1.2.1,ELECTIO,I.B.1,3,True,"wybieranie, wybór","actio eligendi, deligendi (abs. vel sq. gen. obi.).",keep,,,,,,gen. obi.,,,,electio.1.2.1,,electio.1.2.1
+electio.1.2.1.1,ELECTIO,I.B.1.a,4,True,"namysł, rozwaga",deliberatio,merge_up,,,namysł,,,,,,phil.,electio.1.2.1.1,,
+electio.1.2.1.2,ELECTIO,I.B.1.b,4,True,"brakowanie, sprawdzanie zawartości kruszcu w monecie",nummorum spectatio,keep,,,,,,,,,,electio.1.2.1.2,,electio.1.2.1.2
+electio.1.2.1.2.1,ELECTIO,I.B.1.b.α,5,True,naczynie wybrane,electum,exclude,,,electum,,,,vas electionis,,,electio.1.2.1.2.1,,
+electio.1.2.1.2.2,ELECTIO,I.B.1.b.β,5,True,dokonawszy wyboru,selectione facta,exclude,,,,,,,sub electione (e pod brakiem),,,electio.1.2.1.2.2,,
+electio.1.2.1.2.3,ELECTIO,I.B.1.b.γ,5,True,trzy rzeczy do wyboru,"tres a pluribus res, quae alicui deli gendae proponuntur",exclude,,,,,,,tres electiones,,,electio.1.2.1.2.3,,
+electio.1.2.1.2.4,ELECTIO,I.B.1.b.δ,5,True,wybieranie szczęśliwego (tzw. nieferalnego) momentu (dla dokonania jakiejś czynności),temporum (ad rem perpetrandam) commodissimorum per prodigiorum observationem captatio,exclude,,,,,,,temporum electiones,,,electio.1.2.1.2.4,,
+electio.1.2.2,ELECTIO,I.B.2,3,True,"wybór, zestaw wybranych rzeczy","res quaedam selectae, exempla",keep,,,,,,,,,,electio.1.2.2,,electio.1.2.2
+electio.2,ELECTIO,II,1,True,"podatek, danina","vectigal,tributum",keep,,,,,,,,,,electio.2,,electio.2
+episcopus.1,EPISCOPUS,I,1,True,"ten kto się kimś (czymś) opiekuje, opiekun, stróż","curator, custos, tutor, patronus",keep,,sensu latiore,,,,,,,,episcopus.1,,episcopus.1
+episcopus.2,EPISCOPUS,II,1,False,,,qualifier,,,,,,,,sensu strictiore,,,,
+episcopus.2.1,EPISCOPUS,II.1,2,True,"biskup,zwł. biskup ordynariusz","princeps sacerdotum, praesul, pontifex (praec. administrandae dioecesi praefectus)",keep,,,,,,,,,eccl.,episcopus.2.1,,episcopus.2.1
+episcopus.2.1.1,EPISCOPUS,II.1.a,3,False,,,exclude,,,,,,,,et et,,episcopus.2.1,,
+episcopus.2.1.2,EPISCOPUS,II.1.b,3,False,,,exclude,,,,,,,,,,episcopus.2.1,,
+episcopus.2.1.3,EPISCOPUS,II.1.c,3,False,,,exclude,,,,,,,,,,episcopus.2.1,,
+episcopus.2.1.4,EPISCOPUS,II.1.d,3,False,,,exclude,,,,,,,,(de papa Adduntur,,episcopus.2.1,,
+episcopus.2.1.5,EPISCOPUS,II.1.a,3,False,,,exclude,,,,,,adi.,,"nominis territorii, urbis, ecclesiae, gr.",,episcopus.2.1,,
+episcopus.2.1.6,EPISCOPUS,II.1.b,3,False,,,exclude,,,,,,gen.,,,,episcopus.2.1,,
+episcopus.2.1.6.1,EPISCOPUS,II.1.b.α,4,False,,,exclude,,,,,,,,nominis territorii gr.,,episcopus.2.1,,
+episcopus.2.1.6.2,EPISCOPUS,II.1.b.β,4,False,,,exclude,,,,,,,,gentis gr.,,episcopus.2.1,,
+episcopus.2.1.6.3,EPISCOPUS,II.1.b.γ,4,False,,,exclude,,,,,,explic.,,gr.,,episcopus.2.1,,
+episcopus.2.1.7,EPISCOPUS,II.1.c,3,False,,,exclude,,,,,,prp.,,gr.,,episcopus.2.1,,
+episcopus.2.1.8,EPISCOPUS,II.1.d,3,False,,,qualifier,,,,,,,,"variae appositiones, gr. et vulgo), ),",,episcopus.2.1,,
+episcopus.2.2,EPISCOPUS,II.2,2,True,"władyka, biskup obrządku prawosławnego",episcopus ritus orthodoxi,keep,,,,,,,"Ruthen(ic)us, ritus Graeci",,,episcopus.2.2,,episcopus.2.2
+episcopus.2.3,EPISCOPUS,II.3,2,True,zwierzchnik wyznaniowej gminy żydowskiej,communitatis Iudaeorum sacerdos maior,keep,,,,,,,Iudaeorum (Iudaeus),,,episcopus.2.3,,episcopus.2.3
+exercitus.1,EXERCITUS,I,1,True,wojsko,militum copiae. Abundat,keep,,propr.,,,,,,,,exercitus.1,,exercitus.1
+exercitus.1.1,EXERCITUS,I.a,2,True,służba wojskowa,militia,keep,,,,,,,,,,exercitus.1.1,,exercitus.1.1
+exercitus.1.2,EXERCITUS,I.b,2,True,szyk,acies,keep,,,,,,,,,,exercitus.1.2,,exercitus.1.2
+exercitus.2,EXERCITUS,II,1,False,,,exclude,,,,,,,,,,,,
+exercitus.2.1,EXERCITUS,II.1,2,True,zastęp,"legio, numerus ingens",keep,,,,,,,,,,exercitus.2.1,,exercitus.2.1
+exercitus.2.2,EXERCITUS,II.2,2,True,"tłum, gromada","caterva, turba",keep,,,,,,,,,,exercitus.2.2,,exercitus.2.2
+feudum.1,FEUDUM,I,1,False,,,exclude,,,,,,,,,,,,
+feudum.1.1,FEUDUM,I.1,2,True,"posiadanie dóbr nieruchomych na prawie lennym, (stąd) dobra posiadane na tej zasadzie (w Polsce także beneficjum)","bonorum immobilium iure feudali, quod vocabutur, possessio, (inde) meton.: bona ipsa eiusmodi iure possessa (ap. Polonos etiam beneficium)",keep,,,,,,,bandorum,,,feudum.1.1,,feudum.1.1
+feudum.1.1.1,FEUDUM,I.1.α,3,False,,,exclude,,,,,,,,"( et saepius),",,feudum.1.1,,
+feudum.1.1.2,FEUDUM,I.1.β,3,False,,,exclude,,,,,,,,sim.),,feudum.1.1,,
+feudum.1.2,FEUDUM,I.2,2,True,zależność lenna i wynikające z niej powinności lennicze na rzecz seniora,vasalli status atque conditio nec non officia,keep,,,,,,,homagiale,,,feudum.1.2,,feudum.1.2
+feudum.2,FEUDUM,II,1,True,prawo lenne,ius feudale,keep,,,ius feudale,,,,,,,feudum.2,,feudum.2
+gens.1,GENS,I,1,True,ludzie,homines,keep,,sg. et pl.,,,,sg. pl.,,,,gens.1,,gens.1
+gens.1.1,GENS,I.a,2,True,"ludzie zbrojni, wojsko",,keep,,,,,,,"gens (armigera, expedita), gentes (armatae, armorum)",,,gens.1.1,,gens.1.1
+gens.1.2,GENS,I.b,2,True,"orszak, dwór, dworacy, służba","comites, aulici, famuli",keep,,,,,,,,,,gens.1.2,,gens.1.2
+gens.2,GENS,II,1,True,"lud, naród, plemię","natio, populus, stirps",keep,,,,,,,gens nationis,,,gens.2,,gens.2
+gens.2.1,GENS,II.1,2,True,siódma niedziela po Trójcy św.,dominica post dominicam s. Trinitatis septima,keep,,,,,,,dominica Omnes gentes,,,gens.2.1,,gens.2.1
+gens.2.2,GENS,II.2,2,True,"prawo narodów, międzynarodowe",ius populorum,keep,,,,,,,ius gentium,,,gens.2.2,,gens.2.2
+gens.3,GENS,III,1,True,"poganie, pogaństwo","pagani, ethnici, gentiles",keep,,pl.,,,,pl.,,,,gens.3,,gens.3
+gubernator.1,GUBERNATOR,I,1,True,sternik,navis rector (saec. XV—XVI),keep,,propr.,,,,,,,,gubernator.1,,gubernator.1
+gubernator.2,GUBERNATOR,II,1,True,,,qualifier,,transl.,,,,,,,,gubernator.2,,
+gubernator.2.1,GUBERNATOR,II.A,2,False,,,exclude,,,,,,,,,,gubernator.2,,
+gubernator.2.1.1,GUBERNATOR,II.A.1,3,True,"ten, kto czymś rządzi, kieruje, włada","moderator, rector, praec",keep,unknown: sim.,,,,,,regni populi,,,gubernator.2.1.1,,gubernator.2.1.1
+gubernator.2.1.2,GUBERNATOR,II.A.2,3,True,"zarządca, administrator","administrator, procurator. Praec",keep,unknown: sim.,,,,,,bonorum,,,gubernator.2.1.2,,gubernator.2.1.2
+gubernator.2.1.2.1,GUBERNATOR,II.A.2.α,4,True,bartnik,qui alvearia apum curat,keep,,,,,,,mellificiorum,,,gubernator.2.1.2.1,,gubernator.2.1.2.1
+gubernator.2.1.2.2,GUBERNATOR,II.A.2.β,4,True,ochmistrz dworu,aulae regiae praefectus,keep,,,,,,,officiorum in curia regis,,,gubernator.2.1.2.2,,gubernator.2.1.2.2
+gubernator.2.1.3,GUBERNATOR,II.A.3,3,True,"zastępca panującego w zarządzaniu państwem lub prowincją, namiestnik, regent",principis vicarius rei publicae (vel provinciae) praepositus,keep,,,,,,,,,,gubernator.2.1.3,,gubernator.2.1.3
+gubernator.2.2,GUBERNATOR,II.B,2,False,,,exclude,,,,,,,,,,gubernator.2,,
+gubernator.2.2.1,GUBERNATOR,II.B.1,3,True,"opiekun, obrońca, protektor","tutor, patronus",keep,,,,,,,,,,gubernator.2.2.1,,gubernator.2.2.1
+gubernator.2.2.2,GUBERNATOR,II.B.2,3,True,opiekun prawny sprawujący zastępstwo i dozór nad osobami (zwł. nad kobietami lub dziećmi nie posiadającymi lat sprawnych) oraz nad ich majątkiem,tutor (praec. pupillorum vel feminarum) lege institutus,keep,,,,,,gen. abl. acc.,"a. b. circa, c. in d. supra",,,gubernator.2.2.2,,gubernator.2.2.2
+hereditas.1,HEREDITAS,I,1,True,"dziedziczenie, prawo dziedziczenia, (stąd) dziedziczne posiadanie czegoś","ius succedendi, successio hereditaria, (inde) possessio he reditaria",keep,,abstr.,,,,,,,,hereditas.1,,hereditas.1
+hereditas.2,HEREDITAS,II,1,False,,,exclude,,,,,,,,,,,,
+hereditas.2.1,HEREDITAS,II.A,2,True,"dziedzictwo, scheda, spadek, spuścizna","heredium, possessio hereditaria. Stąd: każde mienie, posiadłość, majątek, włość, dobra; inde: possessio, praedium, fundus, bona",keep,,propr.,,,,,"allodium adventitia communis Th. delata innata, naturalis paterna: «przyrodzona» libera non liberata materna (maternalis, paterna, paternalis obmortua principativa",,,hereditas.2.1,,hereditas.2.1
+hereditas.2.1.1,HEREDITAS,II.A.α,3,False,,,exclude,,,,,,,,"VI 2633, 42 ),",,hereditas.2.1,,
+hereditas.2.1.2,HEREDITAS,II.A.β,3,False,,,exclude,,,,,,,,"et passim p. 711, a. 1399 et saepius; simili sensu VI 2635, 19 ), simili sensu et passim), et passim),",,hereditas.2.1,,
+hereditas.2.1.3,HEREDITAS,II.A.γ,3,False,,,exclude,,,,,,,,"VI 2634, 36), p. 388, a. 1397 ; cf. Th. VI 2638, 79), p. 288, a. 1388 ; ib. p. 958, a. 1400 ; AKapSąd III p. 103, a. 1504 et saepius), ), VI 2635, 28 ), p. 932, a. 1400 et saepius), VI 2636, 18 sq.), VI 2636. 6).",,hereditas.2.1,,
+hereditas.2.1.4,HEREDITAS,II.A.δ,3,False,,,exclude,,,,,,,,,,hereditas.2.1,,
+hereditas.2.1.5,HEREDITAS,II.A.ε,3,False,,,exclude,,,,,,,,,,hereditas.2.1,,
+hereditas.2.2,HEREDITAS,II.B,2,False,,,exclude,,,,,,,,,,,,
+hereditas.2.2.1,HEREDITAS,II.B.1,3,True,wieczna szczęśliwość,beatitudo,keep,,,wieczna szczęśliwość; beatitudo,,,,aeterna,,,hereditas.2.2.1,,hereditas.2.2.1
+hereditas.2.2.2,HEREDITAS,II.B.2,3,True,"gromada, mieszkańcy wsi",vici incolae,keep,,,,,,,,,,hereditas.2.2.2,,hereditas.2.2.2
+honor.1,HONOR,I,1,False,,,exclude,,,,,,,,,,,,
+honor.1.1,HONOR,I.A,2,True,,,qualifier,,propr.,,,,,,,,honor.1.1,,
+honor.1.1.1,HONOR,I.A.1,3,True,"cześć, uszanowanie, kult","reverentia, respectus, cultus",keep,,,,,,gen. obi. gen. abl.,"mensae a. b. in ad (in, ob) honorem ecclesia, altari in honore: sub honore (tituli)",,,honor.1.1.1,,honor.1.1.1
+honor.1.1.1.1,HONOR,I.A.1.α,4,False,,,exclude,,,,,,,,,,honor.1.1.1,,
+honor.1.1.1.2,HONOR,I.A.1.β,4,False,,,exclude,,,,,,,,,,honor.1.1.1,,
+honor.1.1.2,HONOR,I.A.2,3,True,"uroczystości świąteczne, obchodzenie (święta)","celebratio, v. gr.",keep,,,,,,,divini cultus festi duplicis,,,honor.1.1.2,,honor.1.1.2
+honor.1.2,HONOR,I.B,2,True,,,qualifier,,meton.,,,,,,,,honor.1.2,,
+honor.1.2.1,HONOR,I.B.1,3,True,podarek honorowy,munus honorarium. Praec. okolicznościowy podarek składany panu feudalnemu (lub wójtowi) przez ludność wiejską lub miejską; munus quod certis quibusdam anni temporibus domino feodali (vel advocato) a colonis (vel civibus urbanis) dari solebat,keep,,,,,,,munus qualitas,,,honor.1.2.1,,honor.1.2.1
+honor.1.2.2,HONOR,I.B.2,3,True,"przedmiot czci, chluba",,keep,,,,,,,,,,honor.1.2.2,,honor.1.2.2
+honor.2,HONOR,I,1,False,,,exclude,,,,,,,,,,,,
+honor.2.1,HONOR,I.A,2,False,,,exclude,,,,,,,,,,,,
+honor.2.1.1,HONOR,I.A.1,3,True,"cześć, honor, dobre imię","nomen, existimatio, bona fama",keep,,,,,,abs.,"bonus et laudabilis: nobilitatis, militalis (-ris) honoris litterae",,iur.,honor.2.1.1,,honor.2.1.1
+honor.2.1.1.1,HONOR,I.A.1.α,4,False,,,exclude,,,,,,,,vel,,honor.2.1.1,,
+honor.2.1.1.2,HONOR,I.A.1.β,4,False,,,exclude,,,,,,,,,,honor.2.1.1,,
+honor.2.1.1.3,HONOR,I.A.1.γ,4,False,,,exclude,,,,,,,,,,honor.2.1.1,,
+honor.2.1.1.4,HONOR,I.A.1.α,4,False,,,exclude,,,,,,,,"praeterea etiam supraII 374, 54 sqq.).",,honor.2.1.1,,
+honor.2.1.1.5,HONOR,I.A.1.β,4,False,,,exclude,,,,,,,,,,honor.2.1.1,,
+honor.2.1.1.6,HONOR,I.A.1.γ,4,False,,,exclude,,,,,,,,et passim; item,,honor.2.1.1,,
+honor.2.1.1.7,HONOR,I.A.1.δ,4,False,,,exclude,,,,,,,,"supra III362, 50 sqq.),",,honor.2.1.1,,
+honor.2.1.2,HONOR,I.A.2,3,True,,,qualifier,,singulare,,,,,,,,honor.2.1.2,,
+honor.2.1.2.1,HONOR,I.A.2.a,4,True,opinia,fama (in universum),keep,,sensu latiore,,,,,,,,honor.2.1.2.1,,honor.2.1.2.1
+honor.2.1.2.2,HONOR,I.A.2.b,4,True,"uszczerbek na honorze, zniewaga",contumelia,keep,,,,,,,,,,honor.2.1.2.2,,honor.2.1.2.2
+honor.2.2,HONOR,I.B,2,False,,,exclude,,,,,,,,,,,,
+honor.2.2.1,HONOR,I.B.1,3,True,"godność, zaszczyt, dostojeństwo","dignitas, amplitudo, maiestas",keep,,,,,,adi.,,,,honor.2.2.1,,honor.2.2.1
+honor.2.2.1.1,HONOR,I.B.1.a,4,True,godność książęca i związana z nią władza i terytorium,principis dignitas atque regio eius potestati subiecta,keep,,et abs.,,,,abs.,ducatus,,,honor.2.2.1.1,,honor.2.2.1.1
+honor.2.2.1.2,HONOR,I.B.1.b,4,True,władza sądownicza,iurisdictio,keep,,,,,,,,,,honor.2.2.1.2,,honor.2.2.1.2
+honor.2.2.2,HONOR,I.B.2,3,True,,,qualifier,,singulare,,,,,,,,honor.2.2.2,,
+honor.2.2.2.1,HONOR,I.B.2.a,4,True,"możność, władza",potestas,keep,,sensu latiore,,,,,,,,honor.2.2.2.1,,honor.2.2.2.1
+honor.2.2.2.2,HONOR,I.B.2.b,4,True,"dostojnik, dygnitarz",unus e proceribus,keep,,meton.,,,,,,,,honor.2.2.2.2,,honor.2.2.2.2
+honor.3,HONOR,III,1,True,"okazałość, piękność, blask","decus, splendor, pulchritudo, decor (saec. XV—XVI)",keep,,,,,,,,,,honor.3,,honor.3
+honor.3.1,HONOR,III.α,2,False,,,exclude,,,,,,,,de terra,,honor.3,,
+honor.3.2,HONOR,III.β,2,False,,,exclude,,,,,,,,"e Verg. Aen. 1, 591",,honor.3,,
+imperator.1,IMPERATOR,I,1,False,,,exclude,,,,,,,,,,,,
+imperator.1.1,IMPERATOR,I.1,2,True,"pan, władca, król","dominus, princeps, rex",keep,,,,,,,,,,imperator.1.1,,imperator.1.1
+imperator.1.1.1,IMPERATOR,I.1.a,3,True,cesarz rzymski narodu niemieckiego,caput imperii Romani nationis Theutonicae,keep,,,,,,abs.,Romanorum,,,imperator.1.1.1,,imperator.1.1.1
+imperator.1.1.2,IMPERATOR,I.1.b,3,True,,,keep,unknown: sułtan turecki,,,,,,Turcorum,,,imperator.1.1.2,,imperator.1.1.2
+imperator.1.1.3,IMPERATOR,I.1.c,3,True,,,keep,unknown: chan tatarski,,,,,,Tartarorum,,,imperator.1.1.3,,imperator.1.1.3
+imperator.1.2,IMPERATOR,I.2,2,True,wódz naczelny,summus dux militaris,keep,,,,,,abs.,exercitus,,,imperator.1.2,,imperator.1.2
+imperator.2,IMPERATOR,II,1,True,"pan, władca czegoś",dominus,keep,,transl.,,,,,,,,imperator.2,,imperator.2
+imperium.1,IMPERIUM,I,1,True,"rozkaz, polecenie, przepis, nakaz","iussum, praeceptum, mandatum, auctoritas",keep,,,,,,,litterale,,,imperium.1,,imperium.1
+imperium.1.1,IMPERIUM,I.α,2,False,,,exclude,,,,,,,,,,imperium.1,,
+imperium.1.2,IMPERIUM,I.β,2,False,,,exclude,,,,,,,,,,imperium.1,,
+imperium.2,IMPERIUM,II,1,False,,,exclude,,,,,,,,,,,,
+imperium.2.1,IMPERIUM,II.A,2,True,"władza, panowanie, rządy","potestas, dominatio, dominium",keep,,,,,,,,,,imperium.2.1,,imperium.2.1
+imperium.2.1.1,IMPERIUM,II.A.1,3,False,,,exclude,,,,,,,,,,imperium.2.1,,
+imperium.2.1.1.1,IMPERIUM,II.A.1.a,4,False,,,exclude,,,,,,,,,,imperium.2.1,,
+imperium.2.1.1.2,IMPERIUM,II.A.1.b,4,True,"zwierzchnia, suwerenna władza, panowanie monarchy (zwł. cesarza rzymskiego narodu niemieckiego)",principis potestas maior (praec. imperatoris Romano-Germanici),keep,,,,,,,"in populos, terras (imperatoris, regis, ducis, viri nobilis merum et mixtum",,,imperium.2.1.1.2,,imperium.2.1.1.2
+imperium.2.1.2,IMPERIUM,II.A.2,3,False,,,qualifier,,,,,,,,variarum rerum gr. item in textu,mus.,imperium.2.1,,
+imperium.2.2,IMPERIUM,II.B,2,True,cesarstwo,regio atque populi principatui imperatoris subiecti,keep,,,,,,,,,,imperium.2.2,,imperium.2.2
+imperium.2.2.1,IMPERIUM,II.B.1,3,True,,,exclude,unknown: antiquorum Romanorum vel Graecorum,,,,,,,,,imperium.2.2.1,,
+imperium.2.2.2,IMPERIUM,II.B.2,3,True,cesarstwo rzymskie narodu niemieckiego,Romano-Germanicum,exclude,,,,,,,,,,imperium.2.2.2,,
+iudicium_1.1,IUDICIUM-1,I,1,False,,,exclude,,,,,,,,,,,,
+iudicium_1.1.1,IUDICIUM-1,I.A,2,False,,,exclude,,,,,,,,,,,,
+iudicium_1.1.1.1,IUDICIUM-1,I.A.1,3,True,"osąd, rozeznanie, opinia","opinio, sententia",keep,,,,,,,,,,iudicium_1.1.1.1,,iudicium_1.1.1.1
+iudicium_1.1.1.1.1,IUDICIUM-1,I.A.1.α,4,False,,,exclude,,,,,,,,in,,iudicium_1.1.1.1,,
+iudicium_1.1.1.1.2,IUDICIUM-1,I.A.1.β,4,False,,,exclude,,,,,,,,gr.,,iudicium_1.1.1.1,,
+iudicium_1.1.1.2,IUDICIUM-1,I.A.2,3,True,"postanowienie, decyzja","consilium, decretum. Praec",keep,,,,,,,,,,iudicium_1.1.1.2,,iudicium_1.1.1.2
+iudicium_1.1.1.2.1,IUDICIUM-1,I.A.2.α,4,True,testament,testamentum,keep,,,,,,,ultimae voluntatis,,,iudicium_1.1.1.2.1,,iudicium_1.1.1.2.1
+iudicium_1.1.1.2.2,IUDICIUM-1,I.A.2.β,4,False,,,exclude,,,,,,pl.,fati,i. q. mors,,iudicium_1.1.1.2,,
+iudicium_1.1.2,IUDICIUM-1,I.B,2,False,,,exclude,,,,,,,,,,,,
+iudicium_1.1.2.1,IUDICIUM-1,I.B.1,3,True,zdolność wydawania sądu,iudicandi facultas,keep,,,,,,,,,,iudicium_1.1.2.1,,iudicium_1.1.2.1
+iudicium_1.1.2.1.1,IUDICIUM-1,I.B.1.α,4,False,,,qualifier,,,,,,,,,phil.,iudicium_1.1.2.1,,
+iudicium_1.1.2.1.2,IUDICIUM-1,I.B.1.β,4,False,,,exclude,,,,,,,liberum libero arbitrio,(distinguitur a,theol.,iudicium_1.1.2.1,,
+iudicium_1.1.2.2,IUDICIUM-1,I.B.2,3,True,"zastanowienie, rozsądek","consideratio, prudentia (saec. XV—XVI)",keep,,,,,,,,,,iudicium_1.1.2.2,,iudicium_1.1.2.2
+iudicium_1.2,IUDICIUM-1,II,1,True,,,exclude,,,,,,,,,iur.,iudicium_1.2,,
+iudicium_1.2.1,IUDICIUM-1,II.A,2,False,,,exclude,,,,,,,,,,iudicium_1.2,,
+iudicium_1.2.1.1,IUDICIUM-1,II.A.1,3,True,"sąd, postępowanie sądowe",iuris actio,keep,,,,,,,"primum, secundum finale",,,iudicium_1.2.1.1,,iudicium_1.2.1.1
+iudicium_1.2.1.2,IUDICIUM-1,II.A.2,3,True,sprawa sądowa,"res, quae coram iudice agitur",keep,,,,,,,,,,iudicium_1.2.1.2,,iudicium_1.2.1.2
+iudicium_1.2.1.3,IUDICIUM-1,II.A.3,3,True,orzeczenie sądu,iudicum sententia. Occ. litterae quibus iudicis sententia continetur,keep,,,,,occ.,,,,,iudicium_1.2.1.3,,iudicium_1.2.1.3
+iudicium_1.2.1.4,IUDICIUM-1,II.A.4,3,True,"władza sądownicza, jurysdykcja",iurisdictio,keep,,,,,,abl.,1—4: a. b. de. c. in d. pro. e. super (supra),,,iudicium_1.2.1.4,,iudicium_1.2.1.4
+iudicium_1.2.1.5,IUDICIUM-1,II.A.1,3,False,,,exclude,,,,,,,,"(in universum) ),",,iudicium_1.2,,
+iudicium_1.2.1.6,IUDICIUM-1,II.A.2,3,False,,,exclude,,,,,,,,respicitur institutio,,iudicium_1.2,,
+iudicium_1.2.1.6.1,IUDICIUM-1,II.A.2.a,4,True,sąd prawa polskiego,,keep,,,,,,,Polonicum (Polonicale),,,iudicium_1.2.1.6.1,,iudicium_1.2.1.6.1
+iudicium_1.2.1.6.1.1,IUDICIUM-1,II.A.2.a.α,5,False,,,exclude,,,,,,,"regis (regium, regale","et passim; glossa additur supra II1504,40 sqq.).",,iudicium_1.2.1.6.1,,
+iudicium_1.2.1.6.1.2,IUDICIUM-1,II.A.2.a.β,5,True,,,keep,unknown: sąd wiecowy,,,,,,colloquiale (colloquii),,,iudicium_1.2.1.6.1.2,,iudicium_1.2.1.6.1.2
+iudicium_1.2.1.6.1.3,IUDICIUM-1,II.A.2.a.γ,5,True,sąd ziemski,quo lites inter nobiles regionis alicuius iudicari solebant,keep,,,,,,,terrestre,,,iudicium_1.2.1.6.1.3,,iudicium_1.2.1.6.1.3
+iudicium_1.2.1.6.1.4,IUDICIUM-1,II.A.2.a.δ,5,True,,,keep,unknown: sąd grodzki,,,,,adi. prp.,castri (castrense),,,iudicium_1.2.1.6.1.4,,iudicium_1.2.1.6.1.4
+iudicium_1.2.1.6.2,IUDICIUM-1,II.A.2.b,4,True,sąd prawa niemieckiego,quod iure Teutonico exercebatur,keep,,,,,,,Teutonicum (Teutonicale),,,iudicium_1.2.1.6.2,,iudicium_1.2.1.6.2
+iudicium_1.2.1.6.2.1,IUDICIUM-1,II.A.2.b.α,5,False,,,exclude,,,,,,,magnum parvum minus minoris iustitiae parvi iudicii,et passim; glossae,,iudicium_1.2.1.6.2,,
+iudicium_1.2.1.6.2.2,IUDICIUM-1,II.A.2.b.β,5,False,,,exclude,,,,,,,provinciale,,,iudicium_1.2.1.6.2,,
+iudicium_1.2.1.6.3,IUDICIUM-1,II.A.2.c,4,False,,,exclude,,,,,,,burgravii civile civitatense feodale hospitum hospitale mellicidarum zuppariale zupparum,praeterea cett.,,iudicium_1.2,,
+iudicium_1.2.1.7,IUDICIUM-1,II.A.3,3,False,,,exclude,,,,,,,,respicitur iudicii exercendi modus,,iudicium_1.2,,
+iudicium_1.2.1.7.1,IUDICIUM-1,II.A.3.a,4,False,,,exclude,,,,,,,,,,iudicium_1.2,,
+iudicium_1.2.1.7.2,IUDICIUM-1,II.A.3.b,4,False,,,exclude,,,,,,,,"), (quod vulgo dicitur",,iudicium_1.2,,
+iudicium_1.2.1.7.3,IUDICIUM-1,II.A.3.c,4,False,,,exclude,,,,,,,necessarium inconsuetum opportunum,Ita saepius).,,iudicium_1.2,,
+iudicium_1.2.1.7.4,IUDICIUM-1,II.A.3.d,4,False,,,exclude,,,,,,,,,,iudicium_1.2,,
+iudicium_1.2.1.7.5,IUDICIUM-1,II.A.3.e,4,False,,,exclude,,,,,,,,,,iudicium_1.2,,
+iudicium_1.2.1.7.6,IUDICIUM-1,II.A.3.f,4,False,,,exclude,,,,,,,(confirmatum sancitum vigoratum (ex)positum indictum edictum,"Ad rem Bardach, Historia państwa i prawa 270 sqq.",,iudicium_1.2,,
+iudicium_1.2.1.8,IUDICIUM-1,II.A.4,3,False,,,exclude,,,,,,,,"(respicitur res, de qua agitur) cett.",,iudicium_1.2,,
+iudicium_1.2.1.9,IUDICIUM-1,II.A.5,3,True,sąd Boży,"Dei iudicium, quod vocabatur cf. supra I 678,33 sqq.",keep,,,"cf. supra I 678,33 sqq",,,,ferri (candentis) et aquae (ferventis),,,iudicium_1.2.1.9,,iudicium_1.2.1.9
+iudicium_1.2.1.10,IUDICIUM-1,II.A.6,3,False,,,exclude,,,,,,,,(respicitur poena a iudice constituenda),,iudicium_1.2,,
+iudicium_1.2.1.10.1,IUDICIUM-1,II.A.6.a,4,False,,,exclude,,,,,,,,(de iudicio ipso) simili sensu,,iudicium_1.2,,
+iudicium_1.2.1.10.2,IUDICIUM-1,II.A.6.b,4,False,,,exclude,,,,,,,,de partibus,,iudicium_1.2,,
+iudicium_1.2.1.10.2.1,IUDICIUM-1,II.A.6.b.α,5,False,,,exclude,,,,,,,"iudicium accipere acceptare arripere aspicere astare (adversus contra aliquem stare super contra aliquem: super aliquid attemptare custodire ferre habere (cum aliquo impetrare incidere ingredi petere quaerere respicere (super aliquo subire succumbere sustinere statuere (pro aliqua re) super (contra) aliquem emere iudicio adesse, interesse praesentem esse pertransire stare se supponere se recommendare","vel vel vel et passim),",,iudicium_1.2,,
+iudicium_1.2.1.10.2.2,IUDICIUM-1,II.A.6.b.β,5,False,,,exclude,,,,,,,,"vel VII 2,612,5 ),",,iudicium_1.2,,
+iudicium_1.2.1.10.3,IUDICIUM-1,II.A.6.c,4,False,,,exclude,,,,,,,,(de iudice) simili sensu etiam simili sensu,,iudicium_1.2,,
+iudicium_1.2.2,IUDICIUM-1,II.B,2,False,,,exclude,,,,,,,,,,iudicium_1.2,,
+iudicium_1.2.2.1,IUDICIUM-1,II.B.1,3,True,sądowy,"locus, ubi ius redditur",keep,"unknown: miejsce posiedzeń sądu, budynek",,,,,,,,,iudicium_1.2.2.1,,iudicium_1.2.2.1
+iudicium_1.2.2.2,IUDICIUM-1,II.B.2,3,True,"kolegium sędziowskie, trybunał",iudicum collegium,keep,,,,,,,,,,iudicium_1.2.2.2,,iudicium_1.2.2.2
+iudicium_1.2.2.2.1,IUDICIUM-1,II.B.2.a,4,False,,,exclude,,,,,,prp.,,formulas simili sensu,,iudicium_1.2.2.2,,
+iudicium_1.2.2.2.2,IUDICIUM-1,II.B.2.b,4,False,,,exclude,,,,,,,ad (in) iudicium venire causa,iuncturas verbales (interdum de ipsa,,iudicium_1.2.2.2,,
+iudicium_1.2.2.3,IUDICIUM-1,II.B.3,3,True,opłata składana w sądzie,pecunia quae iudici solvebatur,keep,,,,,,,iudicium in poenis,,,iudicium_1.2.2.3,,iudicium_1.2.2.3
+iudicium_1.3,IUDICIUM-1,III,1,True,,,exclude,,,,,,,,,eccl.,iudicium_1.3,,
+iudicium_1.3.1,IUDICIUM-1,III.1,2,True,sąd ostateczny,Dei tribunal supremum,keep,,,,,,,ultimum (magnum) Dei,,,iudicium_1.3.1,,iudicium_1.3.1
+iudicium_1.3.2,IUDICIUM-1,III.2,2,True,spowiedź,peccatorum confessio,keep,,,,,,,paenitentiale animae,,,iudicium_1.3.2,,iudicium_1.3.2
+iudicium_1.4,IUDICIUM-1,IV,1,True,sprawiedliwość,iustitia. Praec. in locut,keep,,singulare,,,,,1,,,iudicium_1.4,,iudicium_1.4
+iudicium_1.4.1,IUDICIUM-1,IV.α,2,False,,,exclude,,,,,,,,"(e Ps. 145,7 et passim",,iudicium_1.4,,
+iudicium_1.4.2,IUDICIUM-1,IV.β,2,True,sprawiedliwie,iure,exclude,,,,,,adv.,in iustitia et iudicio,,,iudicium_1.4.2,,
+iudicium_1.4.3,IUDICIUM-1,IV.2,2,True,prawo,ius,keep,,,,,,,,,,iudicium_1.4.3,,iudicium_1.4.3
+iurisdictio.1,IURISDICTIO,I,1,False,,,exclude,,,,,,,,,,,,
+iurisdictio.1.1,IURISDICTIO,I.A,2,True,"jurysdykcja, władza sądownicza, sądownictwo","ius, iudicium, forum",keep,,propr.,,,,,,,,iurisdictio.1.1,,iurisdictio.1.1
+iurisdictio.1.1.1,IURISDICTIO,I.A.1,3,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.1.1.1,IURISDICTIO,I.A.1.a,4,False,,,exclude,,,,,,adi.,,"addito gr. et saepius), et",,iurisdictio.1.1,,
+iurisdictio.1.1.1.2,IURISDICTIO,I.A.1.b,4,False,,,exclude,,,,,,gen.,,"addito gr. ),",,iurisdictio.1.1,,
+iurisdictio.1.1.2,IURISDICTIO,I.A.2,3,False,,,exclude,,,,,,,,glossae,,iurisdictio.1.1,,
+iurisdictio.1.1.3,IURISDICTIO,I.A.3,3,False,,,exclude,,,,,,,,et iuxta posita,,iurisdictio.1.1,,
+iurisdictio.1.1.4,IURISDICTIO,I.A.4,3,False,,,exclude,,,,,,,,iuncturae verbales sollemniores,,iurisdictio.1.1,,
+iurisdictio.1.1.4.1,IURISDICTIO,I.A.4.a,4,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.1.4.2,IURISDICTIO,I.A.4.b,4,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.1.4.3,IURISDICTIO,I.A.4.c,4,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.1.4.4,IURISDICTIO,I.A.4.d,4,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.1.5,IURISDICTIO,I.A.5,3,True,"uzasadnić fakt, te ktoś podlega danej jurysdykcji",aliquem iuri cuidam subiectum probare,exclude,,,,,,,iurisdictionem fundare approbare iurisdictionis approbatio (fundatio),,,iurisdictio.1.1.5,,
+iurisdictio.1.1.5.1,IURISDICTIO,I.A.5.β,4,False,,,exclude,,,,,,,iurisdictionem impugnare,sensu opposito,,iurisdictio.1.1.5,,
+iurisdictio.1.1.5.2,IURISDICTIO,I.A.5.γ,4,True,oddać kogoś pod czyjąś władzę,alicuius iuri atque potestati subdere,exclude,,,,,,,aliquem de alicuius iurisdictione dare,,,iurisdictio.1.1.5.2,,
+iurisdictio.1.1.5.3,IURISDICTIO,I.A.5.δ,4,True,dokument stwierdzający czyjąś przynależność do jakiegoś sądownictwa,litterae quibus quis alicui iudicio subditus probatur,exclude,,,,,,,littera (privilegium) iurisdictionis,,,iurisdictio.1.1.5.3,,
+iurisdictio.1.1.6,IURISDICTIO,I.A.6,3,False,,,exclude,,,,,,,,,,iurisdictio.1.1,,
+iurisdictio.1.2,IURISDICTIO,I.B,2,True,"okręg sądowy, z którego terenu sprawy szły pod jeden sąd",certa quaedam regio uni iudicio adscripta,keep,,meton.,,,,,,,,iurisdictio.1.2,,iurisdictio.1.2
+iurisdictio.2,IURISDICTIO,II,1,False,,,exclude,,,,,,,,,,,,
+iurisdictio.2.1,IURISDICTIO,II.A,2,False,,,exclude,,,,,,,,,,,,
+iurisdictio.2.1.1,IURISDICTIO,II.A.1,3,True,"wyrok, orzeczenie sądowe",iudicis sententia,keep,,,,,,,,,,iurisdictio.2.1.1,,iurisdictio.2.1.1
+iurisdictio.2.1.2,IURISDICTIO,II.A.2,3,True,"rozprawa sądowa, postępowanie sądowe, rozpatrywanie sprawy przez sąd",causae cognitio atque iudicatio,keep,,,,,,,,,,iurisdictio.2.1.2,,iurisdictio.2.1.2
+iurisdictio.2.1.2.1,IURISDICTIO,II.A.2.α,4,True,występować przed sądem w charakterze powoda,coram iudicio actorem adesse,exclude,,,,,,,"iurisdictionem agere, attemptare",,,iurisdictio.2.1.2.1,,
+iurisdictio.2.1.2.2,IURISDICTIO,II.A.2.β,4,True,strona pozwana do sądu,"pars rea, in ius vocata",exclude,,,,,,,pars iurisdictionem patiens,,,iurisdictio.2.1.2.2,,
+iurisdictio.2.1.2.3,IURISDICTIO,II.A.2.γ,4,True,zasiadać w składzie sądu,"in iudicio sedere, iudicem esse",exclude,,,,,,,circa iurisdictionem sedere siedzieć na prawie),,,iurisdictio.2.1.2.3,,
+iurisdictio.2.2,IURISDICTIO,II.B,2,True,"uprawnienie, prawo do czegoś","ius, potestas, copia",keep,,,,,,gen. abl. abl.,ius propinquitas ad in super,,,iurisdictio.2.2,,iurisdictio.2.2
+iurisdictio.2.3,IURISDICTIO,II.C,2,True,prawomocność,vis legitima,keep,,singulare,,,,,,,,iurisdictio.2.3,,iurisdictio.2.3
+lex.1,LEX,I,1,False,,,exclude,,,,,,,,,,,,
+lex.1.1,LEX,I.A,2,True,"prawo, przepis, (stąd pl.) zbiór przepisów prawnych, system prawny, prawodawstwo","constitutio, praeceptum, pl. praeceptorum, quae valent, corpus",keep,,,,,,pl. pl. gen.,animata νόμος ἒμψυχος) Th. a. b. de,,,lex.1.1,,lex.1.1
+lex.1.1.1,LEX,I.A.α,3,False,,,exclude,,,,,,,,et vulgo et vulgo positiva ( JAC. PAR. RefEccl p. 139 et saepius).,,lex.1.1,,
+lex.1.1.2,LEX,I.A.β,3,False,,,exclude,,,,,,,,,,lex.1.1,,
+lex.1.1.3,LEX,I.A.γ,3,False,,,exclude,,,,,,,,,,lex.1.1,,
+lex.1.1.4,LEX,I.A.δ,3,False,,,exclude,,,,,,,,,,lex.1.1,,
+lex.1.1.5,LEX,I.A.ε,3,False,,,exclude,,,,,,,imperialis prophana:,,,lex.1.1,,
+lex.1.1.6,LEX,I.A.ζ,3,False,,,exclude,,,,,,,,porro i. feudalis,,lex.1.1,,
+lex.1.2,LEX,I.B,2,False,,,exclude,,,,,,,,,,,,
+lex.1.2.1,LEX,I.B.1,3,True,"prawo, nauka prawa",legum doctrina (scientia),keep,,pl.,,,,pl.,,,,lex.1.2.1,,lex.1.2.1
+lex.1.2.2,LEX,I.B.2,3,False,,,qualifier,,,,,,,,,eccl.,,,
+lex.1.2.2.1,LEX,I.B.2.a,4,True,"nauka (przykazanie) zawarte w Piśmie świętym, (także samo) Pismo święte","doctrina (praecepta) quae in Scriptura Sacra continentur, (inde) Scriptura ipsa",keep,,,,,,abs.,nova evangelica: Christi gratiae et vetus Mosaica,,,lex.1.2.2.1,,lex.1.2.2.1
+lex.1.2.2.2,LEX,I.B.2.b,4,True,wiara (religia) chrześcijańska,fides Christiana,keep,,,,,,abs.,sacra,,,lex.1.2.2.2,,lex.1.2.2.2
+lex.1.2.2.3,LEX,I.B.2.c,4,True,reguła zakonna,monachorum vitae regula,keep,,,,,,,monastica,,,lex.1.2.2.3,,lex.1.2.2.3
+lex.1.2.2.3.1,LEX,I.B.2.c.α,5,False,,,exclude,,,,,,inf.,,", item aliquem arguit",,lex.1.2.2.3,,
+lex.1.2.2.3.2,LEX,I.B.2.c.β,5,False,,,exclude,,,,,,,,"sim.; porro fingere (alicui ib. p. 274 ) , imponere (rebus suis: AGZ III p. 36, a. 1366 ; sq. vel",,lex.1.2.2.3,,
+lex.1.2.2.3.3,LEX,I.B.2.c.γ,5,False,,,exclude,,,,,,,,,,lex.1.2.2.3,,
+lex.1.2.2.3.4,LEX,I.B.2.c.δ,5,False,,,exclude,,,,,,,,porro Adverbiales,,lex.1.2.2.3,,
+lex.1.2.2.3.5,LEX,I.B.2.c.α,5,False,,,exclude,,,,,,,,i. q. legitime; simili sensu (i. legis auctoritate) gr.,,lex.1.2.2.3,,
+lex.2,LEX,II,1,False,,,exclude,,,,,,,,,,,,
+lex.2.1,LEX,II.A,2,True,"prawo, zasada, reguła, prawidło","norma, regula, condicio",keep,,,,,,,,,,lex.2.1,,lex.2.1
+lex.2.1.1,LEX,II.A.1,3,False,,,qualifier,,,,,,,,et,gram. rhet. mus. phil.,lex.2.1,,
+lex.2.1.2,LEX,II.A.2,3,False,,,exclude,,,,,,,,,,lex.2.1,,
+lex.2.1.2.1,LEX,II.A.2.a,4,False,,,exclude,,,,,,,,,,lex.2.1,,
+lex.2.1.2.2,LEX,II.A.2.b,4,False,,,exclude,,,,,,,,,,lex.2.1,,
+lex.2.2,LEX,II.B,2,False,,,exclude,,,,,,,,,,,,
+lex.2.2.1,LEX,II.B.1,3,True,"ład, porządek",ordo,keep,,,,,,,,,,lex.2.2.1,,lex.2.2.1
+lex.2.2.2,LEX,II.B.2,3,True,"właściwość, przymiot","proprietas, v. gr. carnis sim., membrorum",keep,,,,,,,,,,lex.2.2.2,,lex.2.2.2
+lex.2.3,LEX,II.C,2,False,,,exclude,,,,,,,,,,,,
+lex.2.3.1,LEX,II.C.1,3,True,"układ, umowa, zobowiązanie, warunek","pactum, condicio",keep,,,,,,enunt. adv.,,,,lex.2.3.1,,lex.2.3.1
+lex.2.3.2,LEX,II.C.2,3,True,ślub,votum,keep,,,,,,,,,,lex.2.3.2,,lex.2.3.2
+lex.3,LEX,III,1,True,"prawo, uprawnienie do czegoś (określone normą prawną)","facultas (potestas, copia) lege definita",keep,,,,,,,,,,lex.3,,lex.3
+lex.4,LEX,IV,1,True,"władza, rozkaz, dowództwo",imperium,keep,,,,,,,,,,lex.4,,lex.4
+libertas.1,LIBERTAS,I,1,False,,,exclude,,,,,,,,,,,,
+libertas.1.1,LIBERTAS,I.A,2,True,"wolność, swoboda, niezależność, niezawisłość, suwerenność","alicuius (rei) status liber, ius suum",keep,,,,,,,ad,,,libertas.1.1,,libertas.1.1
+libertas.1.2,LIBERTAS,I.B,2,True,"wolność, (prawie tyle co) imunitet, przywilej, (czasowe) zwolnienie od ciężarów, tzw. wolnizna","immunitas, praec. privilegium, quo quis a muneribus, tributis sim. solvendis ad tempus liberabatur",keep,,,imunitet; immunitas,,,,libertas donationis donatio libertatis,,,libertas.1.2,,libertas.1.2
+libertas.1.2.1,LIBERTAS,I.B.1,3,False,,,exclude,,,,,,,ecclesiastica Ecclesiae,,,libertas.1.2,,
+libertas.1.2.2,LIBERTAS,I.B.2,3,False,,,exclude,,,,,,,militaris:,,,libertas.1.2,,
+libertas.1.2.3,LIBERTAS,I.B.3,3,False,,,exclude,,,,,,,Theutonica,,,libertas.1.2,,
+libertas.1.2.4,LIBERTAS,I.B.4,3,True,"wolność targu (częściowa, rzadziej zupełna) od ciężarów prawa książęcego","immunitas, liberatio nundinarum ab (aliquibus, raro ab omnibus) muneribus iuris ducalis",keep,,,,,,,fori,,,libertas.1.2.4,,libertas.1.2.4
+libertas.1.2.4.1,LIBERTAS,I.B.4.α,4,False,,,exclude,,,,,,,anni libertatis:,anni libertatis: DokMp I p. 344 (a. 1407) : in annis 1-is quilibet cmeto ... super festum s. Martini ... unum grossum ... plebano ... tribuat. KsgRWar p. 256 (a. 1510) : a quo ... molendino ... Stanislao dederunt ... duos annos 1-is. Cf. LIBERALES anni,,libertas.1.2.4,,
+libertas.1.2.4.2,LIBERTAS,I.B.4.β,4,False,,,exclude,,,,,,,,"villam libertati condonare ( KodMaz(K) p. 349, a. 1231) ; sub libertate conferre ( KodMp II p. 241, a. 1318 et saepius",,libertas.1.2.4,,
+libertas.1.2.4.3,LIBERTAS,I.B.4.γ,4,False,,,exclude,,,,,,,,et passim,,libertas.1.2.4,,
+libertas.1.3,LIBERTAS,I.C,2,False,,,qualifier,,,,,,,,meton.,,,,
+libertas.1.3.1,LIBERTAS,I.C.1,3,True,"tzw. wolne, tj. łany i posiadłości wolne od czynszu i świadczeń na rzecz dworu, które stanowiły pierwotnie integralną część posagu wójtów i sołtysów przy zakładaniu lub przenoszeniu wsi i miast na prawo niemieckie","agri a muneribus tributis sim. domino praestandis immunes, qui scultetis proprii dabantur, cum vici et oppida iure Theutonico conderentur",keep,,,,,,,,,,libertas.1.3.1,,libertas.1.3.1
+libertas.1.3.2,LIBERTAS,I.C.2,3,True,"wola (lgota, wolica), osada zwolniona na pewien czas od chwili założenia z płacenia czynszów i danin","vicus, qui annos aliquot postquam conditus est, tributis vectigalibus sim. levabatur (saepe fere i q. nomen proprium)",keep,,,nomen proprium),,,,.,,,libertas.1.3.2,,libertas.1.3.2
+libertas.1.3.2.1,LIBERTAS,I.C.2.α,4,False,,,qualifier,,,,,,,,addito nomine proprio: et,,libertas.1.3.2,,
+libertas.1.3.2.2,LIBERTAS,I.C.2.β,4,False,,,exclude,,,,,,gen.,,addito,,libertas.1.3.2,,
+libertas.1.3.2.3,LIBERTAS,I.C.2.γ,4,False,,,exclude,,,,,,adi.,,addito,,libertas.1.3.2,,
+libertas.2,LIBERTAS,II,1,False,,,exclude,,,,,,,,,,,,
+libertas.2.1,LIBERTAS,II.A,2,True,"wolność, swoboda działania","licentia, arbitrium, voluntas",keep,,,,,,,,,,libertas.2.1,,libertas.2.1
+libertas.2.1.1,LIBERTAS,II.A.α,3,True,"zgodnie z czyjąś wolą, wedle życzenia",ad voluntatem,exclude,,,,,,,iuxta libertatem,,,libertas.2.1.1,,
+libertas.2.1.2,LIBERTAS,II.A.β,3,True,coś komuś wolno robić,alicui licere,exclude,,,,,,,aliquid in libertate habere,,,libertas.2.1.2,,
+libertas.2.2,LIBERTAS,II.B,2,True,"swoboda, wolna ręka, możność, możliwość, uprawnienie, prawo","ius atque facultas alicui data, venia, licentia, potestas",keep,,,,,,,libera licita (,,,libertas.2.2,,libertas.2.2
+libertas.2.2.1,LIBERTAS,II.B.α,3,True,"tzw. lecieństwo, prawo użytkowania i wyrębu lasu na domowy użytek",ius lignandi in silva ad usus domesticos alicui concessum,keep,,,,,,,"nemorum, silvarum caesurae lignorum",,,libertas.2.2.1,,libertas.2.2.1
+libertas.2.2.2,LIBERTAS,II.B.β,3,True,"prawo użytkowania pastwisk, polowania itp.","ius pecora pascendi, feras venandi sim.",keep,,sim.,,,,,"pascuum, venationum",,,libertas.2.2.2,,libertas.2.2.2
+libertas.3,LIBERTAS,III,1,False,,,qualifier,,,,,,,,t. t.,iur.,,,
+libertas.3.1,LIBERTAS,III.1,2,True,uwolnienie w sądzie od zarzutów lub od pretensji osób trzecich,"iustificatio, criminis illati purgatio coram iudice facta, ab aere alieno et cuiusvis vindiciis liberatio",keep,,,,,,,alicuius,,,libertas.3.1,,libertas.3.1
+libertas.3.2,LIBERTAS,III.2,2,True,"wykupienie dóbr z długów, uwolnienie (wolność) dóbr od pretensji osób trzecich","actus et effectus bona obligationibus redimendi, a cuiusvis vindiciis liberandi",keep,,,,,,,alicuius rei,,,libertas.3.2,,libertas.3.2
+libertas.4,LIBERTAS,IV,1,True,"hojność, łaska","liberalitas, munificentia (cf. Th. VII 2,1318,70 sqq.)",keep,,,liberalitas,,,,,,,libertas.4,,libertas.4
+magistratus.1,MAGISTRATUS,I,1,False,,,exclude,,,,,,,,,,,,
+magistratus.1.1,MAGISTRATUS,I.1,2,True,"urząd, godność",officium seu munus (praec. in re publica administranda constitutum). Praec,keep,,,,,,abs.,caeremoniarum coquinae montium venatorius,,,magistratus.1.1,,magistratus.1.1
+magistratus.1.2,MAGISTRATUS,I.2,2,False,,,exclude,,,,,,,,,,,,
+magistratus.1.2.1,MAGISTRATUS,I.2.a,3,True,godność scholastyka kapitulnego i związane z nią beneficjum,scholastici capitularis dignitas ac beneficium,keep,,,,,,,,,,magistratus.1.2.1,,magistratus.1.2.1
+magistratus.1.2.2,MAGISTRATUS,I.2.b,3,True,"godność przełożonego klasztoru, wielkiego mistrza krzyżackiego","monasterio praepositi, etiam Cruciferorum magistri generalis dignitas et officium",keep,,,,,,,,,,magistratus.1.2.2,,magistratus.1.2.2
+magistratus.1.3,MAGISTRATUS,I.3,2,True,"magistrat, władze miejskie",urbis consulum collegium,keep,,,,,,,,,,magistratus.1.3,,magistratus.1.3
+magistratus.2,MAGISTRATUS,II,1,True,"urzędnik (zwł. wyższy), człowiek piastujący jakiś urząd, zwierzchnik, przełożony","de homine, qui in aliquo munere rebus publicis praeest, praepositus, praefectus",keep,,,,,,,,,,magistratus.2,,magistratus.2
+maiestas.1,MAIESTAS,I,1,True,"majestat, dostojeństwo, wielkość, powaga, potęga, moc","magnitudo, amplitudo, sublimitas, dignitas, auctoritas",keep,,propr.,,,,,,,,maiestas.1,,maiestas.1
+maiestas.1.1,MAIESTAS,I.A,2,True,władców,"principum, v. gr.",exclude,,,,,,pron.,,,,maiestas.1.1,,
+maiestas.1.2,MAIESTAS,I.B,2,True,"obraza majestatu, przestępstwo naruszenia czci panującego",regis (ducis sim.) honor violatus. Occ,exclude,unknown: in locut,sim.,,,occ.,,"(laesae) maiestatis (crimen, scelus, actio, iudicium, reus",,iur.,maiestas.1.2,,
+maiestas.1.3,MAIESTAS,I.C,2,True,,,qualifier,unknown: de rebus concr,meton.,,,,,,,,maiestas.1.3,,
+maiestas.1.3.1,MAIESTAS,I.C.1,3,True,"pieczęć majestatyczna, na której wyobrażony jest władca z insygniami władzy","sigillum, cui principis imago cum principatus insignibus impressa est",keep,,,,,,,sigillum maiestatis (maiestas) sigillum maius mediocre,,,maiestas.1.3.1,,maiestas.1.3.1
+maiestas.1.3.2,MAIESTAS,I.C.2,3,True,"tron, wzniesienie","solium, locus editus",keep,,,,,,,maiestatis sedes (maiestas) in maiestate regni succedere,,,maiestas.1.3.2,,maiestas.1.3.2
+maiestas.1.3.3,MAIESTAS,I.C.3,3,True,"wizerunek, obraz (Boga)","imago, pictura (Dei)",keep,,,,,,,,,,maiestas.1.3.3,,maiestas.1.3.3
+maiestas.2,MAIESTAS,II,1,True,"cześć, chwała, uwielbienie","gloria, laus",keep,,transl.,,,,,,,,maiestas.2,,maiestas.2
+miles.1,MILES,I,1,False,,,exclude,,,,,,,,,,,,
+miles.1.1,MILES,I.A,2,True,"żołnierz, wojownik, rycerz",vir armatus in exercitu merens,keep,,,,,,subi.,caligatus collecticius lancearius levis armaturae continuus maritimus curialis praesidiarius aere conductus mercennarius conductus pecuniarius electus secundi ordinis,,,miles.1.1,,miles.1.1
+miles.1.2,MILES,I.B,2,False,,,exclude,,,,,,,,,,,,
+miles.1.2.1,MILES,I.B.1,3,True,"wasal, lennik","vasallus (cf. s. v.), i. qui iure feodali ad praecipuam fidelitatem et obsequium domino suo praestanda obligabatur",keep,,,vasallus,,,,,,,miles.1.2.1,,miles.1.2.1
+miles.1.2.2,MILES,I.B.2,3,True,osoba należąca do stanu rycerskiego (szlacheckiego),,keep,,,,,,,famosus strenuus validus,,,miles.1.2.2,,miles.1.2.2
+miles.1.2.3,MILES,I.B.3,3,True,"włodyka, tj. członek grupy społecznej zajmującej pośrednie stanowisko między wyższą szlachtą a nieszlacheckimi warstwami ludności (często bez herbu i zawołania)",,keep,,,,,,,communis,,,miles.1.2.3,,miles.1.2.3
+miles.1.2.3.1,MILES,I.B.3.a,4,False,,,exclude,,,,,,gen.,,,,miles.1.2.3,,
+miles.1.2.3.2,MILES,I.B.3.b,4,False,,,exclude,,,,,,,,,,miles.1.2.3,,
+miles.1.2.3.2.1,MILES,I.B.3.b.α,5,False,,,exclude,,,,,,,,,,miles.1.2.3,,
+miles.1.2.3.2.2,MILES,I.B.3.b.β,5,False,,,exclude,,,,,,,,indicato insigni,,miles.1.2.3,,
+miles.1.2.3.3,MILES,I.B.3.c,4,False,,,exclude,,,,,,,,,,miles.1.2.3,,
+miles.2,MILES,II,1,False,,,qualifier,,,,,,,,et in imagine,,,,
+miles.2.1,MILES,II.1,2,True,"wojownik, bojownik (tj. święty, zwł. męczennik)","sanctus, praec. martyr. Item: członek zakonu rycerskiego; ordinis religiosorum contra infideles pugnantium socius",keep,,,,,,abs.,"Christi, Dei",,eccl.,miles.2.1,,miles.2.1
+miles.2.2,MILES,II.2,2,True,"człowiek uczony, (tu) profesor uniwersytetu krakowskiego","vir doctus, (hic) universitatis Cracoviensis professor",keep,,,,,,,litterarum,,,miles.2.2,,miles.2.2
+militia.1,MILITIA,I,1,False,,,exclude,,,,,,,,,,,,
+militia.1.1,MILITIA,I.A,2,False,,,exclude,,,,,,,,,,,,
+militia.1.1.1,MILITIA,I.A.1,3,False,,,exclude,,,,,,,,,,,,
+militia.1.1.1.1,MILITIA,I.A.1.a,4,True,służba wojskowa,munus militare stipendia faciendi,keep,,,,,,,,,,militia.1.1.1.1,,militia.1.1.1.1
+militia.1.1.1.2,MILITIA,I.A.1.b,4,True,"wyprawa wojenna, wojna, walka, bitwa","expeditio militaris, bellum, pugna",keep,,,,,,,sacra,,,militia.1.1.1.2,,militia.1.1.1.2
+militia.1.1.1.2.1,MILITIA,I.A.1.b.α,5,False,,,exclude,,,,,,,,"verbales, gr. służyć wojskowo; item (saepe) wyruszać na wojnę.",,militia.1.1.1.2,,
+militia.1.1.1.2.2,MILITIA,I.A.1.b.β,5,False,,,exclude,,,,,,adv.,,(saepe) w czas pokoju i wojny; item z wojska (i) wojny,,militia.1.1.1.2,,
+militia.1.1.1.3,MILITIA,I.A.1.c,4,True,"dyscyplina, karność wojskowa, dzielność, męstwo","disciplina militaris, fortitudo, virtus",keep,,,,,,,,,,militia.1.1.1.3,,militia.1.1.1.3
+militia.1.1.2,MILITIA,I.A.2,3,False,,,exclude,,,,,,,,,,,,
+militia.1.1.2.1,MILITIA,I.A.2.a,4,True,"wojsko, rycerstwo, żołnierze","exercitus, militum copiae",keep,,,,,,,,,,militia.1.1.2.1,,militia.1.1.2.1
+militia.1.1.2.1.1,MILITIA,I.A.2.a.α,5,False,,,exclude,,,,,,gen.,,,,militia.1.1.2.1,,
+militia.1.1.2.1.2,MILITIA,I.A.2.a.β,5,False,,,exclude,,,,,,gen.,baronum:,Occurrit etiam,,militia.1.1.2.1,,
+militia.1.1.2.2,MILITIA,I.A.2.b,4,True,"rycerstwo zakonne, zakon rycerski",fratres ordinum contra infideles militantium,keep,,,,,,,,,eccl.,militia.1.1.2.2,,militia.1.1.2.2
+militia.1.1.2.2.1,MILITIA,I.A.2.b.α,5,True,Krzyżacy,fratres ordinis BVMariae Theutonicorum,exclude,,,,,,,,,,militia.1.1.2.2.1,,
+militia.1.1.2.2.2,MILITIA,I.A.2.b.β,5,True,templariusze,ordo Templariorum,exclude,,,,,,,Templi,,,militia.1.1.2.2.2,,
+militia.1.2,MILITIA,I.B,2,False,,,exclude,,,,,,,,,,,,
+militia.1.2.1,MILITIA,I.B.1,3,True,"służba, praca, zajęcie",clericorum ordo,keep,,,,,,abs.,"artis Christi, Christiana Christi militiam assumere arma Christianae militiae militia clericalis",,,militia.1.2.1,,militia.1.2.1
+militia.1.2.2,MILITIA,I.B.2,3,True,"walka, wojowanie, zmaganie się (zwł. o życiu chrześcijanina na ziemi)","labor, dimicatio (praec. de vita Christianorum in hoc mundo)",keep,,,,,,,,,,militia.1.2.2,,militia.1.2.2
+militia.2,MILITIA,II,1,False,,,exclude,,,,,,,,,,,,
+militia.2.1,MILITIA,II.A,2,False,,,exclude,,,,,,,,,,,,
+militia.2.1.1,MILITIA,II.A.1,3,True,zależność lenna rycerza od suwerena,"condicio vasalli (cf. s.v.), i. eius, qui se ad fidem domino feodali praestandam obligavit",keep,,,vasalli,,,,,,,militia.2.1.1,,militia.2.1.1
+militia.2.1.2,MILITIA,II.A.2,3,False,,,exclude,,,,,,,,,,,,
+militia.2.1.2.1,MILITIA,II.A.2.a,4,True,przy należność do stanu (rodu) rycerskiego (szlacheckiego),"generis nobilitas, condicio eius, qui ad ordinem equestrem pertinet",keep,,,,,,,,,,militia.2.1.2.1,,militia.2.1.2.1
+militia.2.1.2.2,MILITIA,II.A.2.b,4,True,włodyctwo,condicio nobilis minorum gentium,keep,,,,,,,militiae medietas B 2),,,militia.2.1.2.2,,militia.2.1.2.2
+militia.2.1.2.2.1,MILITIA,II.A.2.b.α,5,False,,,exclude,,,,,,,,nominales,,militia.2.1.2.2,,
+militia.2.1.2.2.2,MILITIA,II.A.2.b.β,5,False,,,exclude,,,,,,,,verbales et,,militia.2.1.2.2,,
+militia.2.2,MILITIA,II.B,2,False,,,exclude,,,,,,,,,,,,
+militia.2.2.1,MILITIA,II.B.1,3,True,"rycerstwo, stan szlachecki",ordo equestris vel nobilium,keep,,,,,,,,,,militia.2.2.1,,militia.2.2.1
+militia.2.2.2,MILITIA,II.B.2,3,True,rycerstwo włodycze,ordo nobilium minorum gentium,keep,,,,,,,simplex,,,militia.2.2.2,,militia.2.2.2
+militia.2.2.3,MILITIA,II.B.3,3,True,"zastęp, orszak (świętych,aniołów itp.)","caterva, chorus (sanctorum, angelorum sim.).",keep,,,,,,abs.,"caeli, caelestis",,eccl.,militia.2.2.3,,militia.2.2.3
+militia.2.3,MILITIA,II.C,2,False,,,exclude,,,,,,,,singularia,,,,
+militia.2.3.1,MILITIA,II.C.1,3,True,odznaka rycerska,insigne militare,keep,,,,,,,,,,militia.2.3.1,,militia.2.3.1
+militia.2.3.2,MILITIA,II.C.2,3,True,turniej rycerski,"equitum nobilium certamen, ludus",keep,,,,,,,,,,militia.2.3.2,,militia.2.3.2
+natio.1,NATIO,I,1,False,,,exclude,,,,,,,,,,,,
+natio.1.1,NATIO,I.1,2,True,"naród, lud, narodowość","populus, geris, nomen",keep,,,,,,,,,,natio.1.1,,natio.1.1
+natio.1.2,NATIO,I.2,2,True,ród szlachecki,gens nobilium,keep,,,,,,,,,,natio.1.2,,natio.1.2
+natio.1.3,NATIO,I.3,2,True,rodem skądś,aliquo loco oriundus,keep,,,aliquo loco oriundus,,,,natione rusticus natione de aliquo loco rodem ex natione paterna,,,natio.1.3,,natio.1.3
+natio.2,NATIO,II,1,True,pokolenie,generatio,keep,,,,,,,,,,natio.2,,natio.2
+nobilis.1,NOBILIS,I,1,False,,,exclude,,,,,,adi.,,,,,,
+nobilis.1.1,NOBILIS,I.A,2,False,,,exclude,,,,,,,,de hominibus,,,,
+nobilis.1.1.1,NOBILIS,I.A.1,3,True,"znakomity, sławny, znany","insignis, excellens, famosus",keep,,,,,,,,,,nobilis.1.1.1,,nobilis.1.1.1
+nobilis.1.1.2,NOBILIS,I.A.2,3,True,"szlachetny, zacny, godny","generosus, spectandus, honestus",keep,,,,,,,"veraciter (ab, ex) nobilitate parentum a parentibus famosus generosus honorabilis magnificus spectabilis strenuus",,phil.,nobilis.1.1.2,,nobilis.1.1.2
+nobilis.1.2,NOBILIS,I.B,2,False,,,exclude,,,,,,,,de rebus,,,,
+nobilis.1.2.1,NOBILIS,I.B.1,3,True,"szlachetny, wyborny, delikatny","non vilis, bonus, delicatus",keep,,,,,,,,,,nobilis.1.2.1,,nobilis.1.2.1
+nobilis.1.2.2,NOBILIS,I.B.2,3,True,"okazały, piękny","splendidus, pulcher,",keep,,,,,,,,,,nobilis.1.2.2,,nobilis.1.2.2
+nobilis.1.2.3,NOBILIS,I.B.3,3,True,"znaczny, wielki","magnus, amplus, gravis Pol",keep,unknown: reddi videtur,,,,,,zacny,,,nobilis.1.2.3,,nobilis.1.2.3
+nobilis.1.2.4,NOBILIS,I.B.4,3,True,"szlachetny, doskonały","perfectus,",keep,,,,,,,,,,nobilis.1.2.4,,nobilis.1.2.4
+nobilis.1.3,NOBILIS,I.C,2,False,,,qualifier,,,,,,,,,iur.,,,
+nobilis.1.3.1,NOBILIS,I.C.1,3,True,,,keep,"unknown: szlachetnie urodzony, szlacheckiego pochodzenia: bene natus, generosus",,,,,,nobili genere,,,nobilis.1.3.1,,nobilis.1.3.1
+nobilis.1.3.2,NOBILIS,I.C.2,3,True,"szlachecki,właściwy (przysługujący) szlachcicowi","qui ad hominem generosum pertinet, bene natorum proprius",keep,unknown: i. viri nobilis,,,,,,vulnus captivatio,,,nobilis.1.3.2,,nobilis.1.3.2
+nobilis.2,NOBILIS,II,1,False,,,exclude,,,,,,,,,,,,
+nobilis.2.1,NOBILIS,II.1,2,True,szlachcic,"homo generosus, bene natus",keep,,,,,,f. gen.,non perfectus communis medius ( clenodii alicuius,,,nobilis.2.1,,nobilis.2.1
+nobilis.2.2,NOBILIS,II.2,2,True,"nobel, złoty dukat angielski",nummus aureus Britannicus,keep,,,,,,,,,,nobilis.2.2,,nobilis.2.2
+nobilitas.1,NOBILITAS,I,1,False,,,exclude,,,,,,,,,,,,
+nobilitas.1.1,NOBILITAS,I.1,2,True,"szlachetność, dostojność, znakomitość","generositas, ingenuitas, excellentia",keep,,propr.,,,,,,,,nobilitas.1.1,,nobilitas.1.1
+nobilitas.1.1.1,NOBILITAS,I.1.a,3,False,,,qualifier,,,,,,,,"(refertur ad homines). ),",phil.,nobilitas.1.1,,
+nobilitas.1.1.2,NOBILITAS,I.1.b,3,False,,,exclude,,,,,,,,"(refertur ad res), gr. cett.",,nobilitas.1.1,,
+nobilitas.1.2,NOBILITAS,I.2,2,True,to co szlachetne,id quod nobile est,keep,,meton.,,,,,,,phil.,nobilitas.1.2,,nobilitas.1.2
+nobilitas.2,NOBILITAS,II,1,False,,,exclude,,,,,,,,,,,,
+nobilitas.2.1,NOBILITAS,II.1,2,True,"szlachectwo, pochodzenie szlacheckie, przynależność do stanu szlacheckiego","generositas, hominis nobilis (cf. s. v. II 1) condicio",keep,,propr.,cf. s.v. II 1,,,,"ignobilitas nobilitatis genus gradus honor ius status et condicio vena generosa suprema nobilitatis aliquem ad gradum nobilitatis attollere nobilitate afferre in nobilitatem conicere nobilitatem alicuius infamare nobilitatem suam honorem nobilitatis) (ap)probare (com-, ex-)purgare demonstrare expiare indicare ostendere testes pro nobilitate ducere circa nobilitatem remanere",,iur.,nobilitas.2.1,,nobilitas.2.1
+nobilitas.2.2,NOBILITAS,II.2,2,True,"szlachta, ogół ludzi należących do stanu szlacheckiego",nobilium universitas,keep,,meton.,,,,gen. pl.,primaria pauper,,,nobilitas.2.2,,nobilitas.2.2
+officium.1,OFFICIUM,I,1,False,,,exclude,,,,,,,,,,,,
+officium.1.1,OFFICIUM,I.A,2,False,,,exclude,,,,,,,,,,,,
+officium.1.1.1,OFFICIUM,I.A.1,3,True,"obowiązek moralny, powinność","debitum, munus",keep,,,,,,inf.,naturale vitae (curae et) officii alicuius est interest,,,officium.1.1.1,,officium.1.1.1
+officium.1.1.2,OFFICIUM,I.A.2,3,True,"czynności wynikające z obowiązku, służba","ministerium debitum, servitium",keep,,,,,,,caelestis regis,,,officium.1.1.2,,officium.1.1.2
+officium.1.1.2.1,OFFICIUM,I.A.2.α,4,True,służebności feudalne,coloni iure feodali ad certa quaedam opera perficienda obligati munus atque condicio,keep,,,,,,,,,,officium.1.1.2.1,,officium.1.1.2.1
+officium.1.1.2.2,OFFICIUM,I.A.2.β,4,True,współżycie małżeńskie,concubitus (saec. XV),keep,,,,,,,,,,officium.1.1.2.2,,officium.1.1.2.2
+officium.1.1.3,OFFICIUM,I.A.3,3,True,"posłuszeństwo, podległość","oboedientia, subiectio (saec. XV)",keep,,,,,,,,,,officium.1.1.3,,officium.1.1.3
+officium.1.2,OFFICIUM,I.B,2,False,,,qualifier,,,,,,,,meton.,,,,
+officium.1.2.1,OFFICIUM,I.B.1,3,True,list (lub utwór komuś dedykowany),litterae (vel liber ad aliquem missus),keep,,,,,,,,,,officium.1.2.1,,officium.1.2.1
+officium.1.2.2,OFFICIUM,I.B.2,3,True,danina,tributum,keep,,,,,,,,,,officium.1.2.2,,officium.1.2.2
+officium.1.2.3,OFFICIUM,I.B.3,3,True,"przedmiot składany przez rzemieślników cechowych dla uzyskania tytułu majstra, tzw. sztuka cechowa",opus quo confecto opifex magistri artificum gradum assequebatur,keep,,,,,,,magisterii,,,officium.1.2.3,,officium.1.2.3
+officium.1.3,OFFICIUM,I.C,2,False,,,exclude,,,,,,,,,,,,
+officium.1.3.1,OFFICIUM,I.C.1,3,False,,,exclude,,,,,,abl.,,,,,,
+officium.1.3.1.1,OFFICIUM,I.C.1.a,4,True,z obowiązku,muneris gratia;,exclude,,,,,,,,,,officium.1.3.1.1,,
+officium.1.3.1.2,OFFICIUM,I.C.1.b,4,True,za pomocą (pośrednictwem),ope,exclude,,,,,,,,,,officium.1.3.1.2,,
+officium.1.3.1.3,OFFICIUM,I.C.1.c,4,True,,,exclude,"unknown: z powodu, dziękipropter, gratia",,,,,,,,,officium.1.3.1.3,,
+officium.1.3.2,OFFICIUM,I.C.2,3,True,w celu,in finem,exclude,,,,,,,in officium,,,officium.1.3.2,,
+officium.2,OFFICIUM,II,1,False,,,exclude,,,,,,,,,,,,
+officium.2.1,OFFICIUM,II.A,2,False,,,exclude,,,,,,,,,,,,
+officium.2.1.1,OFFICIUM,II.A.1,3,True,świadectwo prawdy,testimonium,keep,"unknown: działalność, czynność, uczynek actio, occupatio, opus",,testimonium,,,gen. explic. adi.,veritatis,,,officium.2.1.1,,officium.2.1.1
+officium.2.1.1.1,OFFICIUM,II.A.1.b,4,False,,,exclude,,,,,,,,"refertur ad animi affectus vel virtutes, gr. cett.",,officium.2.1.1,,
+officium.2.1.2,OFFICIUM,II.A.2,3,True,"(właściwe) działanie, funkcja","actio debita, facultas",keep,,,,,,,,,,officium.2.1.2,,officium.2.1.2
+officium.2.1.2.1,OFFICIUM,II.A.2.a,4,False,,,exclude,,,,,,,,"refertur ad membra sensusve corporis, v.gr. simili sensu vel IX 2,524,13 sqq.",,officium.2.1.2,,
+officium.2.1.2.2,OFFICIUM,II.A.2.b,4,False,,,exclude,,,,,,,stellam,"refertur ad res, gr. ad IX 2,523,48 sqq.",,officium.2.1.2,,
+officium.2.1.2.2.1,OFFICIUM,II.A.2.b.α,5,True,pismo,scriptum,exclude,,,,,,,"litterarum, scripturae",,,officium.2.1.2.2.1,,
+officium.2.1.2.2.2,OFFICIUM,II.A.2.b.β,5,False,,,exclude,,,,,,,epistolare,i. epistularum condendarum ars et facultas,,officium.2.1.2,,
+officium.2.1.2.2.3,OFFICIUM,II.A.2.b.γ,5,False,,,qualifier,,,,,,,,(refertur ad partes orationis),rhet.,officium.2.1.2,,
+officium.2.1.2.2.4,OFFICIUM,II.A.2.b.δ,5,False,,,exclude,,,,,,,Th.,"et IX 524,51",gram. phil.,officium.2.1.2,,
+officium.2.1.3,OFFICIUM,II.A.3,3,True,"zajęcie, zawód","negotium, professio",keep,,,,,,,,,,officium.2.1.3,,officium.2.1.3
+officium.2.1.3.1,OFFICIUM,II.A.3.a,4,False,,,exclude,,,,,,gen. subi. explic. gen. obi.,cerdonum mercatorum (in nundinis stratoris assassini cusionis monetae laboris circa exercitum mercaturae piscationis rationalitatis orationis et contemplationis molendini navis I,gr. etiam vel gen. gr. etiam gr. (i. gubernatio i. propinatio cett.,,officium.2.1.3,,
+officium.2.1.3.2,OFFICIUM,II.A.3.b,4,False,,,exclude,,,,,,adi.,,gr. v.,,officium.2.1.3,,
+officium.2.2,OFFICIUM,II.B,2,False,,,qualifier,,,,,,,,meton.,,,,
+officium.2.2.1,OFFICIUM,II.B.1,3,True,warsztat,officina,keep,,,,,,,,,,officium.2.2.1,,officium.2.2.1
+officium.2.2.2,OFFICIUM,II.B.2,3,True,budynek gospodarczy,"officina, aedificium rebus domesticis perficiendis aptum",keep,,,,,,,,,,officium.2.2.2,,officium.2.2.2
+officium.3,OFFICIUM,III,1,False,,,exclude,,,,,,,,,,,,
+officium.3.1,OFFICIUM,III.A,2,False,,,exclude,,,,,,,,,,,,
+officium.3.1.1,OFFICIUM,III.A.1,3,True,"urząd, funkcja,godność","munus, dignitas, honor",keep,,,,,,,,,,officium.3.1.1,,officium.3.1.1
+officium.3.1.1.1,OFFICIUM,III.A.1.a,4,False,,,exclude,,,,,,gen.,,,,officium.3.1.1,,
+officium.3.1.1.1.1,OFFICIUM,III.A.1.a.α,5,True,urząd dozorcy w żupie solnej,salis fodinae custodis munus,exclude,,,,,,subi. obi.,salis (fodinae),,,officium.3.1.1.1.1,,
+officium.3.1.1.1.2,OFFICIUM,III.A.1.a.β,5,True,"tzw. szrotowanie, tj. prawo do utrzymywania wozów służących do transportu beczek piwa lub winai pobierania opłaty od ich wypożyczania","ius habendi currus, quibus cervisia vel vinum transportabatur nec non exigendi pecuniam pro eisdem curribus collocandis",exclude,,,,,,explic.,vectionis vasorum,,,officium.3.1.1.1.2,,
+officium.3.1.1.2,OFFICIUM,III.A.1.b,4,True,proces o przestępstwo urzędnicze,quae ad crimen in officio gerendo commissum pertinet,keep,,,,,,adi. adv.,causa officii,,,officium.3.1.1.2,,officium.3.1.1.2
+officium.3.1.1.2.1,OFFICIUM,III.A.1.b.α,5,True,"z urzędu, w sposób urzędowy",publica auctoritate,exclude,,,,,,subst.,ex (cum) officio in officio sub officio per officium (,,,officium.3.1.1.2.1,,
+officium.3.1.1.2.2,OFFICIUM,III.A.1.b.β,5,True,jako osoba prywatna,non publice (saec. XV),exclude,,,,,,,privato officio,,,officium.3.1.1.2.2,,
+officium.3.1.2,OFFICIUM,III.A.2,3,True,"władza sądownicza, sąd",,keep,,,,,,adi.,iudiciale iuris,,,officium.3.1.2,,officium.3.1.2
+officium.3.1.2.1,OFFICIUM,III.A.2.α,4,False,,,exclude,,,,,,,,,,officium.3.1.2,,
+officium.3.1.2.2,OFFICIUM,III.A.2.β,4,False,,,exclude,,,,,,,,,,officium.3.1.2,,
+officium.3.2,OFFICIUM,III.B,2,False,,,qualifier,,,,,,,,meton.,,,,
+officium.3.2.1,OFFICIUM,III.B.1,3,True,urzędnik (lub kolegium urzędników),officialis (vel officialium collegium),keep,,,,,,,,,,officium.3.2.1,,officium.3.2.1
+officium.3.2.2,OFFICIUM,III.B.2,3,True,obszar podległy władzy (w prawie lennym),regio potestati alicuius iure feodali subiecta,keep,,,,,,,,,,officium.3.2.2,,officium.3.2.2
+officium.3.2.2.1,OFFICIUM,III.B.2.a,4,False,,,exclude,,,,,,,,"IX 2,526,56",,officium.3.2.2,,
+officium.3.2.2.2,OFFICIUM,III.B.2.b,4,False,,,exclude,,,,,,,,,,officium.3.2.2,,
+officium.3.2.2.3,OFFICIUM,III.B.2.c,4,False,,,exclude,,,,,,,,abl. -III:,,officium.3.2.2,,
+officium.3.2.2.4,OFFICIUM,III.B.2.a,4,False,,,exclude,,,,,,,,,,officium.3.2.2,,
+officium.3.2.2.5,OFFICIUM,III.B.2.b,4,False,,,exclude,,,,,,,,"in (item IX 2,525,34), vel IX 2,525,22 ); simili sensu simili sensu",,officium.3.2.2,,
+officium.3.2.2.6,OFFICIUM,III.B.2.c,4,False,,,exclude,,,,,,,,"simili sensu IX 2,525,76); simili sensu",,officium.3.2.2,,
+officium.4,OFFICIUM,IV,1,False,,,exclude,,,,,,,,,,,,
+officium.4.1,OFFICIUM,IV.1,2,True,"uprzejmość, przysługa, pomoc","meritum,, beneficium, abs.",keep,,,,,,abs. gen. abs.,ultimum,,,officium.4.1,,officium.4.1
+officium.4.1.1,OFFICIUM,IV.1.α,3,True,zasługa,meritum,keep,,,,,,,,,,officium.4.1.1,,officium.4.1.1
+officium.4.1.2,OFFICIUM,IV.1.β,3,True,"korzyść, zysk","commodum, lucrum",keep,,,,,,,,,,officium.4.1.2,,officium.4.1.2
+officium.4.2,OFFICIUM,IV.2,2,True,"publiczny dowód czci, oddawanie honorów","actus honorandi, observantia, reverentia",keep,,,,,,gen.,humanitatis honestatis salutationis,,,officium.4.2,,officium.4.2
+officium.5,OFFICIUM,V,1,False,,,qualifier,,,,,,,,,eccl.,,,
+officium.5.1,OFFICIUM,V.1,2,True,"oficjum brewiarzowe,tj. dostosowane do kalendarza kościelnego codzienne modlitwy obowiązujące duchownych",orationes singulis diebus a clericis secundum festa calendarii eccl. recitandae,keep,,,,,,,,,eccl.,officium.5.1,,officium.5.1
+officium.5.1.1,OFFICIUM,V.1.a,3,False,,,exclude,,,,,,,,apposito nomine festi,,officium.5.1,,
+officium.5.1.2,OFFICIUM,V.1.b,3,True,godzinki,horae quae vocantur BVMariae,keep,,,,,,gen.,,,,officium.5.1.2,,officium.5.1.2
+officium.5.1.3,OFFICIUM,V.1.c,3,False,,,exclude,,,,,,,,gr. supra 21 et festum,,officium.5.1,,
+officium.5.2,OFFICIUM,V.2,2,True,sprawowanie mszy św.,celebratio,keep,,,celebratio,,,abs.,missae Th. altaris divinum mysticum mysterii salutare,,,officium.5.2,,officium.5.2
+officium.5.2.1,OFFICIUM,V.2.a,3,False,,,exclude,,,,,,,,de sacerdotibus,,officium.5.2,,
+officium.5.2.2,OFFICIUM,V.2.b,3,False,,,exclude,,,,,,,,de fidelibus simili sensu,,officium.5.2,,
+officium.5.3,OFFICIUM,V.3,2,True,obrzęd kościelny,Ecclesiae ritus sollemnis,keep,,,,,,,,,,officium.5.3,,officium.5.3
+officium.5.4,OFFICIUM,V.4,2,True,obowiązek duszpasterski,"refertur ad varia sacerdotum munera,",keep,,,,,,,,,,officium.5.4,,officium.5.4
+officium.5.5,OFFICIUM,V.5,2,True,"beneficjum kościelne, tj. urząd kościelny wraz z jego uposażeniem",munus ecclesiasticum eique competentium bonorum redituumque usus,keep,,,,,,,,,,officium.5.5,,officium.5.5
+palatinus.1,PALATINUS,I,1,False,,,exclude,,,,,,,,,,,,
+palatinus.1.1,PALATINUS,I.1,2,False,,,exclude,,,,,,,,,,,,
+palatinus.1.1.1,PALATINUS,I.1.a,3,True,,,keep,"unknown: palatyn, cf. supra II 63121 sq.",,cf. supra II 63121 sq,,,,,,,palatinus.1.1.1,,palatinus.1.1.1
+palatinus.1.1.2,PALATINUS,I.1.b,3,True,,,keep,"unknown: dostojnik cesarski lub papieski, cf. supra II 632,47 sqq.",,"cf. supra II 632,47 sqq",,,,vicecomes:,,,palatinus.1.1.2,,palatinus.1.1.2
+palatinus.1.2,PALATINUS,I.2,2,True,żona hrabiego (w Cesarstwie Rzymsko-Niemieckim),"comitis imperii Romano-Germanici (cf. supra II 631,47 sqq.) uxor",keep,,,"cf. supra II 631,47 sqq",,,,comitissa,,,palatinus.1.2,,palatinus.1.2
+palatinus.1.3,PALATINUS,I.3,2,True,pisarz miejski,scriba urbanus,keep,,,,,,,scriba,,,palatinus.1.3,,palatinus.1.3
+palatinus.1.4,PALATINUS,I.1,2,True,palatyn,"comes palatinus cf. supra II 631,21",keep,,,"comes palatinus; cf. supra II 631,21",,,,,,,palatinus.1.4,,palatinus.1.4
+palatinus.1.5,PALATINUS,I.2,2,True,"wojewoda, wysoki urzędnik ziemski sprawujący władzę na określonym terytorium","magistratus maior, certae cuidam regioni administrandae praepositus",keep,,,,,,gen. adi.,,,,palatinus.1.5,,palatinus.1.5
+palatinus.1.6,PALATINUS,I.3,2,True,"wojewoda, wysoki urzędnik dworski, zastępujący władcę w dowodzeniu wojskiem i sprawowaniu jurysdykcji","aulae regis magistratus maior, exercituum dux nec non iudex principi proximus",keep,,,,,,,"regni Hungariae, Moldaviae, Pannoniae",,,palatinus.1.6,,palatinus.1.6
+palatinus.1.7,PALATINUS,I.4,2,True,"naczelny wódz, hetman",exercituum dux supremus,keep,,,,,,,,,,palatinus.1.7,,palatinus.1.7
+parlamentum.1,PARLAMENTUM,I,1,True,rozmowa,"colloquium, actus colloquendi",keep,,,,,,,,,,parlamentum.1,,parlamentum.1
+parlamentum.2,PARLAMENTUM,II,1,True,"zebranie, zgromadzenie, zjazd, posiedzenie","congregatio, consessus, conventus",keep,,,,,,,,,,parlamentum.2,,parlamentum.2
+parlamentum.3,PARLAMENTUM,III,1,True,"decyzja, postanowienie sądu","decretum, iudicis sententia",keep,,singulare iur.,,?,,,,,iur.,parlamentum.3,,parlamentum.3
+patrimonium.1,PATRIMONIUM,I,1,False,,,exclude,,,,,,,,,,,,
+patrimonium.1.1,PATRIMONIUM,I.1,2,True,"ojcowizna, spadek po ojcu, dziedziczny majątek, posiadłość rodowa, dobra ojczyste","bona a patre hereditate accepta, bona paterna",keep,,,,,,,patrimonii ius bona domus villa,,,patrimonium.1.1,,patrimonium.1.1
+patrimonium.1.2,PATRIMONIUM,I.2,2,True,"dobra kościelne, własność ziemska kościelna","ecclesiae praedium, bona immobilia",keep,,,,,,abs. gen. abl.,pium,,,patrimonium.1.2,,patrimonium.1.2
+patrimonium.2,PATRIMONIUM,II,1,True,małżeństwo,matrimonium,keep,,,,,,,,,,patrimonium.2,,patrimonium.2
+pax.1,PAX,I,1,False,,,exclude,,,,,,,,,,,,
+pax.1.1,PAX,I.A,2,False,,,exclude,,,,,,,,,,,,
+pax.1.1.1,PAX,I.A.1,3,True,"pokój, pokojowe stosunki","publica tranquillitas, quies",keep,,,,,,,,,,pax.1.1.1,,pax.1.1.1
+pax.1.1.2,PAX,I.A.2,3,True,błogosławieństwa pokoju,pacis benedictio,keep,,,,,,,Spiritu Sancto,,,pax.1.1.2,,pax.1.1.2
+pax.1.2,PAX,I.B,2,False,,,exclude,,,,,,,,,,,,
+pax.1.2.1,PAX,I.B.1,3,True,"pokój, pojednanie, zgoda","compositio, concordia",keep,,,,,,,"ae ternitatis (aeterna temporis, temporanea, temporalis: futura in patria viae pacis osculum pax",,theol.,pax.1.2.1,,pax.1.2.1
+pax.1.2.2,PAX,I.B.2,3,True,zaprzestanie roszczeń sądowych,cessatio a vindiciis,keep,,,,,,,,,iur.,pax.1.2.2,,pax.1.2.2
+pax.1.2.2.1,PAX,I.B.2.α,4,False,,,exclude,,,,,,,"pacem (tranquillitatem pacis) (alicuius rei in, pro aliqua re alicui) ascribere dare intercedere promittere et fideiubere sub vadio pacis et foederis alias «w myrze, w pokoyv»:",vel simili sensu,,pax.1.2.2,,
+pax.1.2.2.2,PAX,I.B.2.β,4,False,,,exclude,,,,,,,pacem habere (ab aliquo obtinere in pace stare pace (per)frui (alicuius,simili sensu vel tabiliora quaeda ad A-,,pax.1.2.2,,
+pax.1.2.3,PAX,I.B.1,3,False,,,exclude,,,,,,adi.,"bona ( Christiana mala, inordinata, simulata, inquinata firma et inoccidua perpetua temporalis placida",apponitur gr.,,,,
+pax.1.2.4,PAX,I.B.2,3,False,,,exclude,,,,,,,,,,,,
+pax.1.2.4.1,PAX,I.B.2.a,4,False,,,exclude,,,,,,gen.,,supra 38.,,,,
+pax.1.2.4.2,PAX,I.B.2.c,4,False,,,exclude,,,,,,,ad,,,,,
+pax.1.2.4.3,PAX,I.B.2.d,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.4.4,PAX,I.B.2.e,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.5,PAX,I.B.3,3,True,zamieszki,"tumultus,",keep,,,,,,,pacis imperfectio,,,pax.1.2.5,,pax.1.2.5
+pax.1.2.6,PAX,I.B.4,3,False,,,exclude,,,,,,,,iuncturae verbales selectae,,,,
+pax.1.2.6.1,PAX,I.B.4.a,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.6.2,PAX,I.B.4.b,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.6.2.1,PAX,I.B.4.b.α,5,False,,,exclude,,,,,,,,"in bonam partem (etiam sim.), v.gr. sim., v.",,,,
+pax.1.2.6.2.2,PAX,I.B.4.b.β,5,False,,,exclude,,,,,,,,"in malam partem, gr. sim., v.",,,,
+pax.1.2.6.3,PAX,I.B.4.c,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.6.4,PAX,I.B.4.d,4,False,,,exclude,,,,,,,,,,,,
+pax.1.2.6.5,PAX,I.B.4.e,4,True,być w stanie nienaruszonym,integrum esse,exclude,,N. de rebus,,,,,in pace esse fieri se continere se habere (per)manere sedere vivere stare,,,pax.1.2.6.5,,
+pax.1.2.7,PAX,I.B.5,3,False,,,exclude,,,,,,adv.,,,,,,
+pax.2,PAX,II,1,False,,,exclude,,,,,,,,,,,,
+pax.2.1,PAX,II.1,2,True,"spokój, cisza",tranquillitas aurae,keep,,,,,,,,,,pax.2.1,,pax.2.1
+pax.2.2,PAX,II.2,2,True,"spoczynek, sen",quies nocturna,keep,,,,,,,,,,pax.2.2,,pax.2.2
+pax.2.2.1,PAX,II.2.α,3,True,we śnie,aliquo dormiente,exclude,,,,,,,sub (in) pace,,,pax.2.2.1,,
+pax.2.2.2,PAX,II.2.β,3,True,przyjąć na nocleg,hospitium nocturnum praebere,exclude,,,,,,,aliquem in pace ponere,,,pax.2.2.2,,
+pax.2.2.3,PAX,II.2.γ,3,False,,,exclude,,,,,,,pro pace pulsare,,,pax.2.2,,
+pax.2.3,PAX,II.3,2,True,"przyzwolenie, zgoda","concessio, permissio",keep,,,,,,,,,,pax.2.3,,pax.2.3
+pax.2.4,PAX,II.4,2,True,szczęście wieczne,beatitudo aeterna,keep,,,,,,,,,,pax.2.4,,pax.2.4
+pax.3,PAX,III,1,False,,,exclude,,,,,,,,,,,,
+pax.3.1,PAX,III.1,2,True,"ustanie,koniec","cessatio, finis",keep,,,,,,,,,,pax.3.1,,pax.3.1
+pax.3.1.1,PAX,III.1.α,3,True,ktoś ustaje,"aliquis desistit, cessat",exclude,,,,,,,pax est alicui,,,pax.3.1.1,,
+pax.3.1.2,PAX,III.1.β,3,True,zerwać z kimś,aliquem derelinquere,exclude,,,,,,,pacem habere cum aliquo,,,pax.3.1.2,,
+pax.3.1.3,PAX,III.1.γ,3,True,ustać,"desinere, finem habere",exclude,,,,,,,pacem sumere,,,pax.3.1.3,,
+pax.4,PAX,IV,1,True,pacyfikał,pacificale (cf. s.v.),keep,,singulare,pacificale,,,,,,,pax.4,,pax.4
+populus_1.1,POPULUS-1,I,1,True,"lud, naród, ludzie","gens, natio",keep,,,,,,,gentium nationum exercitus gentis (,,,populus_1.1,,populus_1.1
+populus_1.1.1,POPULUS-1,I.1,2,True,"pospólstwo, gmin","plebs, vulgus",keep,,,,,,,,,,populus_1.1.1,,populus_1.1.1
+populus_1.1.2,POPULUS-1,I.2,2,True,szlachta,nobiles,keep,,,,,,,,,,populus_1.1.2,,populus_1.1.2
+populus_1.1.3,POPULUS-1,I.3,2,True,"lud boży, wierni w Kościele","Christifldeles,laici",keep,,,,,,,Dei,,eccl.,populus_1.1.3,,populus_1.1.3
+populus_1.1.3.1,POPULUS-1,I.3.α,3,True,druga niedziela Adwentu,temporis Adventus secunda,exclude,,,,,,,Dominica Populus Syon,,,populus_1.1.3.1,,
+populus_1.1.3.2,POPULUS-1,I.3.β,3,True,dwudziesta niedziela po Zesłaniu Ducha Św.,vicesima post Pentecosten,exclude,,,,,,,dominica Salus populi,,,populus_1.1.3.2,,
+populus_1.2,POPULUS-1,II,1,True,"ludność, mieszkańcy","habitatores, incolae",keep,,,,,,,,,,populus_1.2,,populus_1.2
+populus_1.3,POPULUS-1,III,1,True,"wielka ilość ludzi, tłum, gromada","hominum multitudo, turba, grex",keep,,,,,,abs.,,,,populus_1.3,,populus_1.3
+populus_2.1,POPULUS-2,I,1,True,topola czarna,Populus nigra Linn,exclude,,,,,,abs.,arbor,,,populus_2.1,,
+populus_2.2,POPULUS-2,II,1,True,topola osika,Populus tremula Linn,exclude,,,,,,,,,,populus_2.2,,
+potestas.1,POTESTAS,I,1,False,,,exclude,,,,,,,,,,,,
+potestas.1.1,POTESTAS,I.A,2,True,"siła, moc, potęga, możność dokonania czegoś","vis, potentia, robur, facultas",keep,,,,,,,,,,potestas.1.1,,potestas.1.1
+potestas.1.2,POTESTAS,I.B,2,True,"prawo, uprawnienie do czegoś, możność, moc","ius atque facultas, copia, licentia. Praec. iur.: pełnomocnictwo, upoważnienie do podejmowania czynności prawnych w czyimś imieniu; permissio, licentia rerum iure agendarum alicui commissa",keep,,,,,,,,,,potestas.1.2,,potestas.1.2
+potestas.1.2.1,POTESTAS,I.B.1,3,False,,,exclude,,,,,,,,distinctiones sollemniores,,potestas.1.2,,
+potestas.1.2.2,POTESTAS,I.B.2,3,False,,,exclude,,,,,,,,"et iuxta posita, gr.",,potestas.1.2,,
+potestas.1.2.3,POTESTAS,I.B.3,3,False,,,exclude,,,,,,abs. gen. acc. abl. acc. inf.,"a. b. c. d. ab, e. ad de et super","gen., gerundii (ita vulgo). gerundii, infra 9.",,potestas.1.2,,
+potestas.1.3,POTESTAS,I.C,2,False,,,qualifier,,,,,,,,varia,,,,
+potestas.1.3.1,POTESTAS,I.C.1,3,True,"potęga, siła zbrojna, wojska","vis (armata), copiae, exercitus",keep,,,,,,,,,,potestas.1.3.1,,potestas.1.3.1
+potestas.1.3.2,POTESTAS,I.C.2,3,True,władza (moc) wewnętrzna duszy,"virtus, indoles, potentia",keep,,et abs.,virtus,,,abs.,animae,,,potestas.1.3.2,,potestas.1.3.2
+potestas.1.3.3,POTESTAS,I.C.3,3,True,"tzw. boża kaźń, tj. choroba obłożna",morbus gravissimus,keep,,,,,,,Dei,,,potestas.1.3.3,,potestas.1.3.3
+potestas.2,POTESTAS,II,1,True,"władza, panowanie, moc, rządy, zarządzanie","dominatio, dominium, gubernatio, regimen, auctoritas",keep,,,,,,abs. gen. abl. acc.,,,,potestas.2,,potestas.2
+potestas.2.1,POTESTAS,II.1,2,True,panowanie nad sobą,"animi continentia, moderatio",keep,,,,,,,,,,potestas.2.1,,potestas.2.1
+potestas.2.2,POTESTAS,II.2,2,True,samodzielność,"status eius, qui sui iuris est, imprimis iur. samodzielność prawna; status ei cui iure agere licet",keep,,,,,,,sua,,iur.,potestas.2.2,,potestas.2.2
+potestas.2.3,POTESTAS,II.3,2,True,"władza, posiadanie, dzierżenie","ius, possessio, proprietas",keep,,,,,,,in sua potestate aliquid habere detinere tenere ad alicuius potestatem devenire venire in alicuius potestatem recidere aliquid in alicuius potestatem redigere alicuius potestati contradere infiscare,,iur.,potestas.2.3,,potestas.2.3
+potestas.2.4,POTESTAS,II.4,2,True,,,keep,"unknown: ważność, prawomocność, auctoritas, vis, id quod legitimum est",,,,,,,,,potestas.2.4,,potestas.2.4
+potestas.2.5,POTESTAS,II.5,2,True,znaczenie,"vis, sensus, significatio (saec. XV ex. - XVI in.).",keep,"unknown: moc, władza (zawarta w sylogiźmie)",,,,,,syllogismi,,,potestas.2.5,,potestas.2.5
+potestas.2.6,POTESTAS,II.B,2,False,,,qualifier,,,,,,,,meton.,,potestas.2,,
+potestas.2.6.1,POTESTAS,II.B.1,3,True,"osoba posiadająca, sprawująca władzę","homo aliqua auctoritate praeditus, magistratus, dominator, dominus, administrator",keep,,,,,,,,,,potestas.2.6.1,,potestas.2.6.1
+potestas.2.6.2,POTESTAS,II.B.2,3,True,urzędnik zwany podesta w miastach włoskich,"magistratus urbium Italicarum, cui podesta nomen erat",keep,,singulare,,,,,,,,potestas.2.6.2,,potestas.2.6.2
+potestas.2.6.3,POTESTAS,II.B.3,3,True,"moce duchowe, duchy czyste",mentes solutae. Praec. eccl,keep,,,,,,pl.,,,,potestas.2.6.3,,potestas.2.6.3
+potestas.2.6.3.1,POTESTAS,II.B.3.a,4,True,mocarstwa (nazwa jednego z chórów anielskich),angeli ex secundo sacrae angelorum hierarchiae gradu,keep,,,,,,,,,,potestas.2.6.3.1,,potestas.2.6.3.1
+potestas.2.6.3.2,POTESTAS,II.B.3.b,4,True,moce piekielne,"daemones inferni, cf. supra 1311",keep,,,cf. supra 1311,,,,aeriae,,,potestas.2.6.3.2,,potestas.2.6.3.2
+potestas.3,POTESTAS,III,1,True,"możność, możliwość (dokonania czegoś)","condicio rei, quae vel esse vel fieri potest (saec. XV in. - XVI in.). Praec. phil. t.t. quo respicitur ἡ δύναμις Aristotelis: potencja, możność (jako przeciwieństwo urzeczywistnienia); i.q. potentia, condicio qua quid esse vel fieri potest",keep,,,potentia,,,,potestate in potestate,,phil.,potestas.3,,potestas.3
+praefectus.1,PRAEFECTUS,I,1,True,"zwierzchnik, przełożony, naczelnik, kierownik, zarządca, urzędnik sprawujący nad czymś zarząd, namiestnik","praepositus, praelatus, director, ductor, moderator, gubernator, administrator, rector",keep,,,,,,gen.,,,,praefectus.1,,praefectus.1
+praefectus.2,PRAEFECTUS,II,1,True,"dowódca wojskowy, komendant, naczelnik","praepositus militibus, ductor, dux",keep,,,,,,abs. gen. dat. abl.,,,milit.,praefectus.2,,praefectus.2
+praetor.1,PRAETOR,,1,True,"zwierzchnik, przełożony","praefectus, praepositus (saec. XV-XVI)",keep,,,,,,,,,,praetor.1,,praetor.1
+praetor.1.1,PRAETOR,.1,2,True,"pretor, urzędnik rzymski następny godnością po konsulu","Romanorum magistratus, qui dignitate consuli succedit (saec. XV-XVI)",keep,,,,,,,,,,praetor.1.1,,praetor.1.1
+praetor.1.2,PRAETOR,.2,2,True,sołtys,"scultetus, qui vocabatur",keep,,,,,,,,,,praetor.1.2,,praetor.1.2
+praetor.1.3,PRAETOR,.3,2,True,"wójt jako urzędnik, sprawujący z ramienia księcia władzę sądowniczą wedle prawa niemieckiego","magistratus,qui principis auctoritate iudicia iuris Theutonici, quod vocabatur, exercebat",keep,,,,,,,,,,praetor.1.3,,praetor.1.3
+princeps.1,PRINCEPS,I,1,True,"pierwszy, najważniejszy","primus, summus (saec. XVI)",keep,,,,,,,,,,princeps.1,,princeps.1
+princeps.2,PRINCEPS,II,1,False,,,exclude,,,,,,subst.,,,,,,
+princeps.2.1,PRINCEPS,II.A,2,False,,,exclude,,,,,,,,,,,,
+princeps.2.1.1,PRINCEPS,II.A.1,3,False,,,exclude,,,,,,,,,,,,
+princeps.2.1.1.1,PRINCEPS,II.A.1.a,4,True,"przywódca, pierwszy spośród kogoś, wódz, władca, naczelnik","primus, dux, dominus",keep,,,,,,gen.,,,,princeps.2.1.1.1,,princeps.2.1.1.1
+princeps.2.1.1.2,PRINCEPS,II.A.1.b,4,True,"dostojnicy, wielmoże","priores, primores, proceres",keep,,pl.,,,,pl.,,,,princeps.2.1.1.2,,princeps.2.1.1.2
+princeps.2.1.1.3,PRINCEPS,II.A.1.c,4,True,sprawca,auctor (saec. XV ex. - XVI),keep,,,,,,,,,,princeps.2.1.1.3,,princeps.2.1.1.3
+princeps.2.1.1.4,PRINCEPS,II.A.1.d,4,True,"pan, panujący nad czymś","dominus, dominator",keep,,,,,,,,,,princeps.2.1.1.4,,princeps.2.1.1.4
+princeps.2.1.2,PRINCEPS,II.A.2,3,True,"władca, panujący, książę lub król, tytuł władcy państwa lub dzielnicy","(rei publicae vel regionis eius) dux, caput, rex",keep,,,,,,adi.,de rege de archiepiscopo ( homagialis ( almus excellentissimus illustris(simus) praeclarus serenissimus supremus militiae palatii,,,princeps.2.1.2,,princeps.2.1.2
+princeps.2.2,PRINCEPS,II.B,2,False,,,exclude,,,,,,,,,,,,
+princeps.2.2.1,PRINCEPS,II.B.1,3,True,"pani, władczyni, księżna","ducis uxor vel domina, quae regendi et imperandi potestatem habet",keep,,,,,,gen.,,,,princeps.2.2.1,,princeps.2.2.1
+princeps.2.2.2,PRINCEPS,II.B.2,3,True,ksieni (tytuł przeoryszy klarysek),dicitur de priorissa ordinis s. Clarae,keep,,,,,,,,,,princeps.2.2.2,,princeps.2.2.2
+princeps.2.2.3,PRINCEPS,II.B.3,3,True,"pani, władczyni","domina, dominatrix",keep,,transl.; abstr.,,,,,,,,princeps.2.2.3,,princeps.2.2.3
+privilegium.1,PRIVILEGIUM,I,1,False,,,exclude,,,,,,,,,,,,
+privilegium.1.1,PRIVILEGIUM,I.1,2,True,"szczególne prawo, wyjątkowe uprawnienie, przywilej","praerogativa, ius praecipuum, potestas singularis. Explicatur",keep,,,,,,,,,iur.,privilegium.1.1,,privilegium.1.1
+privilegium.1.2,PRIVILEGIUM,I.2,2,True,"przywilej, szczególny dar, wyróżnienie","favor peculiaris, munus eximium",keep,,,,,,,,,,privilegium.1.2,,privilegium.1.2
+privilegium.2,PRIVILEGIUM,II,1,True,"pismo, dokument zwł. nadający albo potwierdzający jakieś uprawnienia","testimonium conscriptum, quo alicuius rei potestas datur vel comprobatur",keep,,,,,,,radicale,,,privilegium.2,,privilegium.2
+privilegium.2.1,PRIVILEGIUM,II.b,2,False,,,exclude,,,,,,,,"adiectivales, gr.",,privilegium.2,,
+privilegium.2.1.1,PRIVILEGIUM,II.b.α,3,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.1.2,PRIVILEGIUM,II.b.β,3,False,,,exclude,,,,,,,,et,,privilegium.2,,
+privilegium.2.1.3,PRIVILEGIUM,II.b.γ,3,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.2,PRIVILEGIUM,II.c,2,False,,,exclude,,,,,,,,"verbales, gr.",,privilegium.2,,
+privilegium.2.2.1,PRIVILEGIUM,II.c.α,3,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.2.2,PRIVILEGIUM,II.c.β,3,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.3,PRIVILEGIUM,II.2,2,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.3.1,PRIVILEGIUM,II.2.a,3,False,,,exclude,,,,,,abs.,,,,privilegium.2,,
+privilegium.2.3.2,PRIVILEGIUM,II.2.b,3,False,,,exclude,,,,,,gen.,,XVI).,,privilegium.2,,
+privilegium.2.3.3,PRIVILEGIUM,II.2.c,3,False,,,exclude,,,,,,,ad,,,privilegium.2,,
+privilegium.2.3.4,PRIVILEGIUM,II.2.d,3,False,,,exclude,,,,,,,cum,,,privilegium.2,,
+privilegium.2.3.5,PRIVILEGIUM,II.2.e,3,False,,,exclude,,,,,,,,XVI).,,privilegium.2,,
+privilegium.2.3.6,PRIVILEGIUM,II.2.f,3,False,,,exclude,,,,,,abl.,,,,privilegium.2,,
+privilegium.2.3.7,PRIVILEGIUM,II.2.g,3,False,,,exclude,,,,,,,pro,,,privilegium.2,,
+privilegium.2.3.8,PRIVILEGIUM,II.2.h,3,False,,,exclude,,,,,,,quoad:,,,privilegium.2,,
+privilegium.2.3.9,PRIVILEGIUM,II.2.i,3,False,,,exclude,,,,,,,,,,privilegium.2,,
+privilegium.2.3.10,PRIVILEGIUM,II.2.k,3,False,,,exclude,,,,,,acc.,super,Ita vulgo.,,privilegium.2,,
+privilegium.2.3.11,PRIVILEGIUM,II.2.l,3,False,,,exclude,,,,,,abl.,super,Ita vulgo.,,privilegium.2,,
+privilegium.2.3.12,PRIVILEGIUM,II.2.m,3,False,,,exclude,,,,,,enunt. obi.,quod,,,privilegium.2,,
+privilegium.2.3.13,PRIVILEGIUM,II.2.n,3,False,,,exclude,,,,,,,quia,,,privilegium.2,,
+privilegium.3,PRIVILEGIUM,III,1,True,wpis do księgi sądowej,annotatio in libris iudicii facta,keep,,,,,,,zapis),,,privilegium.3,,privilegium.3

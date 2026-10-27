@@ -1,0 +1,971 @@
+quote_idx,lemma,source,date,quote_text,sigla,n_words,length_bin,genre,century,has_polish_gloss,has_sc_note,source_clean
+481.0,AUCTORITAS,StPPP II,a. 1498,perlucra prefata super bonis Cocmyrzow perlucrata prefato magnifico Petro super ,StPPP,23,long,diplomatic,15.0,False,False,StPPP II
+482.0,AUCTORITAS,KomKadł,,"ursus tibi nocumenta intulit, non tamen debuisti auctoritate propria in vrso te ",KomKadł,13,medium,unknown,,False,False,KomKadł
+483.0,AUCTORITAS,AKap Sąd III,a. 1509,"per se, auctoritate propria certa signa granicierum, videlicet clenodium Trzaska",AKap,18,long,judicial_court,16.0,False,False,AKap Sąd III
+484.0,AUCTORITAS,CodEp I 2,a. 1450,qui in omnes reges habet auctoritatem et imperium,CodEp,8,medium,correspondence,15.0,False,False,CodEp I 2
+486.0,AUCTORITAS,ChrMP,,Boleslaus Wladislao primogenito principandi auctoritatem legat,ChrMP,6,medium,unknown,,False,False,ChrMP
+487.0,AUCTORITAS,KodWp IV,a. 1280,"scultetus habeat liberam auctoritatem decollandi rotandi, exoculandi et cetera i",KodWp,10,medium,diplomatic,13.0,False,False,KodWp IV
+489.0,AUCTORITAS,KodWp II,a. 1299,civibus Calisiensibus talem contulimus auctoritatem ut malefactores habeant susp,KodWp,9,medium,diplomatic,13.0,False,False,KodWp II
+490.0,AUCTORITAS,APozn I,a. 1439,si profugerint ex auctoritate et iurisdictione nostra,APozn,7,medium,judicial_court,15.0,False,False,APozn I
+491.0,AUCTORITAS,Dogiel I,a. 1460,"in confoederatione continentur duces Masoviae, aliique principes, qui in auctori",Dogiel,13,medium,diplomatic,15.0,False,False,Dogiel I
+492.0,AUCTORITAS,*KodPol I,a. 1155,nos invitat auctoritas pro ecclesiarum statu satagere,KodPol,7,medium,diplomatic,12.0,False,True,KodPol I
+493.0,AUCTORITAS,AKapSąd II,a. 1404,an huiusmodi interdictum a Sede Apostolica vel a nostra auctoritate sit latum,AKapSąd,12,medium,judicial_court,15.0,False,False,AKapSąd II
+494.0,AUCTORITAS,StPPP I,a. 1421,si vero aliquis culpabilis renuerit ad auctoritatem venire extunc,StPPP,9,medium,diplomatic,15.0,False,False,StPPP I
+496.0,AUCTORITAS,AGZ IX,a. 1498,"katholici, Rutheni, Armeni ad fora veniebant et foricabant nulla alicuius auctor",AGZ,12,medium,judicial_court,15.0,False,False,AGZ IX
+497.0,AUCTORITAS,*DokSul,a. 1243,"auctoritate vobis praesentium indulgemus, ut",DokSul,5,medium,diplomatic,13.0,False,False,DokSul
+498.0,AUCTORITAS,KodWp V,a. 1416,"ego publicus notarius predictis literarum presentacioni, transsumpto et auctorit",KodWp,17,long,diplomatic,15.0,False,False,KodWp V
+501.0,AUCTORITAS,Ib. II,a. 1363,antedictus scultetus in torrente piscare auctoritatem habebit,KodPol,7,medium,diplomatic,14.0,False,False,KodPol II
+502.0,AUCTORITAS,KsgŁawKr,a. 1372,eisdem tutoribus plenam auctoritatem cum eis bonis ad dicti pueri utililatem lar,KsgŁawKr,12,medium,diplomatic,14.0,False,False,KsgŁawKr
+503.0,AUCTORITAS,KodMp IV,a. 1415,cui eciam concedimus liberam auctoritatem piscinam de nouo fundare in fluuio,KodMp,11,medium,diplomatic,15.0,False,False,KodMp IV
+504.0,AUCTORITAS,AKapSąd III,a. 1510,committimus Wladimiro auctoritatem et licenciam construendi ecclesiam,AKapSąd,7,medium,judicial_court,16.0,False,False,AKapSąd III
+505.0,AUCTORITAS,Ib.,a. 1513,"quibus testator dat plenam et liberam potestatem, licenciam et auctoritatem omni",AKapSąd,16,long,judicial_court,16.0,False,False,AKapSąd III
+506.0,AUCTORITAS,KodMp II,a. 1303,"dantes eis auctoritatem ad agendum et defendendum, si necesse fuerit",KodMp,10,medium,diplomatic,14.0,False,False,KodMp II
+507.0,AUCTORITAS,KodWp III,a. 1354,frater Hermanus habens sui abbatis et conventus monasterii auctoritatem plenaria,KodWp,12,medium,diplomatic,14.0,False,False,KodWp III
+509.0,AUCTORITAS,StSyn IV,a. 1420,nullus beneficium ecclesiasticum permutare vel recipere presumat sine superioris,StSyn,11,medium,diplomatic,15.0,False,False,StSyn IV
+510.0,AUCTORITAS,AKap Sąd II,a. 1437,quia non habuit ad hoc auctoritatem a cardinalibus,AKap,8,medium,judicial_court,15.0,False,False,AKap Sąd II
+511.0,AUCTORITAS,StPPP IX,a. 1449,qui dedit auctoritatem citare dominum Wchnacz,StPPP,6,medium,diplomatic,15.0,False,False,StPPP IX
+512.0,AUCTORITAS,PP III,a. 1452,veniens ad iudicium Olbracht pellifex cum auctoritate vxoris sue recognouit,PP,10,medium,scholarly_periodical,15.0,False,False,PP III
+513.0,AUCTORITAS,DŁUG. LibBen I,,oppidum capitulare de licentia et auctoritate Casimiri regis locari coeptum est,DŁUG,11,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+514.0,AUCTORITAS,KodMp II,a. 1256,"spoliatores et quorum auctoritate dicti incolae fuerint spoliati, teneantur eisd",KodMp,12,medium,diplomatic,13.0,False,False,KodMp II
+515.0,AUCTORITAS,KodMp II,a. 1318,omnia priuilegia sub antiquo nostro sigillo nul lius debeant esse auctoritatis a,KodMp,13,medium,diplomatic,14.0,False,False,KodMp II
+520.0,AUCTORITAS,DŁUG. Op.,,"respice, quaeso, quanta ad praecipitia luxuriae de te crescit in ceteros auctori",DŁUG,16,long,chronicle_historical,,False,False,DŁUG. Op.
+516.0,AUCTORITAS,KodPol I,a. 1246,"provida sapientum decrevit auctoritas, ut quicquid agitur dignum noticia",KodPol,9,medium,diplomatic,13.0,False,False,KodPol I
+517.0,AUCTORITAS,KodWp II,a. 1288,"provida veterum sanxit auctoritas, ut",KodWp,5,medium,diplomatic,13.0,False,False,KodWp II
+518.0,AUCTORITAS,MARTIN. OP. Chr.,,per illos omnis Gallia ad Romani cantus auctoritatem est reuocata,MARTIN,10,medium,literary_classical,,False,False,MARTIN. OP. Chr.
+519.0,AUCTORITAS,CodEp III,a. 1447,"quod enim genus orationis, que copia dicendi aut scribendi auctoritas huius clar",CodEp,20,long,correspondence,15.0,False,False,CodEp III
+522.0,AUCTORITAS,KodMp II,a. 1248,cum secundum auctoritatem Diuinam nostro bono operi due debeantur mercedes,KodMp,10,medium,diplomatic,13.0,False,False,KodMp II
+523.0,AUCTORITAS,KodKKr I,a. 1255,"quoniam, ut ait auctoritas, omnes morimur, et quasi aqua dilabimur",KodKKr,10,medium,diplomatic,13.0,False,False,KodKKr I
+524.0,AUCTORITAS,AEG. Th.,,tenet consenquentia ex auctoritate Aristotelis,AEG,5,medium,unknown,,False,False,AEG. Th.
+526.0,AUCTORITAS,GŁOG. Anal. ,,probatur antecedens auctoritate Aristotilis tertio De anima,GŁOG,7,medium,chronicle_historical,,False,False,GŁOG. Anal.
+528.0,AUCTORITAS,GŁOG. Alex. II,,patet auctoritate Marsilii,GŁOG,3,short,chronicle_historical,,False,False,GŁOG. Alex. II
+529.0,AUCTORITAS,Id. ExLog,,probatur auctoritate Petri Hispani,Id,4,short,unknown,,False,False,Id. ExLog
+530.0,AUCTORITAS,Lites II,a. 1413,castrum eripere et sibi appropriare auctoritatbus predictis,Lites,7,medium,diplomatic,15.0,False,False,Lites II
+694.0,BELLUM,MARTIN. OP. Marg. ,a. 1279,bellum in hac vita duplex exercetur carnale et spirituale,MARTIN,9,medium,literary_classical,13.0,False,False,MARTIN. OP. Marg.
+695.0,BELLUM,DŁUG. Hist. V,,foris Kazimiro rege materiale tractante bellum spirituale intus erupit,DŁUG,9,medium,chronicle_historical,,False,False,DŁUG. Hist. V
+696.0,BELLUM,MARTIN. OP. Chr.,,nullatenus tamen audebant bello generali cum Christianis aggredi,MARTIN,8,medium,literary_classical,,False,False,MARTIN. OP. Chr.
+697.0,BELLUM,KodMp III,a. 1375,"aduocati ad generale bellum, in equo sint seruire astricti",KodMp,9,medium,diplomatic,14.0,False,False,KodMp III
+698.0,BELLUM,Tom. XIII,a. 1531,quando mtas regia cum palatino bellum fundamentale incipere protrahet,Tom,9,medium,correspondence,16.0,False,False,Tom. XIII
+699.0,BELLUM,KodKrak,a. 1485,expedicione belli generalis vel particularis,KodKrak,5,medium,diplomatic,15.0,False,False,KodKrak
+700.0,BELLUM,CodVit,a. 1490,exercendo scharmicias et bella partialia,CodVit,5,medium,correspondence,15.0,False,False,CodVit
+701.0,BELLUM,Tom. VI,a. 1522,"nec superesse alium, qui vicarium bellum administret",Tom,7,medium,correspondence,16.0,False,False,Tom. VI
+702.0,BELLUM,Tom. VI,a. 1522,"nunquam alicui principi Christiano bellum offensivum intulit, sed defensivum egi",Tom,10,medium,correspondence,16.0,False,False,Tom. VI
+703.0,BELLUM,DECIUS,,toto negotio in marinum bellum uerso,DECIUS,6,medium,unknown,,False,False,DECIUS
+704.0,BELLUM,AAlex,a. 1507,terra et mari ac terrestri et classico bello potens,AAlex,9,medium,unknown,16.0,False,False,AAlex
+705.0,BELLUM,AGZ XIV,a. 1454,domini revenerunt de bello granicierum cum terrigenis Leopoliensibus,AGZ,8,medium,judicial_court,15.0,False,False,AGZ XIV
+706.0,BELLUM,*KodMp IV,a. 1446,hoc non solum seminarium belli sed incendium fore,KodMp,8,medium,diplomatic,15.0,False,False,KodMp IV
+707.0,BELLUM,DŁUG. Hist. I,,Polonia propriis et externis bellis defervescens,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Hist. I
+708.0,BELLUM,Tom. V,a. 1520,adversus nos bellum et apertam hostilitatem occupasse,Tom,7,medium,correspondence,16.0,False,False,Tom. V
+709.0,BELLUM,StPPP VII,a. 1456,bellum quod agitur uersus Prussiam,StPPP,5,medium,diplomatic,15.0,False,False,StPPP VII
+710.0,BELLUM,PEREGR.,,uxor assumpsit arma et intrauit pro viro bellum,PEREGR,8,medium,unknown,,False,False,PEREGR.
+711.0,BELLUM,StPPP XI,a. 1519,per nobiles bellum iturum fuerat,StPPP,5,medium,diplomatic,16.0,False,False,StPPP XI
+714.0,BELLUM,AGZ XIII,a. 1460,Rampsch debet solus bellum servire de dicto laneo,AGZ,8,medium,judicial_court,15.0,False,False,AGZ XIII
+715.0,BELLUM,StPPP IX,a. 1524,dominus Stanislaus tenebitur seruire bellum de eodem laneo,StPPP,8,medium,diplomatic,16.0,False,False,StPPP IX
+718.0,BELLUM,StPPP VII,a. 1474,Anna et Apolonia de bonis suis peditem in bellum locaverunt,StPPP,10,medium,diplomatic,15.0,False,False,StPPP VII
+720.0,BELLUM,StPPP II,a. 1451,gubernatori Hungariae debuit aducere homines super eosdem florenos ad bellum ali,StPPP,13,medium,diplomatic,15.0,True,False,StPPP II
+712.0,BELLUM,KodMp III,a. 1375,aduocati ad generale bellum in equo sint seruire astricti,KodMp,9,medium,diplomatic,14.0,False,False,KodMp III
+713.0,BELLUM,KH I,a. 1501,servire autem bellum quilibet teneatur,KH,5,medium,unknown,16.0,False,False,KH I
+716.0,BELLUM,StPPP VII,,Helizabet et Anna de bonis suis Iohannem expediverunt in bellum,StPPP,10,medium,diplomatic,,False,False,StPPP VII
+717.0,BELLUM,AKapSąd III,a. 1508,"ex accusatione, quod ipse non expedivisset ex bonis ad bellum contra Valachos, c",AKapSąd,20,long,judicial_court,16.0,False,False,AKapSąd III
+722.0,BELLUM,RFil XXII,a. 1466,"bello vindice ""dowyedzenyem bythwy""",RFil,4,short,scholarly_periodical,15.0,True,False,RFil XXII
+723.0,BELLUM,GŁOG. Alex. I,,"bellum ""walka"" habet plura synonima: pugna, proelium, ala",GŁOG,8,medium,chronicle_historical,,True,False,GŁOG. Alex. I
+724.0,BELLUM,*CodVit,a. 1416,"alii nobiles, qui bellis planis interfuerunt suaserunt marsalco Ordinis mittere ",CodVit,11,medium,correspondence,15.0,False,False,CodVit
+725.0,BELLUM,MPH III,saec. XV,obtento bello dominus rex Poloniae terram ipsorum Cruciferorum ingrediens,MPH,9,medium,chronicle_historical,,False,False,MPH III
+727.0,BELLUM,GLc,,"monomachia, duellum, duorum bellum in circulo ""burdink, burdink w kresie""",GLc,10,medium,glosses_marginalia,,True,False,GLc
+728.0,BELLUM,GŁOG. Alex. I.,,"bellum, congressus, ala, duellum",GŁOG,4,short,chronicle_historical,,False,False,GŁOG. Alex. I.
+929.0,BENEFICIUM,AKapSąd III,a. 1511,ipse licet iam nudus temporalibus beneficiis condignam mercedem rependere non va,AKapSąd,16,long,judicial_court,16.0,False,False,AKapSąd III
+930.0,BENEFICIUM,KodMp II,a. 1232,non dubitans per merita quotidie mihi apud Dominum crescere beneficium,KodMp,10,medium,diplomatic,13.0,False,True,KodMp II
+931.0,BENEFICIUM,CodEp I 1,a. 1418,tot imbutam beneficiis,CodEp,3,short,correspondence,15.0,False,False,CodEp I 1
+932.0,BENEFICIUM,AH IX,a. 1438,Christo semper fuit grata cunctis beneficiis,AH,6,medium,unknown,15.0,False,True,AH IX
+933.0,BENEFICIUM,PommUrk V,a. 1315,in refectionis beneficium unam lagenam bone cervisse habeant diebus nostri anniv,PommUrk,11,medium,diplomatic,14.0,False,False,PommUrk V
+934.0,BENEFICIUM,Dogiel IV,a. 1549,ut hanc provinciam in beneficium pacis subire consenserit,Dogiel,8,medium,diplomatic,16.0,False,False,Dogiel IV
+935.0,BENEFICIUM,DŁUG. Op.,,nec sperabat sibi alicuius remedii beneficium profuturum,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. Op.
+936.0,BENEFICIUM,ChrMP,,linguae beneficiis implorant,ChrMP,3,short,unknown,,False,False,ChrMP
+937.0,BENEFICIUM,KodPol II,a. 1239,"in huiusmodi refectione, nullum beneficium, quod vulgariter ""suppa"" vocatur, ab ",KodPol,13,medium,diplomatic,13.0,True,True,KodPol II
+938.0,BENEFICIUM,KodMaz(K),a. 1191,beneficia fori de Lukosin et decimae harum villarum,KodMaz(K,8,medium,diplomatic,12.0,False,True,KodMaz(K)
+939.0,BENEFICIUM,Lites I,a. 1320,"an huiusmodi terminum acceptaret, vel ad iuris beneficium convolaret",Lites,9,medium,diplomatic,14.0,False,False,Lites I
+940.0,BENEFICIUM,ZabDziej III,a. 1495,"reus prestitit iuramentum iuri parere, iuris beneficiis salvis",ZabDziej,8,medium,chronicle_historical,15.0,False,False,ZabDziej III
+942.0,BENEFICIUM,AKapSąd II,a. 1425,"a prelatis possessiones, beneficia, redditus et proventus ecclesiasticos in regn",AKapSąd,11,medium,judicial_court,15.0,False,False,AKapSąd II
+943.0,BENEFICIUM,CodEp III,a. 1447,"taxavi beneficia dicte ecclesie: prepositura ad tres marcas, decanatus ad duas, ",CodEp,19,long,correspondence,15.0,False,False,CodEp III
+944.0,BENEFICIUM,DŁUG. LibBen I,,altarista nullum aliud beneficium habens,DŁUG,5,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+945.0,BENEFICIUM,ArSang II,a. 1494,praebendarius obligatus idoneum in loco beneficii praesbitrum tenere,ArSang,8,medium,unknown,15.0,False,False,ArSang II
+946.0,BENEFICIUM,ArPrawn I,a. 1542,"beneficia, quibus iudicandi et officialatus officium annexum est",ArPrawn,8,medium,judicial_court,16.0,False,False,ArPrawn I
+947.0,BENEFICIUM,KodWp I,a. 1258,"volumus, ut nemo nostrorum iudicum aut castellanorum vel cuiuscunque ratione ben",KodWp,20,long,diplomatic,13.0,False,False,KodWp I
+948.0,BENEFICIUM,Dogiel I,a. 1535,cum collationibus officiorum et beneficiorum tam saecularium quam spiritualium a,Dogiel,11,medium,diplomatic,16.0,False,True,Dogiel I
+1080.0,CASTELLANUS-2,PommUrk I,a. 1159,coram castellano predicti castri,PommUrk,4,short,diplomatic,12.0,False,False,PommUrk I
+1081.0,CASTELLANUS-2,KodKKr I,a. 1212,"comes Gouoricius, castellanus Cracouie",KodKKr,4,short,diplomatic,13.0,False,False,KodKKr I
+1083.0,CASTELLANUS-2,AKapSąd III,a. 1510,Thome castellani terre Plocensis,AKapSąd,4,short,judicial_court,16.0,False,False,AKapSąd III
+1084.0,CASTELLANUS-2,GLb,,"castellanus ""czesnyk, grododzyerscza""",GLb,3,short,glosses_marginalia,,True,False,GLb
+1085.0,CASTELLANUS-2,UrkOels,a. 1249,"si homo ecclesie hominem ecclesie occiderit, totam capitis solucionem castellanu",UrkOels,26,long,unknown,13.0,False,False,UrkOels
+1086.0,CASTELLANUS-2,GLw,,"burgrabus vel supremus castellanus ""naywyższy sędzia grodzki prawa wysokiego""",GLw,9,medium,glosses_marginalia,,True,False,GLw
+1087.0,CASTELLANUS-2,*CodVit,a. 1429,littere misse domino burgrabio sive castellano in Karllsteyn,CodVit,8,medium,correspondence,15.0,False,False,CodVit
+1088.0,CASTELLANUS-2,Tom. VII,a. 1525,"relaxatam jam sibi fore omnium bonorum possessionem preter castellum Barense, qu",Tom,18,long,correspondence,16.0,False,False,Tom. VII
+0.0,CIVITAS,KodMp I,a. 1210,principalem civitatem Cracovie,KodMp,3,short,diplomatic,13.0,False,False,KodMp I
+1.0,CIVITAS,StPPP VIII,a. 1388,aduocato de Wolwrami civitate,StPPP,4,short,diplomatic,14.0,False,False,StPPP VIII
+2.0,CIVITAS,StPPP VIII,a. 1398,communitas civitatis de Lamburga,StPPP,4,short,diplomatic,14.0,False,False,StPPP VIII
+3.0,CIVITAS,Ib.,a. 1400,burgmagister civitatis de Kalis,StPPP,4,short,diplomatic,15.0,False,False,StPPP VIII
+5.0,CIVITAS,GLcerv,,civitas est congregatio ciuium in vnum quemlibet locum iure certo et moribus rec,GLcerv,17,long,glosses_marginalia,,True,False,GLcerv
+6.0,CIVITAS,AGZ XIX,a. 1500,tenuit hominem sine omni iure non peciendo circa vicecapitaneum iusticiam et in ,AGZ,15,medium,judicial_court,16.0,True,False,AGZ XIX
+7.0,CIVITAS,HUSSOW.,,civitas poenas morientis peste auget,HUSSOW,5,medium,unknown,,False,False,HUSSOW.
+531.0,COMES,RFil XVI,a. 1426,"comites ""tluscza""",RFil,2,short,scholarly_periodical,15.0,True,False,RFil XVI
+533.0,COMES,Ib.,a. 1461,"Waschko Rutheno, qui comitem conduxit per Lithwaniam dedi tres equos podvodorum ",ArHist,13,medium,chronicle_historical,15.0,False,False,ArHist XI
+534.0,COMES,Tom. IX,a. 1527,quilibet praefectus militum per se ipsum ducere debet comites seu commilitones s,Tom,12,medium,correspondence,16.0,False,False,Tom. IX
+535.0,COMES,UrkBBr,a. 1267,vita comite personaliter veniemus,UrkBBr,4,short,diplomatic,13.0,False,False,UrkBBr
+537.0,COMES,GLb,,"vita comite ""bądą ly zyw""",GLb,5,medium,glosses_marginalia,,True,False,GLb
+538.0,COMES,"GALL p. 411 (=36,17 M.): duces ... c-es aliique proceres. CodSil(M) I",a. 1147,Bernardo Dei gratia Clarevallensi abbati Matteus Cracoviensis episcopus et comes,GALL,11,medium,chronicle_historical,12.0,False,False,"GALL p. 411 (=36,17 M.): duces ... c-es aliique proceres. CodSil(M) I"
+539.0,COMES,KodPol I,a. 1155,"Garvolionem villam, quam Bartholomeus comes ecclesie dedit",KodPol,7,medium,diplomatic,12.0,False,False,KodPol I
+541.0,COMES,GALL,,Wladislaus dux patriam sine palatino comite rexit,GALL,7,medium,chronicle_historical,,False,False,GALL
+542.0,COMES,KADŁUB.,,sacri comes palacii Scarbimirus,KADŁUB,4,short,chronicle_historical,,False,False,KADŁUB.
+543.0,COMES,Ib.,,presul Fulco et palatine comes excellende Nicolaus reipublice curam suscipiunt,KADŁUB,10,medium,chronicle_historical,,False,False,KADŁUB.
+545.0,COMES,GALL,,Zetheus in castellis comites vel pristaldos praeponebat,GALL,7,medium,chronicle_historical,,False,False,GALL
+546.0,COMES,Ib.,,Boleslaus dux suum comitem in Gnezdensi civitate constituit,GALL,8,medium,chronicle_historical,,False,False,GALL
+548.0,COMES,RachJag,a. 1420,Cholyewe litteras ad Spisch ferenti regales comiti XIII duitatum,RachJag,9,medium,financial_administrative,15.0,False,False,RachJag
+549.0,COMES,Dogiel I,a. 1498,Andreas Both de Bayna comes comitatus Zaladiensis,Dogiel,7,medium,diplomatic,15.0,False,False,Dogiel I
+550.0,COMES,Ib.,a. 1530,"qui iniuriam patitur, pro ea aget coram comite illo, in cuius comitatu ambo resi",Dogiel,27,long,diplomatic,16.0,False,False,Dogiel I
+551.0,COMES,DŁUG. Op.,,Henricus comes de Kamyencz de Mischna,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Op.
+552.0,COMES,Ib.,,Iohannes comes de Wende,DŁUG,4,short,chronicle_historical,,False,False,DŁUG. Op.
+553.0,COMES,KodPol IV,a. 1471,"Victorino, duci Minsterburgensi, comiti Cloczensi",KodPol,5,medium,diplomatic,15.0,False,False,KodPol IV
+555.0,COMES,RachJag,a. 1419,"comitis alias ""grabya"" de Hardek",RachJag,5,medium,financial_administrative,15.0,True,False,RachJag
+561.0,COMES,GLlw,,"comes haereditaritis ""zakupny wóyt""",GLlw,4,short,glosses_marginalia,,True,False,GLlw
+562.0,COMES,APozn I,a. 1448,"affectare ius super Iohannem Murcz a dominis comitibus et consulatu in Czerwest,",APozn,16,long,judicial_court,15.0,False,False,APozn I
+563.0,COMES,StPPP X,saec. XV,comes seu iudex ex libera nativitate progenitus et scabina sede dignus sub omagi,StPPP,22,long,diplomatic,,False,False,StPPP X
+565.0,COMES,Ib.,,"comes ""woyth wyszschego prawa""",GLc,4,short,glosses_marginalia,,True,False,GLc
+566.0,COMES,ŁASKI. ComPriv. ,,"si factum manifestum contigerit, sicut furtum aut spolium super eo bene eligi po",ŁASKI,34,long,literary_classical,,False,False,ŁASKI. ComPriv.
+567.0,COMES,ŁASKI. ComPriv. ,,"fur, predo aut raptor capti, si eodem die aut nocte conuicti non fuerint, extunc",ŁASKI,21,long,literary_classical,,False,False,ŁASKI. ComPriv.
+569.0,COMES,*StPPP VII,a. 1475,"Nicolaum assignauimus in uerum comitem eiusdem Sedis Apostolicae, cui etiam damu",StPPP,23,long,diplomatic,15.0,False,False,StPPP VII
+570.0,COMES,*Ib.,a. 1478,sacri Lateranensis pallacii auleque nostre et imperialis consistorii comitem te ,StPPP,22,long,diplomatic,15.0,False,False,StPPP VII
+1181.0,COMITIA-2,Dogiel I,a. 1471,oratores statuum et ordinum regni Bohemiae ex comitiis Cuthanensibus missi,Dogiel,10,medium,diplomatic,15.0,False,False,Dogiel I
+1182.0,COMITIA-2,DŁUG. Hist. III,,"comitia in Nyepolomicze celebrantur, ubi Warczislaus ad perpetuos carceres damna",DŁUG,10,medium,chronicle_historical,,False,False,DŁUG. Hist. III
+1184.0,COMITIA-2,DŁUG. Hist. II,,ad substituendum alium principem episcopus et palatinus Cracovienses generalem c,DŁUG,15,medium,chronicle_historical,,False,False,DŁUG. Hist. II
+1185.0,COMITIA-2,DŁUG. Hist. III,,capitulares agentes comitia Henricum in episcopum eligunt,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. Hist. III
+1187.0,COMITIA-2,DŁUG. Op.,,Fulco a capitularibus comitia episcopalia celebrantibus electus est,DŁUG,8,medium,chronicle_historical,,False,False,DŁUG. Op.
+434.0,COMMUNITAS,StPPP VI,a. 1512,"communitatem alias ""spolnosczy"" silvarum",StPPP,4,short,diplomatic,16.0,True,False,StPPP VI
+436.0,COMMUNITAS,StPPP II,a. 1436,planicies pro communitate utrarumque parcium,StPPP,5,medium,diplomatic,15.0,False,False,StPPP II
+437.0,COMMUNITAS,STOP. Parv.,,"in philosophia naturali ens non in sua communitate, sed ens finitum est subiectu",STOP,14,medium,unknown,,False,False,STOP. Parv.
+438.0,COMMUNITAS,GŁOG. Porph.,,duo sunt de ratione vniuersalis scilicet vnitas et communitas,GŁOG,9,medium,chronicle_historical,,False,False,GŁOG. Porph.
+440.0,COMMUNITAS,BYSTRZ. Log. ,,"logica sit scientia communis non quidem communitate praedicationis, sed communit",BYSTRZ,15,medium,literary_classical,,False,False,BYSTRZ. Log.
+441.0,COMMUNITAS,Lites II,a. 1413,"in terra Samaytharum non fuit aliquis dominus terre, sed erat una communitas sub",Lites,19,long,diplomatic,15.0,False,False,Lites II
+442.0,COMMUNITAS,JAC. PAR. Tract. ,,"fiunt reuelationes magis his, qui praesunt communitati",JAC,7,medium,unknown,,False,False,JAC. PAR. Tract.
+444.0,COMMUNITAS,KodWp II,a. 1302,consules Posnaniae nomine suo et tocius communitatis,KodWp,7,medium,diplomatic,14.0,False,False,KodWp II
+445.0,COMMUNITAS,KodPol I,a. 1306,advocatus et tota communitas civitatis Brestensis,KodPol,6,medium,diplomatic,14.0,False,False,KodPol I
+447.0,COMMUNITAS,AKapSąd III,a. 1499,coram capitaneo arcis Poltoviensis et in presencia ipsorum communitatum,AKapSąd,9,medium,judicial_court,15.0,False,False,AKapSąd III
+448.0,COMMUNITAS,StPPP VIII,a. 1385,omnes ciues seu communitas de Quilina,StPPP,6,medium,diplomatic,14.0,False,False,StPPP VIII
+449.0,COMMUNITAS,RachJag,a. 1394,ex parte tocius communitatis de Noua Ciuitate,RachJag,7,medium,financial_administrative,14.0,False,False,RachJag
+450.0,COMMUNITAS,DŁUG. LibBen I,,a tota communitate in Bochnya,DŁUG,5,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+451.0,COMMUNITAS,AKapSąd I,a. 1460,cives et communitatem in Poznania,AKapSąd,5,medium,judicial_court,15.0,False,False,AKapSąd I
+452.0,COMMUNITAS,APozn I,a. 1442,in conspectu scabinorum et communitatis Poznaniensis,APozn,6,medium,judicial_court,15.0,False,False,APozn I
+453.0,COMMUNITAS,AKapSąd III,a. 1496,in causa tocius communitatis Gedanensis,AKapSąd,5,medium,judicial_court,15.0,False,False,AKapSąd III
+454.0,COMMUNITAS,KodMp II,a. 1293,incolae consuetudini communitatis aliarum villarum adherebunt,KodMp,6,medium,diplomatic,13.0,False,False,KodMp II
+455.0,COMMUNITAS,StPPP I,a. 1377,"cum communitate alias ""osadą"" vel cum senioribus dictis ""starcy""",StPPP,9,medium,diplomatic,14.0,True,False,StPPP I
+457.0,COMMUNITAS,AGZ XIV,a. 1456,"totam communitatem alias ""gmyn"" de Camyonka",AGZ,6,medium,judicial_court,15.0,True,False,AGZ XIV
+458.0,COMMUNITAS,KsgMaz I,a. 1406,"communitas wlgariter ""starcze""",KsgMaz,3,short,diplomatic,15.0,True,False,KsgMaz I
+459.0,COMMUNITAS,KodWp III,a. 1382,singulis nobilibus et toti communitati terre Cracovie,KodWp,7,medium,diplomatic,14.0,False,False,KodWp III
+460.0,COMMUNITAS,ArPrawn IV,a. 1418,domini seniores cum consensu tocius communitatis,ArPrawn,6,medium,judicial_court,15.0,False,False,ArPrawn IV
+462.0,COMMUNITAS,KodMp IV,a. 1449,proceribus et communitatbus regni,KodMp,4,short,diplomatic,15.0,False,False,KodMp IV
+463.0,COMMUNITAS,AUnii,a. 1501,"nobiles, proceres et communitates notabiliores nostri ducatus Lithvaniae",AUnii,8,medium,diplomatic,16.0,False,False,AUnii
+464.0,COMMUNITAS,ZabDziej IV 1,a. 1551,communitas Ruthenorum cum communitate Romana,ZabDziej,5,medium,chronicle_historical,16.0,False,False,ZabDziej IV 1
+465.0,COMMUNITAS,CodEp I 2,a. 1461,caterva inestimabilis communitatis,CodEp,3,short,correspondence,15.0,False,False,CodEp I 2
+467.0,COMMUNITAS,GLb,,"communitas ""pospolstvo""",GLb,2,short,glosses_marginalia,,True,False,GLb
+468.0,COMMUNITAS,KodKKr I,a. 1314,canonicorum communitas,KodKKr,2,short,diplomatic,14.0,False,False,KodKKr I
+470.0,COMMUNITAS,ArPrawn VIII,a. 1405,communitas fratrum de Paczonow,ArPrawn,4,short,judicial_court,15.0,False,False,ArPrawn VIII
+471.0,COMMUNITAS,AKapSąd III,a. 1496,quos ius communitatis ecclesiastice admittit,AKapSąd,5,medium,judicial_court,15.0,False,False,AKapSąd III
+472.0,COMMUNITAS,CracArt IV,a. 1398,communitatis omnium mechanicorum,CracArt,3,short,unknown,14.0,False,False,CracArt IV
+473.0,COMMUNITAS,KsgKaz,a. 1400,magistri pistores fideiusserunt pro communitate eorum,KsgKaz,6,medium,diplomatic,15.0,False,False,KsgKaz
+474.0,COMMUNITAS,StPPP II,a. 1411,tota communitate carnificum de Kazimiria ante Cracouiam,StPPP,7,medium,diplomatic,15.0,False,False,StPPP II
+476.0,COMMUNITAS,KodPol II,a. 1404,"communitas prelatorum et baronum nec non nobilium, procerum et terrigenarum regn",KodPol,14,medium,diplomatic,15.0,False,False,KodPol II
+477.0,COMMUNITAS,JusPol,a. 1454,"omnes res in conventionibus, communitatbus terrestribus prius practicatae statua",JusPol,11,medium,unknown,15.0,False,False,JusPol
+478.0,COMMUNITAS,MonStp,a. 1578,libertates et communitates quibus cives Poloni gaudent,MonStp,7,medium,unknown,16.0,False,False,MonStp
+479.0,COMMUNITAS,KodPol II,a. 1348,item sepum pro inunctione ferramentorum de communitate comparabit,KodPol,8,medium,diplomatic,14.0,False,False,KodPol II
+480.0,COMMUNITAS,ArLit I,a. 1482,"securius enim est a principio rei cuivis occurrere, quae, dum vigorata fuerit, c",ArLit,17,long,unknown,15.0,False,False,ArLit I
+8.0,CONSILIUM,Lites I,a. 1339,habere cum peritis consilium de eisdem,Lites,6,medium,diplomatic,14.0,False,False,Lites I
+9.0,CONSILIUM,DŁUG. LibBen I,,maturo super eisdem habito consilio et tractatu,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+11.0,CONSILIUM,Lites I,a. 1339,habito tractatu et consilio cui deberetur dictum regnum,Lites,8,medium,diplomatic,14.0,False,False,Lites I
+12.0,CONSILIUM,KodPol I,a. 1221,Obeczan comes cum consilio domini ducis Conradi,KodPol,7,medium,diplomatic,13.0,False,False,KodPol I
+13.0,CONSILIUM,KodWp III,a. 1377,supremorum consiliariorum consilii nostri consilio requisito preconceptam villam,KodWp,11,medium,diplomatic,14.0,False,False,KodWp III
+15.0,CONSILIUM,CodEp II,a. 1386,de consilio nobilium illius terre,CodEp,5,medium,correspondence,14.0,False,False,CodEp II
+16.0,CONSILIUM,KodUJ I,a. 1364,actum praesentibus aliis quam pluribus consilium civitatis nostrae Cracoviensis ,KodUJ,10,medium,diplomatic,14.0,False,False,KodUJ I
+17.0,CONSILIUM,KsgRachKr II,a. 1369,confudit consilium civitatis Cracoviensis,KsgRachKr,4,short,diplomatic,14.0,False,False,KsgRachKr II
+18.0,CONSILIUM,AKapSąd III,a. 1506,fuit testis in castro coram capitaneo et consilio eiusdem,AKapSąd,9,medium,judicial_court,16.0,False,False,AKapSąd III
+19.0,CONSILIUM,DŁUG. Hist. V,,lacrimis obortis in consilii vestibulo procubuerunt,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Hist. V
+20.0,CONSILIUM,GIEŁCZ.,,analogum siue equiuocum a consilio per se positum stat pro suo significato famos,GIEŁCZ,13,medium,unknown,,False,False,GIEŁCZ.
+21.0,CONSILIUM,GŁOG. ExLog,,a casu et a consilio,GŁOG,5,medium,chronicle_historical,,False,False,GŁOG. ExLog
+22.0,CONSILIUM,ArPrawn X,a. 1410,kmeto de suo consilio de area sua discurrit,ArPrawn,8,medium,judicial_court,15.0,False,False,ArPrawn X
+23.0,CONSILIUM,Tom. VII,a. 1525,hostis reipublice parum aut nihil consiliii habens rempublicam perdere studens,Tom,10,medium,correspondence,16.0,False,False,Tom. VII
+24.0,CONSILIUM,PommUrk II,a. 1281,iusticie et pacis semper consilia cogitantes,PommUrk,6,medium,diplomatic,13.0,False,False,PommUrk II
+25.0,CONSILIUM,DŁUG. Hist. IV,,abiectis quietis consiliis,DŁUG,3,short,chronicle_historical,,False,False,DŁUG. Hist. IV
+26.0,CONSILIUM,RFil XXIV,a. 1446,"induxit in consilium ""radzcz szye""",RFil,5,medium,scholarly_periodical,15.0,True,False,RFil XXIV
+31.0,CONSILIUM,AKapSąd III,a. 1490,consilium vel inductionem dederunt palatino ad damnum ipsis illatum,AKapSąd,9,medium,judicial_court,15.0,False,False,AKapSąd III
+27.0,CONSILIUM,Dogiel I,a. 1396,castro nullum consilium seu auxilium contra dominum regem faciemus,Dogiel,9,medium,diplomatic,14.0,False,False,Dogiel I
+32.0,CONSILIUM,*CodSil(M) I,a. 1149,de expeditione rex consilium vestrum habere debet,CodSil(M,7,medium,diplomatic,12.0,False,False,CodSil(M) I
+29.0,CONSILIUM,CodEp II,a. 1445,in prefatos consilium parare,CodEp,4,short,correspondence,15.0,False,False,CodEp II
+30.0,CONSILIUM,DŁUG. Hist. IV,,regi in reditum consilium dedi,DŁUG,5,medium,chronicle_historical,,False,False,DŁUG. Hist. IV
+33.0,CONSILIUM,AConst,a. 1279,qui consilium sive auxilium in aliquo impendunt,AConst,7,medium,unknown,13.0,False,False,AConst
+34.0,CONSILIUM,AKap Sąd III,a. 1508,"ad iuris peritos recursum habeant pro consilio, qualiter decidi debeat",AKap,10,medium,judicial_court,16.0,False,False,AKap Sąd III
+35.0,CONSILIUM,AKap,a. 1561,"a dominis tanquam consiliariis suis captabat consilia, quo modo et via ad execut",AKap,16,long,judicial_court,16.0,False,False,AKap
+36.0,CONSILIUM,AKapSąd II,a. 1475,Morstin in captivitate appellationem interposuit apostolos tamen reportare nequi,AKapSąd,15,medium,judicial_court,15.0,False,False,AKapSąd II
+37.0,CONSILIUM,AGZ XVI,a. 1490,"procurator Ieronimi reformavit sibi, ut si posset ante insinuationem alias ""lupr",AGZ,15,medium,judicial_court,15.0,True,False,AGZ XVI
+38.0,CONSILIUM,DŁUG. LibBen II,,acta sunt haec sacro consilio Basiliensi durante,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. LibBen II
+167.0,CONSUETUDO,ZABOR. Coelib,,vite continentis virum in suam viuendi consuetudinem recipiebant Iudaei,ZABOR,9,medium,chronicle_historical,,False,False,ZABOR. Coelib
+173.0,CONSUETUDO,AAlex ,a. 1501,pro optima natura et consuetud(in)e illius nihil dubitamus eum facturum,AAlex,10,medium,unknown,16.0,False,False,AAlex
+174.0,CONSUETUDO,Tom. V ,a. 1520,"reperi hic complueres viros bonos et suavissimae consuetud(in)is, cum quibus mih",Tom,13,medium,correspondence,16.0,False,False,Tom. V
+177.0,CONSUETUDO,MARTIN. OP. Marg.,,"illud, quod in communi vsu est, consuetudo vocatur",MARTIN,8,medium,literary_classical,,False,False,MARTIN. OP. Marg.
+191.0,CONSUETUDO,AKapSąd II,a. 1444,"de bona consuetud(in)e, non tamen de iure benedicere panes",AKapSąd,9,medium,judicial_court,15.0,False,False,AKapSąd II
+192.0,CONSUETUDO,StPPP VII,a. 1487,quibus libertatibus quomodolibet potiuntur consuetud(in)e uel de iure,StPPP,8,medium,diplomatic,15.0,False,False,StPPP VII
+213.0,CONSUETUDO,KodWp II,a. 1288,partem hereditatis iure Novi Fori et consuetud(in)e de Slesia locare,KodWp,10,medium,diplomatic,13.0,False,False,KodWp II
+214.0,CONSUETUDO,PrPol,a. 1389,secundum terre Cracoviensis consuetud(in)em et statuta,PrPol,6,medium,diplomatic,14.0,False,False,PrPol
+215.0,CONSUETUDO,ArPrawn VIII,a. 1398,secundum consuetud(in)em terre,ArPrawn,3,short,judicial_court,14.0,False,False,ArPrawn VIII
+216.0,CONSUETUDO,ArPrawn VIII,saec. XV,secundum morem et consuetud(in)em Maszovie,ArPrawn,5,medium,judicial_court,,False,False,ArPrawn VIII
+218.0,CONSUETUDO,StPPP II,a. 1440,"secundum consuetud(in)em terrestrem, ""podlug ugladu""",StPPP,5,medium,diplomatic,15.0,True,False,StPPP II
+219.0,CONSUETUDO,AGZ XIV,a. 1445,"super consuetud(in)em terrestrem alias ""na szyemsky vclad""",AGZ,7,medium,judicial_court,15.0,True,False,AGZ XIV
+229.0,CONSUETUDO,ConcPol III ,a. 1519,"consuetudo si alicubi est in solutione pastori, servanda est",ConcPol,9,medium,unknown,16.0,False,False,ConcPol III
+230.0,CONSUETUDO,StPPP III,a. 1532,consuetud(in)em in solvenda ceparum decima non reprobamus,StPPP,7,medium,diplomatic,16.0,False,False,StPPP III
+232.0,CONSUETUDO,APozn I,a. 1450,sicud est consuetudo inter homines,APozn,5,medium,judicial_court,15.0,False,False,APozn I
+236.0,CONSUETUDO,StPPP II,a. 1453,"consuetudo alis ""uchuala"" est proclamata ex mandato domini regis et consensu dom",StPPP,17,long,diplomatic,15.0,True,False,StPPP II
+237.0,CONSUETUDO,ArPrawn I,saec. XV,quod ex statutis et longewa consuetud(in)e ecclesiae Gneznensis cuilibet canonic,ArPrawn,13,medium,judicial_court,,False,False,ArPrawn I
+238.0,CONSUETUDO,AKapSąd II,a. 1522,"dnus episcopus Vincencius statuit istam consuetud(in)em, quod",AKapSąd,7,medium,judicial_court,16.0,False,False,AKapSąd II
+244.0,CONSUETUDO,StPPP I,saec. XIV medio,ne mala consuetudo ex eo commitatur,StPPP,6,medium,diplomatic,,False,False,StPPP I
+259.0,CONSUETUDO,KodWp I,a. 1225,ut nullis angariis vel aliis Polonicis consuetud(in)bus graventur,KodWp,8,medium,diplomatic,13.0,False,False,KodWp I
+260.0,CONSUETUDO,KodTyn,a. 1471,"domum pauperum eximimus ab omnibus oneribus, consuetud(in)bus, quae vulgariter """,KodTyn,11,medium,diplomatic,15.0,True,False,KodTyn
+261.0,CONSUETUDO,Lites II,a. 1413,nulla longi temporis consuetudo conscienciam tribuit occupandi et praescribendi ,Lites,18,long,diplomatic,15.0,False,False,Lites II
+262.0,CONSUETUDO,KsgCzer,a. 1415,quod prescripcio et anni consuetud(in)is exspirauerunt,KsgCzer,6,medium,diplomatic,15.0,False,False,KsgCzer
+1093.0,CONSUL,KodKKr I,a. 1269,scoltetus septem vallatus consulibus iudicet et scabinis,KodKKr,7,medium,diplomatic,13.0,False,False,KodKKr I
+1094.0,CONSUL,KodWp II,a. 1288,presentibus consulbus et iuratis civitatis Poznaniensis,KodWp,6,medium,diplomatic,13.0,False,False,KodWp II
+1096.0,CONSUL,ARect I,a. 1530,domina Benigna ciuis et consul Cracoviensis,ARect,6,medium,unknown,16.0,False,False,ARect I
+1097.0,CONSUL,*MPVat III,a. 1310,"instrumentum fidem non faceret, eo quod non videtur esse conscriptum cum die et ",MPVat,23,long,unknown,14.0,False,False,MPVat III
+1098.0,CONSUL,*MPVat III,a. 1310,"littera quia data non est ibi cum die et consule, falsa est",MPVat,12,medium,unknown,14.0,False,False,MPVat III
+1099.0,CONSUL,ArHist XII,saec. XIV/XV,nostro ordini possetis deputare dummodo maiori parti conventus placuerit et prec,ArHist,12,medium,chronicle_historical,,False,True,ArHist XII
+1100.0,CONSUL,AGZ XIV,a. 1445,"Petrum alias Messopero de Ansaldo heredem Licostomi, consulem Francorum",AGZ,9,medium,judicial_court,15.0,False,False,AGZ XIV
+834.0,CONVENTIO,WilkLub,a. 1455,"czechi seu magistri mechanicorum non debent facere conventiones alias ""gromad"" s",WilkLub,13,medium,diplomatic,15.0,True,False,WilkLub
+835.0,CONVENTIO,*CodVit,a. 1385,cum Jagalone conventionem celebrare,CodVit,4,short,correspondence,14.0,False,False,CodVit
+836.0,CONVENTIO,RachJag,a. 1394,ad conventionem cum domino rege celebrandam,RachJag,6,medium,financial_administrative,14.0,False,False,RachJag
+839.0,CONVENTIO,RHist I,a. 1407,conventionem generalem hodie fecimus in Pyotrkow,RHist,6,medium,unknown,15.0,False,False,RHist I
+840.0,CONVENTIO,AGZ XIV,a. 1442,"secundum conventionem alias ""seymv"" Moszczycziensem statutum",AGZ,6,medium,judicial_court,15.0,True,False,AGZ XIV
+841.0,CONVENTIO,AGZ XVII,a. 1494,"ad conventionem terrestrem proximam alias ""na schyem""",AGZ,7,medium,judicial_court,15.0,True,False,AGZ XVII
+842.0,CONVENTIO,GLb,,"conventio ""sgyem""",GLb,2,short,glosses_marginalia,,True,False,GLb
+843.0,CONVENTIO,APozn I,a. 1435,in conventione Szredensi Gorliczenses per dominos conventionis predicte liberi p,APozn,10,medium,judicial_court,15.0,False,False,APozn I
+844.0,CONVENTIO,TPaw VII,a. 1419,dominus judex existens in conventione cum ceteris terre nobilibus,TPaw,9,medium,diplomatic,15.0,False,False,TPaw VII
+,CONVENTIO,APozn I,a. 1435,per dominos conventionis predicte liberi promittebuntur,APozn,6,medium,judicial_court,15.0,False,False,APozn I
+845.0,CONVENTIO,JusPol,a. 1531,si quis citatus ad praesentiam solius principis terrae aut ad terminos generales,JusPol,21,long,unknown,16.0,False,False,JusPol
+846.0,CONVENTIO,RFil XXIV,a. 1415,"conventio cum operariis ""syednane""",RFil,4,short,scholarly_periodical,15.0,True,False,RFil XXIV
+847.0,CONVENTIO,CracArt IV,a. 1385,conventionem cum muratore,CracArt,3,short,unknown,14.0,False,False,CracArt IV
+849.0,CONVENTIO,APozn I,a. 1465,iuxta conventionem factam pro labore tocius anni,APozn,7,medium,judicial_court,15.0,False,False,APozn I
+850.0,CONVENTIO,RachJag,a. 1394,"pro conventione VII curruum ducendi thezaurum regine versus Poloniam, dando a qu",RachJag,17,long,financial_administrative,14.0,False,False,RachJag
+851.0,CONVENTIO,RachJag,a. 1394,"pro conventione VI equorum ad assedam regine quartam, dando ebdomanatim per VII ",RachJag,13,medium,financial_administrative,14.0,False,False,RachJag
+852.0,CONVENTIO,KodWp III,a. 1365,"in nostra borra utilitatem apum exerceat, in qua eciam borra tercium denarium in",KodWp,15,medium,diplomatic,14.0,False,True,KodWp III
+853.0,CONVENTIO,RachJag,a. 1388,pro conventione silue Gotardo et gloti sue in Boleslaw heredibus VIII scotos,RachJag,12,medium,financial_administrative,14.0,False,False,RachJag
+855.0,CONVENTIO,ZabDziej III,a. 1497,dum idem Alexius residisset in conventione taberne et questus fuisset sepius dom,ZabDziej,13,medium,chronicle_historical,15.0,False,True,ZabDziej III
+856.0,CONVENTIO,CodEp III,a. 1455,"ita, quod conventio et reconvencio pari passu et eisdem terminis debuissent trac",CodEp,14,medium,correspondence,15.0,False,False,CodEp III
+857.0,CONVENTIO,ZabDziej II,a. 1488,Iacobus beneficio conventionis proposuit contra honorabilem Donatum quomodo,ZabDziej,8,medium,chronicle_historical,15.0,False,False,ZabDziej II
+858.0,CONVENTIO,KsgPrzem I,a. 1424,Sanoczsky ex recognicione domini advocati obtinuit contra Iaschkonem primam quer,KsgPrzem,12,medium,diplomatic,15.0,False,False,KsgPrzem I
+859.0,CONVENTIO,ARect I,a. 1493,"sub pena triginta florenorum, medietas pro arbitrio predicto, et alia medietas p",ARect,18,long,unknown,15.0,False,False,ARect I
+860.0,CONVENTIO,KodMp IV,a. 1450,datum et actum in conventione predictarum granicierum,KodMp,7,medium,diplomatic,15.0,False,False,KodMp IV
+861.0,CONVENTIO,AGZ VI,a. 1469,acta sunt hec et data in conventione granicierum in campo inter predictas heredi,AGZ,13,medium,judicial_court,15.0,False,False,AGZ VI
+862.0,CONVENTIO,KodLit,a. 1414,"quod gwerras mouisset importunas, prout hoc ipsum eorum conventione propria comp",KodLit,11,medium,diplomatic,15.0,False,True,KodLit
+863.0,CONVENTIO,ListMił,saec. XV,"puellam laudantes triplici laude tercio a pulchritudine, quae maiorem habet conv",ListMił,15,medium,correspondence,,False,False,ListMił
+867.0,CONVENTUS,ArPrawn I,a. 1444,conventus generalis Piotrcoviensis,ArPrawn,3,short,judicial_court,15.0,False,False,ArPrawn I
+868.0,CONVENTUS,RFil XXV,a. 1488,"conventum ""sigyem"" facite",RFil,3,short,scholarly_periodical,15.0,True,False,RFil XXV
+869.0,CONVENTUS,CorpjP IV,a. 1526,universis regnicolis conventum iustitiae ad reformanda communia iura et unicuiqu,CorpjP,14,medium,unknown,16.0,False,False,CorpjP IV
+870.0,CONVENTUS,*CodSil(M) II,a. 1216,"inhibemus, ne ullus episcopus ad synodos vel conventus forenses vos ire vel iudi",CodSil(M,20,long,diplomatic,13.0,False,False,CodSil(M) II
+871.0,CONVENTUS,*CodPom I,a. 1247,ad forenses conventus accedere inuitos compellitis,CodPom,6,medium,diplomatic,13.0,False,False,CodPom I
+873.0,CONVENTUS,ŁASKI ComPriv,,a legittimo conventu iudicabitur de tribus articulis,ŁASKI,7,medium,literary_classical,,False,False,ŁASKI ComPriv
+874.0,CONVENTUS,KADŁUB.,,sacer ille conventus triduanum oracionibus continuat ieiunium,KADŁUB,7,medium,chronicle_historical,,False,False,KADŁUB.
+875.0,CONVENTUS,CodSil(M) II,a. 1209,abbas et conventus de villa sua nobis cesserunt,CodSil(M,8,medium,diplomatic,13.0,False,True,CodSil(M) II
+876.0,CONVENTUS,RFil X,saec. XVI in.,"conventus ""opactuo""",RFil,2,short,scholarly_periodical,,True,False,RFil X
+877.0,CONVENTUS,StPPP VIII,a. 1390,pro parte prepositi et conventus sui Mechouiensis,StPPP,7,medium,diplomatic,14.0,False,False,StPPP VIII
+879.0,CONVENTUS,StPPP VIII,a. 1397,conventui monasterii sancti Andree,StPPP,4,short,diplomatic,14.0,False,False,StPPP VIII
+880.0,CONVENTUS,ZabDziej II,a. 1482,conventus Sancte Crucis Leopoli,ZabDziej,4,short,chronicle_historical,15.0,False,False,ZabDziej II
+881.0,CONVENTUS,KodMp I,a. 1236,abbas et conventus de Andrzeiow,KodMp,5,medium,diplomatic,13.0,False,False,KodMp I
+882.0,CONVENTUS,StPPP VIII,a. 1381,cum conventu de Stanatky,StPPP,4,short,diplomatic,14.0,False,False,StPPP VIII
+883.0,CONVENTUS,ChrClar,a. 1505,conventus fratrum in Caczicze,ChrClar,4,short,unknown,16.0,False,False,ChrClar
+884.0,CONVENTUS,KodMp IV,a. 1409,sigillum nostri scabinalis conventus,KodMp,4,short,diplomatic,15.0,False,False,KodMp IV
+885.0,CONVENTUS,RotPysdr,a. 1418,dominus Poznaniensis cum Alberto et Nicolao de Bnyn inter Curnik et Bnyn convent,RotPysdr,30,long,unknown,15.0,True,False,RotPysdr
+886.0,CONVENTUS,StPPP III,saec. XIV med.,ne ad iudicia venientes premant se turmis et conventibus masculorum,StPPP,10,medium,diplomatic,,False,True,StPPP III
+887.0,CONVENTUS,RFil X,saec. XVI in.,"conventus id est congregacio hominum ""pospolstwo""",RFil,6,medium,scholarly_periodical,,True,False,RFil X
+888.0,CONVENTUS,KsgŁawKr,a. 1368,aream contiguam conventui Peszconis Wynrici,KsgŁawKr,5,medium,diplomatic,14.0,False,False,KsgŁawKr
+86.0,CORONA,DŁUG. Hist. I,,restitutionem coronarum materialium regni Poloniae obtenturi,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Hist. I
+87.0,CORONA,RFil LIII,a. 1460,"corona regia ""swonyecz""",RFil,3,short,scholarly_periodical,15.0,True,False,RFil LIII
+88.0,CORONA,KodKWil,a. 1398,infulam gemmis decusatam seu coronam episcopalem,KodKWil,6,medium,diplomatic,14.0,False,False,KodKWil
+89.0,CORONA,PrzMog,,papalis corone margarita pretiosa,PrzMog,4,short,scholarly_periodical,,False,False,PrzMog
+90.0,CORONA,KodWp III,a. 1374,sub eadem corona et de gente Polonica sit oriundus,KodWp,9,medium,diplomatic,14.0,False,False,KodWp III
+91.0,CORONA,DokMp I,a. 1381,coronari ad coronam dicti regni,DokMp,5,medium,diplomatic,14.0,False,False,DokMp I
+93.0,CORONA,KodLit,a. 1411,"de bonis episcoporum Ordinis Cruciferorum, que habent sub Corona",KodLit,9,medium,diplomatic,15.0,False,False,KodLit
+94.0,CORONA,ArPrawn V,a. 1433,terras Lithuaniae et Russiae post obitum eius Kieistuti ad nos et filios nostros,ArPrawn,17,long,judicial_court,15.0,False,False,ArPrawn V
+96.0,CORONA,Lites II,a. 1286,in eorum possessione fuit Corona regni Polonie pacifica et quieta,Lites,10,medium,diplomatic,13.0,False,False,Lites II
+97.0,CORONA,CodVit,a. 1386,Wladislao regi et Heduigi regine atque Corone regni Polonie promittimus,CodVit,10,medium,correspondence,14.0,False,False,CodVit
+98.0,CORONA,AKapSąd II,a. 1426,ex parte regis et tocius Corone vadit ad magnum ducem Lithwanie,AKapSąd,11,medium,judicial_court,15.0,False,False,AKapSąd II
+99.0,CORONA,KodPol I,a. 1433,nos regem Wladislaum regnum et Coronam ac regnicolas regni nostri Polonie desere,KodPol,14,medium,diplomatic,15.0,False,False,KodPol I
+100.0,CORONA,Tom. VII,a. 1525,postquam exempta sitis fuerat mensaeque remotae stetimus in corona,Tom,9,medium,correspondence,16.0,False,False,Tom. VII
+101.0,CORONA,Ib. VIII,a. 1526,quingenti ex eis nobilibus capti in corona positi,Tom,8,medium,correspondence,16.0,False,False,Tom. VIII
+102.0,CORONA,NIC. POL.,,si coronam vel tempora inungas,NIC,5,medium,literary_classical,,False,False,NIC. POL.
+103.0,CORONA,KodWp II,a. 1326,"clerici coronam, tonsuram et vestes deferant suo proposito congruentes",KodWp,9,medium,diplomatic,14.0,False,False,KodWp II
+104.0,CORONA,ConcPol VI,a. 1398,clericos tonsuram capillorum patentibus auribus et coronam sive clericam deferre,ConcPol,10,medium,unknown,14.0,False,False,ConcPol VI
+105.0,CORONA,*CodPom I,a. 1200,ad candelas cereas utriusque coronae et ad cereum nocturnum quatuor marcas,CodPom,11,medium,diplomatic,13.0,False,False,CodPom I
+106.0,CORONA,MARTIN. OP. Serm.,,duas coronas panum ei detulit,MARTIN,5,medium,literary_classical,,False,False,MARTIN. OP. Serm.
+107.0,CORONA,DŁUG. Op.,,centum Thuronenses uni aequipolleant coronae auri de Francia,DŁUG,8,medium,chronicle_historical,,False,False,DŁUG. Op.
+108.0,CORONA,VITELO Opt.,,corona fit ex refractione luminis solis uel lunae uel stellarum primae magnitudi,VITELO,18,long,unknown,,False,False,VITELO Opt.
+109.0,CORONA,VITELO Opt.,,"impressio, quae Graece dicitur άλως Latine dicitur corona",VITELO,8,medium,unknown,,False,False,VITELO Opt.
+774.0,DECRETUM,ArPrawn I,a. 1577,decretum concilii Tridentini adversus matrimonia clandestina,ArPrawn,6,medium,judicial_court,16.0,False,False,ArPrawn I
+775.0,DECRETUM,CorpJP III,a. 1514,"decretum fecisse, quibus viis negotiatores in intima regni transire debeant",CorpJP,10,medium,unknown,16.0,False,False,CorpJP III
+776.0,DECRETUM,VAdAnt,,contra diuinum fas et decretorum legalium iura adulterium defendere,VAdAnt,9,medium,unknown,,False,False,VAdAnt
+777.0,DECRETUM,WŁODK. Tract.,,papa facit decreta et imperator leges,WŁODK,6,medium,unknown,,False,False,WŁODK. Tract.
+778.0,DECRETUM,AKapSąd II,a. 1418,in secundo volumine Decretum iuris con tinetur,AKapSąd,7,medium,judicial_court,15.0,False,False,AKapSąd II
+780.0,DECRETUM,SSrSil VIII,a. 1459,populus Bohemicus decreta et decretales fabulas esse asserit,SSrSil,8,medium,unknown,15.0,False,False,SSrSil VIII
+781.0,DECRETUM,AKapSąd III,a. 1499,"in presencia testatoris impugnantis robur et decretum testamenti, allegantis ill",AKapSąd,14,medium,judicial_court,15.0,False,False,AKapSąd III
+782.0,DECRETUM,Lites I,a. 1339,"iudices ad presentis sentencie diffinitive confirmacionem et robur, eorum auctor",Lites,14,medium,diplomatic,14.0,False,False,Lites I
+783.0,DECRETUM,KodWp III,a. 1354,huic transsumpto auctoritatem nostram ordinariam interposuimus et decretum,KodWp,8,medium,diplomatic,14.0,False,True,KodWp III
+785.0,DECRETUM,KodWp III,a. 1354,decreti interposicioni et auctoritatis presens interfui notarius publicus,KodWp,8,medium,diplomatic,14.0,False,False,KodWp III
+786.0,DECRETUM,AKapSąd II,a. 1483,litteram cum interpositione decreti,AKapSąd,4,short,judicial_court,15.0,False,False,AKapSąd II
+787.0,DECRETUM,DokMp I,a. 1369,Iohannes in medietatem advocatiae secundum privilegia in iudicio eodem bannito o,DokMp,14,medium,diplomatic,14.0,False,False,DokMp I
+788.0,DECRETUM,StPPP VIII,a. 1399,ex decreto dominorum iudicii LXXX marcas obligauit se soluturum Wilczconi,StPPP,10,medium,diplomatic,14.0,False,False,StPPP VIII
+789.0,DECRETUM,Ib.,a. 1400,quartam partem ville ab ipso ex decreto dominorum recipiet,StPPP,9,medium,diplomatic,15.0,False,False,StPPP VIII
+790.0,DECRETUM,APozn I,a. 1443,"super decretum alias ""v skazanye"" dominorum",APozn,6,medium,judicial_court,15.0,True,False,APozn I
+791.0,DECRETUM,AGZ XVII,a. 1496,"rogo decretum alias ""dokazanya"" iuxta citacionem",AGZ,6,medium,judicial_court,15.0,True,False,AGZ XVII
+792.0,DECRETUM,Ib. XIV,a. 1444,"usque ad invencionem pro causa predicta et decretum alias ""do roszprawa""",AGZ,11,medium,judicial_court,15.0,True,False,AGZ XIV
+793.0,DECRETUM,RHist LXIX,a. 1510,"citationes et decreta seu victiones iuris alias ""sparcze prawa""",RHist,9,medium,unknown,16.0,True,False,RHist LXIX
+794.0,DECRETUM,GLcerv,,"decretum ""ortel, dekret, wyrok""",GLcerv,4,short,glosses_marginalia,,True,False,GLcerv
+795.0,DECRETUM,StPPP VIII,a. 1388,decretum inter Petrum et Spitkonem,StPPP,5,medium,diplomatic,14.0,False,False,StPPP VIII
+796.0,DECRETUM,KsgRWar I,a. 1496,consules decretum fecerunt pro domino Baltasar,KsgRWar,6,medium,diplomatic,15.0,False,False,KsgRWar I
+798.0,DECRETUM,StPPP III,a. 1532,sententiis et decretis desuper factis,StPPP,5,medium,diplomatic,16.0,False,False,StPPP III
+799.0,DECRETUM,StPPP II,a. 1498,rexd-um suum capitaneo decernere mandauit,StPPP,5,medium,diplomatic,15.0,False,False,StPPP II
+800.0,DECRETUM,StPPP VII,a. 1497,"dum iurabunt ambae partes, habebunt ad ius et decretum",StPPP,9,medium,diplomatic,15.0,False,False,StPPP VII
+801.0,DECRETUM,AGZ XII,a. 1464,"fideiussit statuere hominem Clementem ad decretum alias ""ku skazanyv""",AGZ,9,medium,judicial_court,15.0,True,False,AGZ XII
+110.0,DIGNITAS,GLcerv,,"dignitas, qualitas vel praeeminentia, quae inhaeret personae, ""dostoieństwo""",GLcerv,8,medium,glosses_marginalia,,True,False,GLcerv
+111.0,DIGNITAS,VITELO Opt.,,"habet superficies speculi, a qua fit reflexio, aliquam dignitatem in formatione ",VITELO,13,medium,unknown,,False,False,VITELO Opt.
+112.0,DIGNITAS,GŁOG. Alex. I,,"est dignitas casus concipientis supra casum conceptum, quia rectus dignior est o",GŁOG,17,long,chronicle_historical,,False,False,GŁOG. Alex. I
+113.0,DIGNITAS,GŁOG. Anal.,,"principium demonstrationis est dignitas, quam Aristotiles sic diffinit: dignitas",GŁOG,18,long,chronicle_historical,,False,False,GŁOG. Anal.
+114.0,DIGNITAS,BYSTRZ. AnalPost ,,"dignitas est propositio, quam necesse est per se esse et per seipsam mente vider",BYSTRZ,27,long,literary_classical,,False,False,BYSTRZ. AnalPost
+116.0,DIGNITAS,GŁOG. Anal.,,principium commune alio nomine vocatur dignitas,GŁOG,6,medium,chronicle_historical,,False,False,GŁOG. Anal.
+572.0,DOMINIUM,DokMp I,a. 1372,que ad nostrum ducale dominium spectare dinoscuntur,DokMp,7,medium,diplomatic,14.0,False,False,DokMp I
+573.0,DOMINIUM,ib.,,"dominium regale, quod in omnibus habemus",DokMp,6,medium,diplomatic,,False,False,DokMp I
+574.0,DOMINIUM,*LhnUrk,a. 1348,censum in recognicionem sui superioris dominii rite persolverint,LhnUrk,8,medium,unknown,14.0,False,False,LhnUrk
+576.0,DOMINIUM,JANKO,,omnes duces Poloniae consueverant sibi esse aequales nec alter ab altero quicqua,JANKO,19,long,unknown,,False,False,JANKO
+577.0,DOMINIUM,CodSil X,a. 1299,vendidi possessionem cum superioris et inferioris iudicii dominio prout ad me pe,CodSil,12,medium,diplomatic,13.0,False,False,CodSil X
+578.0,DOMINIUM,KsgHenr,a. 1303,ideo nolo collacionis dominium ad me et ad successores meos pertinere,KsgHenr,11,medium,diplomatic,14.0,False,False,KsgHenr
+580.0,DOMINIUM,PrzywKr,,tunc domini consules in eligendo signatore dominium sibi reservant,PrzywKr,9,medium,scholarly_periodical,,False,False,PrzywKr
+581.0,DOMINIUM,GALL,,Boleslaus I totam terram eorum Hungarorum usque Danubium suo dominio mancipavit,GALL,11,medium,chronicle_historical,,False,False,GALL
+582.0,DOMINIUM,Ib.,,"proceres decreverunt, quatenus Bolezlauus Sudomir et Cracow sedes regni principa",GALL,17,long,chronicle_historical,,False,False,GALL
+583.0,DOMINIUM,CodSil(M) II,a. 1211,sine teloneo per totam terram et dominium nostrum libere mercatores vadant pro s,CodSil(M,14,medium,diplomatic,13.0,False,False,CodSil(M) II
+585.0,DOMINIUM,ArPrawn II,a. 1443,"foedus ""państwo wolne"" id est dominium",ArPrawn,6,medium,judicial_court,15.0,True,False,ArPrawn II
+586.0,DOMINIUM,GLcerv,,"dominus ""pan"", dominium ""państwo""",GLcerv,4,short,glosses_marginalia,,True,False,GLcerv
+587.0,DOMINIUM,AKapSąd I,a. 1431,"de villa, dominio seu allodio debitam ecclesie solverint pensionem",AKapSąd,9,medium,judicial_court,15.0,False,False,AKapSąd I
+588.0,DOMINIUM,KsgŁawWar I,a. 1484,"tenere dominium alias ""gymyenye"" fortiter a tempore inscripcionis in librum",KsgŁawWar,10,medium,diplomatic,15.0,True,False,KsgŁawWar I
+590.0,DOMINIUM,StPPP IX,a. 1531,"domina Katherina legauit Anne neptisse sue viginti marcas, quas habet in scultec",StPPP,21,long,diplomatic,16.0,True,False,StPPP IX
+591.0,DOMINIUM,KodMp II,a. 1256,fratribus Sancti Sepulcri domus Mechouiensis ivridicionem dominio nostro (i. nob,KodMp,15,medium,diplomatic,13.0,False,False,KodMp II
+592.0,DOMINIUM,DokMp I,a. 1373,"si quis voluerit mellificia reformare, habeat facultatem nostro dominio quartale",DokMp,12,medium,diplomatic,14.0,False,False,DokMp I
+594.0,DOMINIUM,OrdUst,a. 1542,si aliquis subditorum subditum tamquam profugum et rebellem contravenientem prae,OrdUst,28,long,unknown,16.0,False,False,OrdUst
+595.0,DOMINIUM,VITELO OpM,,in mixtis elementis a dominio sunt semper terra et aqua,VITELO,10,medium,unknown,,False,False,VITELO OpM
+596.0,DOMINIUM,CodVit,a. 1416,"avaricia in mentibus eorum Cruciferorum maius habuit dominium, quam propagacio f",CodVit,12,medium,correspondence,15.0,False,False,CodVit
+598.0,DOMINIUM,CodSil VI,a. 1339,"bona damus cum dominio mero et mixto, utili et directo et aliis iuribus universi",CodSil,14,medium,diplomatic,14.0,False,False,CodSil VI
+599.0,DOMINIUM,StPPP VII,a. 1544,"in omni fundo seu hereditate, quae fert annuos fructus, est duplex dominium, vid",StPPP,19,long,diplomatic,16.0,False,False,StPPP VII
+600.0,DOMINIUM,DŁUG. LibBen I,,proprietas villae et dominium maius pertinet ad sanctimoniales minor proprietas ,DŁUG,17,long,chronicle_historical,,False,False,DŁUG. LibBen I
+601.0,DOMINIUM,KodWp III,a. 1385,villam ab domino abbate cum omni iure et dominio integro superiori et inferiori ,KodWp,14,medium,diplomatic,14.0,False,False,KodWp III
+602.0,DOMINIUM,Tom. VIII,a. 1526,reges Polonie terras Masoviae velut dominium certum et mixtum possidebant,Tom,10,medium,correspondence,16.0,False,False,Tom. VIII
+603.0,DOMINIUM,PP II,a. 1450,"nobilis Jacobus recognouit, quia consorti sue in et super medietate omnium bonor",PP,26,long,scholarly_periodical,15.0,False,False,PP II
+604.0,DOMINIUM,KodUJ I,a. 1406,nihil iuris ac perpetuitatis seu dominii in eadem hereditatis parte pro nobis re,KodUJ,13,medium,diplomatic,15.0,False,False,KodUJ I
+605.0,DOMINIUM,CracArt I,a. 1429,Czypser sibi in dictis bonis dominium plenum et potestatem reservavit,CracArt,10,medium,unknown,15.0,False,False,CracArt I
+606.0,DOMINIUM,ArPrawn X,a. 1399,Petrassio adiudicatur dominium super equis,ArPrawn,5,medium,judicial_court,14.0,False,False,ArPrawn X
+607.0,DOMINIUM,KodKKr II,a. 1402,premissa voluntas sua vltima debet invariabiliter permanere ac ipse sibi desuper,KodKKr,14,medium,diplomatic,15.0,False,False,KodKKr II
+273.0,DOMINUS,RFil XXIV,a. 1466,"apild dominum, ""v goszpodzyna""",RFil,4,short,scholarly_periodical,15.0,True,False,RFil XXIV
+274.0,DOMINUS,KomKadł,,"in Slauonico ""pan"" dicitur dominus seu totum habens",KomKadł,8,medium,unknown,,True,False,KomKadł
+276.0,DOMINUS,StPPP II ,a. 1432,"przegrodam tenet dominus obligatorius alias ""zastawny""",StPPP,6,medium,diplomatic,15.0,True,False,StPPP II
+278.0,DOMINUS,AUnii ,a. 1386,universitas dominorum regni,AUnii,3,short,diplomatic,14.0,False,False,AUnii
+280.0,DOMINUS,ib.,,pro conplemento tractatorum inter nos regem parte ab una dominamque Hedvigim reg,AUnii,17,long,diplomatic,,False,False,AUnii
+282.0,DOMINUS,GLc,,"""dziedziczny pan"", dominus fundi",GLc,4,short,glosses_marginalia,,True,False,GLc
+283.0,DOMINUS,ib.,,"""pan dzedzynny"" uel ""dzedzycz gymyenya zemnego"", dominus proprietatis), terrae a",GLc,10,medium,glosses_marginalia,,True,False,GLc
+286.0,DOMINUS,StPPP VIII ,a. 1400,"Bodzantha cum Miczcone terminum secundum habent pro eo, quod eidem dixit, quod e",StPPP,18,long,diplomatic,15.0,True,False,StPPP VIII
+289.0,DOMINUS,VadAnt,,dominus uille diuinum heroa Adalbertum transduxit in uillam,VadAnt,8,medium,unknown,,False,False,VadAnt
+290.0,DOMINUS,KodWp II,a. 1228,incole eiusdem ville a nullo iudicentur nisi a domino suo vel a suo scultheto in,KodWp,17,long,diplomatic,13.0,False,False,KodWp II
+291.0,DOMINUS,StPPP III,,frumenta domini villae et colonorum libere de campis conducantur,StPPP,9,medium,diplomatic,,False,False,StPPP III
+292.0,DOMINUS,ArPrawn II,saec. XIV med.,pro wlnere cmethonis mediam marcam domino ipsius cmethonis teneatur,ArPrawn,9,medium,judicial_court,,False,False,ArPrawn II
+293.0,DOMINUS,AKapSąd III ,a. 1511,nobilis Johannes Gzovski dominus dicti Johannis sui kmethonis,AKapSąd,8,medium,judicial_court,16.0,False,False,AKapSąd III
+297.0,DOMINUS,AKapSąd III ,a. 1525,Hyncza de Rogow in Dankow dominus et heres,AKapSąd,8,medium,judicial_court,16.0,False,False,AKapSąd III
+299.0,DOMINUS,CodEp III,a. 1496,"in ffodinis moncium siccorum domini moncium alias""gwarkowe"" exaccionem solvant",CodEp,9,medium,correspondence,15.0,True,False,CodEp III
+302.0,DOMINUS,GLcerv,,"dominus ""pan"", dominium ""państwo""",GLcerv,4,short,glosses_marginalia,,True,False,GLcerv
+305.0,DOMINUS,GALL,,fidem servare volumus domino nostro naturali,GALL,6,medium,chronicle_historical,,False,False,GALL
+306.0,DOMINUS,Lites I ,a. 1339,Wladislaus rex quondam Polonie terram Pomoranie tenuit ut dominus verus et natur,Lites,12,medium,diplomatic,14.0,False,False,Lites I
+310.0,DOMINUS,ZABOR. Tract.,,"non dominus coronae est, sed rector",ZABOR,6,medium,chronicle_historical,,False,False,ZABOR. Tract.
+311.0,DOMINUS,KodMp IV,a. 1406,nos Bolko dux Thesnensis et dominus Oswieczimensis et Glogouie maioris,KodMp,10,medium,diplomatic,15.0,False,False,KodMp IV
+312.0,DOMINUS,WŁODK. Op.,,Cruciferi gentem Pruthenorum sibi subiugarunt et dominium occuparunt et domini d,WŁODK,14,medium,unknown,,False,False,WŁODK. Op.
+313.0,DOMINUS,KodMaz(K),a. 1067,Boleslaus rex Poloniae in Gora et Steina dominus,KodMaz(K,8,medium,diplomatic,11.0,False,False,KodMaz(K)
+314.0,DOMINUS,GALL,,"Sbigneus a fratre Boleslao Mazouiam retinere sicut miles, non ut dominus impetra",GALL,12,medium,chronicle_historical,,False,False,GALL
+315.0,DOMINUS,Ib.,,"Zbigneus Bolezlauo fratri suo legationem misit misericorditer supplicando, quati",GALL,32,long,chronicle_historical,,False,False,GALL
+317.0,DOMINUS,Lites II,saec. XV in.,"gwerra inter inclitum principem et dominum, dominum Wladislaum regem Polonie et",Lites,11,medium,diplomatic,,False,False,Lites II
+318.0,DOMINUS,CorpJP II,a. 1507,"serenissimo principi et domino, domino Sigismundo regi",CorpJP,7,medium,unknown,16.0,False,False,CorpJP II
+319.0,DOMINUS,STPPP VIII,a. 1377,causam ad dominos deliberamus ad festum sancti Stanislai,STPPP,8,medium,diplomatic,14.0,False,False,STPPP VIII
+320.0,DOMINUS,Ib.,a. 1382,ad peticionem marsalconis est deletus per mandatum dominorum,STPPP,8,medium,diplomatic,14.0,False,False,STPPP VIII
+323.0,DOMINUS,KodMp IV,a. 1450,iuxta decretum dominorum colloquialium,KodMp,4,short,diplomatic,15.0,False,False,KodMp IV
+324.0,DOMINUS,AGZ XVI,a. 1475,"ubi domini colloquiales et domini, qui in convencionibus solent residere, interf",AGZ,11,medium,judicial_court,15.0,False,False,AGZ XVI
+325.0,DOMINUS,PrPol,a. 1386,nos subiudices assignauimus terminum ad dominos superiores,PrPol,7,medium,diplomatic,14.0,False,False,PrPol
+326.0,DOMINUS,Ib.,,ipsis ulterius prorogauimus terminum ad dominos seniores,PrPol,7,medium,diplomatic,,False,False,PrPol
+327.0,DOMINUS,StPPP VIII,a. 1399,Venceslaus ex decreto dominorum iudicii LXXX marcas obligauit se soluturum,StPPP,10,medium,diplomatic,14.0,False,False,StPPP VIII
+328.0,DOMINUS,APozn II ,a. 1485,"nullus ex civibus, sit ex dominis sive communitate, aliquem hospitem de Mazovia ",APozn,19,long,judicial_court,15.0,False,False,APozn II
+330.0,DOMINUS,ib.,a. 1495,Andreas Puhan facere deberet solucionem dicto Caspar sub non recessu de prethori,APozn,15,medium,judicial_court,15.0,False,False,APozn II
+332.0,DOMINUS,StPPP VIII ,a. 1376,ad mandatum domini Cracouiensis cancellatum est,StPPP,6,medium,diplomatic,14.0,False,False,StPPP VIII
+333.0,DOMINUS,Ib.,a. 1394,"debent producere litteras de iudicio Sandiciensis domini, quia habuerunt terminu",StPPP,17,long,diplomatic,14.0,False,False,StPPP VIII
+336.0,DOMINUS,DŁUG. Hist. III ,,quamvis Dobeslao de Kuroszwanky tunc castellano Cracoviensi et maiore domino cae,DŁUG,24,long,chronicle_historical,,False,False,DŁUG. Hist. III
+337.0,DOMINUS,CRIC. in Tom XV,a. 1533,"nos adhuc nihil incepimus, exspectamus reliquos dominos et nuntios an venturi si",CRIC,14,medium,unknown,16.0,False,False,CRIC. in Tom XV
+339.0,DOMINUS,KodMp II,a. 1275,"in omnibus aquis nullus venatorum ducis nec dominus castorum, dictus wlgo ""pan b",KodMp,17,long,diplomatic,13.0,True,False,KodMp II
+342.0,DOMINUS,ArHist XI,a. 1470,quartam milii census a domino de zuppis,ArHist,7,medium,chronicle_historical,15.0,False,False,ArHist XI
+344.0,DOMINUS,KodMp IV,a. 1427,reuerendo in Christo patre domino et domino Zbigneo Dei gracia episcopo Cracouie,KodMp,12,medium,diplomatic,15.0,False,False,KodMp IV
+345.0,DOMINUS,DŁUG. LibBen I,,"in presentia reverendi patris et domini, domini Sbignei episcopi Cracoviensis",DŁUG,10,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+348.0,DOMINUS,KodKKr I,a. 1166-1186,ne contra dominum Cracouiensem uel successorem eius pro sepedictis decimis queri,KodKKr,13,medium,diplomatic,12.0,False,False,KodKKr I
+349.0,DOMINUS,AKapSąd II,a. 1415,dominus restituit plebanum in possessionem decime,AKapSąd,6,medium,judicial_court,15.0,False,False,AKapSąd II
+352.0,DOMINUS,Ib.,a. 1526,officii domini in causa,AKapSąd,4,short,judicial_court,16.0,False,False,AKapSąd III
+354.0,DOMINUS,Ib.,a. 1432,de iuramentis dominorum,AKapSąd,3,short,judicial_court,15.0,False,False,AKapSąd I
+355.0,DOMINUS,ArPrawn V,saec. XV ex.,omnia ardua negocia ecclesiam Gneznensem concernencia presentes domini circa ecc,ArPrawn,14,medium,judicial_court,,False,False,ArPrawn V
+1044.0,DUX,ChrMP,,"duces exercitus ""woijewodij"" nominantur",ChrMP,4,short,unknown,,True,False,ChrMP
+1045.0,DUX,RFil XXIV,a. 1446,"dux belli ""ethman""",RFil,3,short,scholarly_periodical,15.0,True,False,RFil XXIV
+1047.0,DUX,Tom. I,a. 1509,"palatinum Cracoviensem, exercituum regni generalem ducem",Tom,6,medium,correspondence,16.0,False,False,Tom. I
+1048.0,DUX,MONET. ,,"sunt autem octo toni naturalis numeri — apud Latinos — appellatione nuncupati, v",MONET,38,long,unknown,,False,False,MONET.
+1049.0,DUX,MONET. ,,"cum in eo alterius quam sui ducis consonantem continet melodiam, commixtus dicet",MONET,12,medium,unknown,,False,True,MONET.
+1050.0,DUX,VAdAnt,,"ad hunc ergo Sclauonica manus perrexit, ferens legationem de parte ducis",VAdAnt,11,medium,unknown,,False,True,VAdAnt
+1051.0,DUX,VAdAnt,,"Pragam, ubi dux precluus Uuecezlaus regnum tenuit",VAdAnt,7,medium,unknown,,False,False,VAdAnt
+1052.0,DUX,RachJag,a. 1393,"ipso die dux, wlgariter ""xanszna"", soror domini regis ad cenam venit",RachJag,11,medium,financial_administrative,14.0,True,False,RachJag
+1054.0,DUX,GLcerv,,"dux vocatur, qui a principe de aliquo ducatu inuestitus est, ""książę""",GLcerv,11,medium,glosses_marginalia,,True,False,GLcerv
+1068.0,ELECTIO,DokMp II,a. 1439,electionis de nobis ad ecclesiam Gneznensem factae,DokMp,7,medium,diplomatic,15.0,False,False,DokMp II
+1069.0,ELECTIO,KodMp IV,a. 1440,electionis nostre in regem Hungarie,KodMp,5,medium,diplomatic,15.0,False,False,KodMp IV
+1070.0,ELECTIO,BYSTRZ. Top.,,electio est duobus bonis propositis vnius ante alterum preacceptio,BYSTRZ,9,medium,literary_classical,,False,False,BYSTRZ. Top.
+1071.0,ELECTIO,WROCŁ. Epit.,,"agens determinat se ad aliquid agendum per liberam electionem, que est actus vol",WROCŁ,15,medium,unknown,,False,False,WROCŁ. Epit.
+1073.0,ELECTIO,STOB. Aret.,,"solum ille sit iniustus, qui nocet electione et pari modo: ille iustus, qui ius ",STOB,16,long,literary_classical,,False,False,STOB. Aret.
+1074.0,ELECTIO,APozn II,a. 1487,"canonici circa solucionem nos multipliciter gravabant, tam in electione monete, ",APozn,19,long,judicial_court,15.0,False,False,APozn II
+1075.0,ELECTIO,PP III,a. 1452,"Hannus hoc debet sibi presentare in Gdansko sub electione, alias ""pod brakiem""",PP,12,medium,scholarly_periodical,15.0,True,True,PP III
+1076.0,ELECTIO,ŁASKI ComPriv,,qui pro furto inculpantur non possunt se per iuramenta sua expurgare; tres tamen,ŁASKI,20,long,literary_classical,,False,False,ŁASKI ComPriv
+1077.0,ELECTIO,ConcPol VI,a. 1593,"sub paenarum gravissimarum animadversione in eos, qui in cuiusvis rei institutio",ConcPol,26,long,unknown,16.0,False,False,ConcPol VI
+1078.0,ELECTIO,Visit.,a. 1557,sunt depicti omnes reges Poloniae cum summaria electione omnium chronicarum reru,Visit,14,medium,unknown,16.0,False,False,Visit.
+1079.0,ELECTIO,TPaw I,a. 1502,"Nicolaus quitatus est de sexaginta marcis de electione civili Radomiensi, quas i",TPaw,14,medium,diplomatic,16.0,False,False,TPaw I
+1111.0,EPISCOPUS,RFil XXV,saec. XV ex.,"episcopum ""opyekadlnyka"" animarum",RFil,3,short,scholarly_periodical,,True,False,RFil XXV
+1112.0,EPISCOPUS,AGZ VII,a. 1424,"in causa honorabilis domini Ilia, Ruthenici episcopi alias wladice Premisliensis",AGZ,10,medium,judicial_court,15.0,False,False,AGZ VII
+1113.0,EPISCOPUS,HumRef,a. 1443,"universis ecclesiis earumque episcopis seu wladicis, praelatis ritus Graeci Ruth",HumRef,10,medium,unknown,15.0,False,False,HumRef
+1115.0,EPISCOPUS,PrzywKr,a. 1370,"Lewkonem Judeum necnon Casym eius episcopum aut alium Judeum, quem ipsi in episc",PrzywKr,15,medium,scholarly_periodical,14.0,False,False,PrzywKr
+1116.0,EPISCOPUS,KsgŁawKr,a. 1373,recognovit se Smoil Judeorum episcopo in XXI marcis obligari,KsgŁawKr,9,medium,diplomatic,14.0,False,False,KsgŁawKr
+1166.0,EXERCITUS,DŁUG. Hist. I,,collectis copiarum suarum exercitibus Moraviam ingreditur,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Hist. I
+1167.0,EXERCITUS,StPPP II,a. 1490,"duobus, cum quibus stabat in ""oboz"" et duobus in exercitu alias ""wfye""",StPPP,12,medium,diplomatic,15.0,True,False,StPPP II
+1169.0,EXERCITUS,AGZ VI,a. 1497,"ad exercitum alias ""do woyska""",AGZ,5,medium,judicial_court,15.0,True,False,AGZ VI
+1170.0,EXERCITUS,GLb,,"exercitus ""zastąmp""",GLb,2,short,glosses_marginalia,,True,False,GLb
+1171.0,EXERCITUS,KodMp I,a. 1257,ab omni expedicione uel exercitu ipsos penitus absoluentes,KodMp,8,medium,diplomatic,13.0,False,False,KodMp I
+1172.0,EXERCITUS,AGZ VI,a. 1390,advocatus et sui successores nobis cum una hasta ad expedicionem sive exercitum ,AGZ,15,medium,judicial_court,14.0,False,False,AGZ VI
+1173.0,EXERCITUS,StPPP II,a. 1475,Johannes patruum suum cum duobus nobilibus ex utraque parte secum in exercitu al,StPPP,18,long,diplomatic,15.0,True,False,StPPP II
+1174.0,EXERCITUS,StPPP II,a. 1490,"duos debent statuere qui cum eis stabant in exercitu alias ""v szyku""",StPPP,12,medium,diplomatic,15.0,True,True,StPPP II
+1134.0,FEUDUM,KodMaz(K),a. 1230,"quicquid episcopus in memorato territorio Culmensi nomine feudi concesserat, fas",KodMaz(K,28,long,diplomatic,13.0,False,False,KodMaz(K)
+1135.0,FEUDUM,KodWp I,a. 1233,"in defensione terre, hii, qui mansos in feudo receperunt propriis sumptibus ades",KodWp,13,medium,diplomatic,13.0,False,False,KodWp I
+1137.0,FEUDUM,StPPP X,saec. XV in.,feudum est possessio data seu collata alicui propter actus militares,StPPP,10,medium,diplomatic,,False,False,StPPP X
+1138.0,FEUDUM,KodUJ I,a. 1393,"domus Margaretham iure hereditario legitime et per modum feudi vulgariter ""wolne",KodUJ,12,medium,diplomatic,14.0,True,False,KodUJ I
+1139.0,FEUDUM,KodUJ I,a. 1393,"omne ius in ipsum Iudaeum cum aequali feudo vulgariter ""woleństwo"" perpetualiter",KodUJ,12,medium,diplomatic,14.0,True,False,KodUJ I
+1140.0,FEUDUM,Somm.,a. 1363,"singula sua bona contulimus eidem Dobuscho iure feudi quod vulgariter ""Lengut"" n",Somm,12,medium,unknown,14.0,True,False,Somm.
+1141.0,FEUDUM,ArPrawn II,a. 1444,"feudus ""panstwo wolne"" id est dominium et feudus eciam dicitur ""wolne dobre""",ArPrawn,12,medium,judicial_court,15.0,True,False,ArPrawn II
+1142.0,FEUDUM,GLc,,"feudum ""lynska dziedzina""",GLc,3,short,glosses_marginalia,,True,False,GLc
+1143.0,FEUDUM,GLw,,"feodus ""wolne dobro dziedziny linskiey""",GLw,5,medium,glosses_marginalia,,True,False,GLw
+1144.0,FEUDUM,Lites I,a. 1282,"concedimus filiolo nostro totam terram nostri ducatus cum censibus suis, feudis,",Lites,15,medium,diplomatic,13.0,False,True,Lites I
+1145.0,FEUDUM,AKapSąd I,a. 1431,"prelati et canonici audito, quod feudus ville in bonis propter expediciones in m",AKapSąd,34,long,judicial_court,15.0,False,False,AKapSąd I
+1146.0,FEUDUM,DŁUG. Hist. III,,"marchionem Moraviae mittit, qui obsidione Franksten cingat et ad feudum Boleslau",DŁUG,13,medium,chronicle_historical,,False,True,DŁUG. Hist. III
+1148.0,FEUDUM,DŁUG. Hist. V,,donec dux cum terra sua feudum et homagium regi et regno praestaret,DŁUG,12,medium,chronicle_historical,,False,False,DŁUG. Hist. V
+1149.0,FEUDUM,GLb,,"feudum ""manstvo, vysluga""",GLb,3,short,glosses_marginalia,,True,False,GLb
+1150.0,FEUDUM,StPPP X,saec. XV in.,"ius, quod apud nos ""linskye"" dicitur, per vocabulum feudum poterit designari",StPPP,11,medium,diplomatic,,True,False,StPPP X
+152.0,GENS,*KodWp II,a. 1346,coadunata multitudine gentium armatarum villas violenter intrare,KodWp,7,medium,diplomatic,14.0,False,False,KodWp II
+153.0,GENS,*Theiner II,a. 1414,conductus armigerarum gentium in numero copioso,Theiner,6,medium,unknown,15.0,False,False,Theiner II
+154.0,GENS,ArHist XI,a. 1419,ubi cum exercitibus et armorum gentbus fuerimus constituti,ArHist,8,medium,chronicle_historical,15.0,False,False,ArHist XI
+156.0,GENS,Id. Hist. I,,ut pro recuperatione ducatus sui aut personaliter cum eo vadat aut gentem expedi,Id,14,medium,unknown,,False,False,Id. Hist. I
+157.0,GENS,KodMp IV,a. 1442,in expediendo se Hungariam cum gentium suarum nobilibus comitiuis decenti armoru,KodMp,13,medium,diplomatic,15.0,False,False,KodMp IV
+158.0,GENS,*Tom V,a. 1521,"persone eclesiastice, que gentes non conservant et pecoribus pecudibusque carent",Tom,14,medium,correspondence,16.0,False,False,Tom V
+159.0,GENS,DŁUG. LibBen III,,in quibus erroribus et hactenus maior pars illius gentis nationis Bohemicae pers,DŁUG,12,medium,chronicle_historical,,False,False,DŁUG. LibBen III
+160.0,GENS,RachJag,a. 1389,dominica Omnes gentes in die beati Petri ad vincula,RachJag,9,medium,financial_administrative,14.0,False,False,RachJag
+161.0,GENS,StPPP VI,a. 1397,feria tercia post dominicam Omnes gentes seu in crastino beati Sixti,StPPP,11,medium,diplomatic,14.0,False,False,StPPP VI
+162.0,GENS,KomPolit,,aliquid posse hereditari intelligitur dupliciter: uno modo de iure naturali alio,KomPolit,17,long,unknown,,False,False,KomPolit
+1151.0,GUBERNATOR,IusPol,a. 1401,"rector seu gubernator mellificiorum sive alias mellicida dictus ""barthnik""",IusPol,9,medium,unknown,15.0,True,False,IusPol
+1152.0,GUBERNATOR,MIECH. Chr.,,"Vierzinek, consul Craccoviensis omnium officiorum in curia regis gubernator",MIECH,9,medium,unknown,,False,False,MIECH. Chr.
+1153.0,GUBERNATOR,DokMp I,a. 1349,advocatus noster eiusque posteri serviens nobis cum arcu in nostris seu gubernat,DokMp,18,long,diplomatic,14.0,False,True,DokMp I
+1154.0,GUBERNATOR,AUnii,a. 1389,dum per regem Poloniae in tutorem et gubernatorem hominum et populi fuissemus in,AUnii,15,medium,diplomatic,14.0,False,True,AUnii
+1156.0,GUBERNATOR,CantMAe I,saec XIV ex.,"Paule, doctor egregie quondam tortor, tandem pie gubernator Ecclesie",CantMAe,9,medium,unknown,,False,False,CantMAe I
+1157.0,GUBERNATOR,KodWp III,a. 1374,"ut dux nos protegeret ac eciam gubernaret, tanquam tutor nostre ecclesie et paup",KodWp,27,long,diplomatic,14.0,False,False,KodWp III
+1159.0,GUBERNATOR,Lites I,a. 1339,incole terre obediebant preceptis suis tamquam seniori et gubernatori nepotum su,Lites,14,medium,diplomatic,14.0,False,True,Lites I
+1160.0,GUBERNATOR,ArPrawn X,a. 1411,Katherina cum Petro filio suo orbati gubernatore et tutore videlicet archiepisco,ArPrawn,19,long,judicial_court,15.0,False,False,ArPrawn X
+1161.0,GUBERNATOR,StPPP II,a. 1431,"dominus Żegotha tamquam gubernator ""opijekadlnik"" circa hominem suum stat pro su",StPPP,12,medium,diplomatic,15.0,True,False,StPPP II
+1163.0,GUBERNATOR,PP III,a. 1448,Iohannes constituit Laurencium in suum plenipotentem gubernatorem supra domo,PP,9,medium,scholarly_periodical,15.0,False,False,PP III
+1247.0,HEREDITAS,GLc,,"hereditas ""wdzedzynowane gymyenye wolnego dobra""",GLc,5,medium,glosses_marginalia,,True,False,GLc
+1248.0,HEREDITAS,AGZ XV,a. 1467,"Philip habet iura perpetuitatis et hereditatis alias ""wyecznosczy y dzedzyczstwa",AGZ,10,medium,judicial_court,15.0,True,False,AGZ XV
+1249.0,HEREDITAS,KodPol I,saec. XIII in.,erogavit dux predicte domui has hereditates cum hominibus simul Koszcol Dolan,KodPol,11,medium,diplomatic,,False,True,KodPol I
+1250.0,HEREDITAS,KodKKr I,a. 1274,Zacharias jus et facultatem habens in eadem hereditate molendinum et tabernam co,KodKKr,12,medium,diplomatic,13.0,False,False,KodKKr I
+1251.0,HEREDITAS,KodWp I,saec. XIII,addens eidem ecclesie hereditatem Padnyewo,KodWp,5,medium,diplomatic,,False,True,KodWp I
+1252.0,HEREDITAS,KsgHenr,,ipsa hereditas Rathschitz ascripta fuit mense principis,KsgHenr,7,medium,diplomatic,,False,False,KsgHenr
+1254.0,HEREDITAS,StPPP VIII,a. 1400,"pro parte hereditatis wlgariter ""dzelnicza""",StPPP,5,medium,diplomatic,15.0,True,False,StPPP VIII
+1255.0,HEREDITAS,StPPP IX,a. 1468,"pro libera hereditate alias ""za wolnye"" in Warszycze",StPPP,8,medium,diplomatic,15.0,True,False,StPPP IX
+1256.0,HEREDITAS,StPPP II,a. 1485,"habuit certas pecunias in eisdem hereditatibus alias ""na gymyenyu""",StPPP,9,medium,diplomatic,15.0,True,False,StPPP II
+1257.0,HEREDITAS,GLc,,"""pvsczina przez dzedzycza"" hereditas obmortua",GLc,5,medium,glosses_marginalia,,True,False,GLc
+1258.0,HEREDITAS,GLcerv,,"hereditas dicuntur omnia bona, cum quibus homo moritur ""dziedzictwo""",GLcerv,9,medium,glosses_marginalia,,True,False,GLcerv
+1259.0,HEREDITAS,CodSil X,a. 1342,miles allodium suum in hereditates convertere decrevit et de mansis aratoriis fa,CodSil,13,medium,diplomatic,14.0,False,False,CodSil X
+1260.0,HEREDITAS,Visit.,a. 1287,archiepiscopus hereditatem suam adventitiam Polanyno servitiis suis demeritam lo,Visit,10,medium,unknown,13.0,False,False,Visit.
+1261.0,HEREDITAS,ArPrawn VIII,a. 1416,iste fluuius iacet in hereditate communi et ista hereditas non est diuissa prete,ArPrawn,18,long,judicial_court,15.0,False,False,ArPrawn VIII
+1262.0,HEREDITAS,GLcerv,,"hereditas delata intelligitur, quam quis possit adeundo consequi",GLcerv,8,medium,glosses_marginalia,,False,False,GLcerv
+1263.0,HEREDITAS,ZABOR. Tract.,,"hereditates principativae id est dominorum, sunt quasi communes, hoc est sunt or",ZABOR,21,long,chronicle_historical,,False,False,ZABOR. Tract.
+1264.0,HEREDITAS,Śwink.,a. 1299,assignavit comiti Johanni hereditatem Ostrów,Śwink,5,medium,unknown,13.0,True,False,Śwink.
+1265.0,HEREDITAS,KodWp I,saec. XIII,addens eidem ecclesie hereditatem Padnyewo,KodWp,5,medium,diplomatic,,False,False,KodWp I
+1266.0,HEREDITAS,KsgSądWar,a. 1454,"vituperavit eum dominum et hereditatem eius et alias ""grumada"" eius",KsgSądWar,10,medium,diplomatic,15.0,True,False,KsgSądWar
+609.0,HONOR,KrMU,,"ubi honor in regimine vel rectoratu non est, ibi non dubitatur esse contemptus",KrMU,13,medium,unknown,,False,False,KrMU
+610.0,HONOR,KodMaz(K),a. 1139,capellam in honore sancti Michaelis constructam,KodMaz(K,6,medium,diplomatic,12.0,False,False,KodMaz(K)
+611.0,HONOR,KodMp II,a. 1198,ecclesiam in honore sancti Sepulcri,KodMp,5,medium,diplomatic,12.0,False,False,KodMp II
+612.0,HONOR,DŁUG. Hist. I p. 272 (= II,,unum monasterium sub honore sancti Petri apostoli,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. Hist. I p. 272 (= II
+613.0,HONOR,Ib. IV,,cathedralem ecclesiam sub honore tituli sanctorum martyrum,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. Hist. I p. 272 (= IV
+614.0,HONOR,MARTIN. OP. Chr.,,festa apostolorum sub honore festi duplicis celebrare,MARTIN,7,medium,literary_classical,,False,False,MARTIN. OP. Chr.
+615.0,HONOR,KodMp II,a. 1317,"alia seruicia, vtpote honores et vtilitates nec non legationes quascunque nostri",KodMp,15,medium,diplomatic,14.0,False,False,KodMp II
+616.0,HONOR,Ib. III,a. 1333,pro honore autem … scolteti cum villanis suis in Natiuitate Christi sex scotos n,KodMp,16,long,diplomatic,14.0,False,False,KodMp III
+618.0,HONOR,KodMpIII,a. 1365,"honores alias ""gody"" bis in anno scultetus et eius posteri libere percipient",KodMpIII,12,medium,diplomatic,14.0,True,False,KodMpIII
+619.0,HONOR,KodTyn,a. 1479,"oppidani tenentur pro festo sancti Martini advocato exhibere honores alias ""pocz",KodTyn,20,long,diplomatic,15.0,True,False,KodTyn
+620.0,HONOR,DokMp I,a. 1380,"kmethones nobis tenentur semel in anno porrigere honores seu munera, XX ova et d",DokMp,18,long,diplomatic,14.0,False,False,DokMp I
+621.0,HONOR,KodMp III,a. 1367,"kmethones arbores mellificia continentes nobis honorem siue qualitatem, exinde f",KodMp,11,medium,diplomatic,14.0,False,False,KodMp III
+622.0,HONOR,RFil XXIII,saec. XV med.,"""czliwość"" honor",RFil,2,short,scholarly_periodical,,True,False,RFil XXIII
+624.0,HONOR,KsgPozn,a. 1403,"pro inputacione honoris wlgariter ""o naganene""",KsgPozn,6,medium,diplomatic,15.0,True,False,KsgPozn
+625.0,HONOR,ZapSądWp I,a. 1403,"produxit fratres suos clenodarios super inputacionem honoris wlgariter ""o nagane",ZapSądWp,11,medium,unknown,15.0,True,False,ZapSądWp I
+626.0,HONOR,KsgZPozn,a. 1403,"iuxta honorem consciencie wlgariter ""poduszil"" recognovit",KsgZPozn,6,medium,diplomatic,15.0,True,False,KsgZPozn
+627.0,HONOR,ib.,a. 1420,"castellanus habet ipsum Florianum pro bono honore, quia honorem suum expurgauit,",KsgZPozn,16,long,diplomatic,15.0,False,False,KsgZPozn
+628.0,HONOR,StPPP XI,a. 1422,"nullus sibi inpinxit culpam, nisi tocius honoris augmentum et quod honestus est",StPPP,12,medium,diplomatic,15.0,False,False,StPPP XI
+629.0,HONOR,TPaw VII,a. 1422,nescio de te aliud nisi bonum honorem,TPaw,7,medium,diplomatic,15.0,False,False,TPaw VII
+630.0,HONOR,RotPyzdr,a. 1396,"Krczon ducit testes pro honore videlicet ""policzek"" (i. colapho faciei dato)",RotPyzdr,11,medium,unknown,14.0,True,False,RotPyzdr
+631.0,HONOR,RFil XXIII,saec. XV med.,"mundanis honorbus ""sueczkim czam""",RFil,4,short,scholarly_periodical,,True,False,RFil XXIII
+632.0,HONOR,GALL,,Boriuoy dux brevi tempore honore caruit a fratre medio supplantatus,GALL,10,medium,chronicle_historical,,False,False,GALL
+633.0,HONOR,*CodSil(M) I,a. 1148,nostra amita per sententiam excommunicationis de terra sua et de honore sui duca,CodSil(M,15,medium,diplomatic,12.0,False,False,CodSil(M) I
+634.0,HONOR,PommUrk II,a. 1254,"sexcentos mansos cum omnibus pertinentiis, iurisdictione, honore ac distractu iu",PommUrk,15,medium,diplomatic,13.0,False,False,PommUrk II
+635.0,HONOR,*Dogiel IV,a. 1282,"dux Pomeraniae contulit fratribus omnia bona cum omni jure, jurisdictione, honor",Dogiel,15,medium,diplomatic,13.0,False,False,Dogiel IV
+636.0,HONOR,GALL,,quem fratrem Bohemiae ducis dux Bolezlaus in Polonia retinebat eique calumpniand,GALL,17,long,chronicle_historical,,False,False,GALL
+637.0,HONOR,KodLit,a. 1414,"vestra sinceritas justitie nostre subveniat, honorbus vobis subiectis prohibendo",KodLit,17,long,diplomatic,15.0,False,False,KodLit
+638.0,HONOR,RFil X,saec. XV ex.,"""dwornoscy"" honores",RFil,2,short,scholarly_periodical,,True,False,RFil X
+39.0,IMPERATOR,VAdAnt,,post hęc magister scolarum imperatoris seruitio ascriptus accessit in regiam cur,VAdAnt,11,medium,unknown,,True,False,VAdAnt
+40.0,IMPERATOR,Lites II,a. 1253,nihil dederunt de suo imperatores Ordini Cruciferorum in terris Prussiae,Lites,10,medium,diplomatic,13.0,False,False,Lites II
+42.0,IMPERATOR,Ib.II,a. 1299,renunciantes indulgenciis et privilegiis seu litteris Sedis Apostolice vel imper,Ib.II,13,medium,unknown,13.0,False,False,Ib.II
+43.0,IMPERATOR,*CodEp III,a. 1447,Iohannes Huniad Transsilvanorum dux magno Turcorum imperatori salutem plurimam,CodEp,9,medium,correspondence,15.0,False,False,CodEp III
+44.0,IMPERATOR,CALLIM. Hist.,,Amoratus Turcorum imperator,CALLIM,3,short,unknown,,False,False,CALLIM. Hist.
+45.0,IMPERATOR,DŁUG. Hist. IV,,literis imperatoris Thartarorum per Switrigal false compositis,DŁUG,7,medium,chronicle_historical,,False,False,DŁUG. Hist. IV
+46.0,IMPERIUM,RFil XXIII,a. 1437,"imperio terrente ""na przykaszanye boszkye""",RFil,5,medium,scholarly_periodical,15.0,True,False,RFil XXIII
+47.0,IMPERIUM,RFil XXII,a. 1512,"imperio suo ""na yego caßu""",RFil,5,medium,scholarly_periodical,16.0,True,False,RFil XXII
+49.0,IMPERIUM,DŁUG. Hist. I p. 231(= I,,Cunradus ex principibus Almanniae unus in regem Romanorum eligitur Cuno vero dux,DŁUG,18,long,chronicle_historical,,False,False,DŁUG. Hist. I p. 231(= I
+50.0,IMPERIUM,CALLIM. Hist.,,"Sigismundus rex Hungariae, qui ultro ad imperium accitus, Boemos quoque sibi pos",CALLIM,13,medium,unknown,,False,False,CALLIM. Hist.
+51.0,IMPERIUM,URSIN.,,hic ad amplissimum ac opulentissimum ducatus Litiphanici imperium vno omnium opt,URSIN,15,medium,unknown,,False,False,URSIN.
+52.0,IMPERIUM,*Dogiel IV,a. 1311,"concedentes iisdem fratribus, qui pro tempore fuerint, iurisdictionem ac merum e",Dogiel,20,long,diplomatic,14.0,False,False,Dogiel IV
+53.0,IMPERIUM,*KodTyn,a. 1408,dispositio iurisdictionis ipsarum villarum cum mero et mixto imperii dominio spe,KodTyn,14,medium,diplomatic,15.0,False,False,KodTyn
+54.0,IMPERIUM,WŁODK. Op.,,"impugnandi sunt isti infideles, qui non recognoscunt Romanum imperium",WŁODK,9,medium,unknown,,False,False,WŁODK. Op.
+55.0,IMPERIUM,KodPol I,a. 1501,"cunque ex eo imperia, regna, et principatus non modo stabiliri sed eciam augeri ",KodPol,16,long,diplomatic,16.0,False,True,KodPol I
+1274.0,IUDICIUM-1,GŁOG. Anal.,,iudicium est cognitio rei cum certitudine,GŁOG,6,medium,chronicle_historical,,False,False,GŁOG. Anal.
+1275.0,IUDICIUM-1,*Tom. IV,a. 1517,"in eam curam vel potius iudicium incidisse, ut judicaret",Tom,9,medium,correspondence,16.0,False,True,Tom. IV
+1276.0,IUDICIUM-1,CodVit,a. 1419,domini Boguslai tam subita fati iudicia mentem nostram turbarunt,CodVit,9,medium,correspondence,15.0,False,False,CodVit
+1278.0,IUDICIUM-1,NIC. BŁ. Serm. II,,"iudicat ouis videns lupum esse fugiendum naturali iudicio, sed non libero",NIC,11,medium,literary_classical,,False,False,NIC. BŁ. Serm. II
+1277.0,IUDICIUM-1,WROCŁ. EpitConcl,,"ille enim habet liberum iudicium, qui potest se mouere voluntarie ad ea, que bon",WROCŁ,28,long,unknown,,False,False,WROCŁ. EpitConcl
+1279.0,IUDICIUM-1,KsgSądWar,a. 1460,"iudicium banitum fuit eidem finale alias ""rok zawithi""",KsgSądWar,8,medium,diplomatic,15.0,True,False,KsgSądWar
+1280.0,IUDICIUM-1,KsgMaz I,a. 1416,super quo ego habeo iudicium et paratus sum meum iudicium ponere et ipsum kmetho,KsgMaz,16,long,diplomatic,15.0,False,False,KsgMaz I
+1281.0,IUDICIUM-1,DokMp I,a. 1270,coram ipso iudicium in omnibus causis terminetur,DokMp,7,medium,diplomatic,13.0,False,True,DokMp I
+1282.0,IUDICIUM-1,Lites II,a. 1292,facultatem omne iudicium exercendi in aliis quibuslibet causis magnis sive parvi,Lites,11,medium,diplomatic,13.0,False,False,Lites II
+1284.0,IUDICIUM-1,KsgPrzem II,a. 1447,Auchimus stetit primum iudicium super tunicam,KsgPrzem,6,medium,diplomatic,15.0,False,False,KsgPrzem II
+1293.0,IUDICIUM-1,AGZ XI,a. 1449,"eadem causa non debet venire ad iudicium alias ""w prawo""",AGZ,10,medium,judicial_court,15.0,True,False,AGZ XI
+1294.0,IUDICIUM-1,SchlUrk,a. 1292,"j-um hereditarium, quod tertius denarius nuncupatur",SchlUrk,6,medium,unknown,13.0,False,False,SchlUrk
+1295.0,IUDICIUM-1,CodSil I,a. 1328,"dantes villam cum censu, exaccionibus, iudiciis sive culpis",CodSil,8,medium,diplomatic,14.0,False,False,CodSil I
+1297.0,IUDICIUM-1,StSyn III,a. 1415,sacerdotes peccatum in penitenciali iudicio sibi detectum revelantes,StSyn,8,medium,diplomatic,15.0,False,False,StSyn III
+1298.0,IUDICIUM-1,ConcPol VIII,a. 1415,nullus nostrorum subditorum potest eligere iudicium non sui iudicis multo ergo m,ConcPol,14,medium,unknown,15.0,False,False,ConcPol VIII
+1299.0,IUDICIUM-1,DŁUG. Hist. V,,in iustitia et iudicio regendum assumas,DŁUG,6,medium,chronicle_historical,,False,True,DŁUG. Hist. V
+1300.0,IUDICIUM-1,AGZ IX,a. 1487,"haeres dedit eis iudicium alias ""prawo"" Theuthonicum et septem dies habent labor",AGZ,14,medium,judicial_court,15.0,True,True,AGZ IX
+730.0,IURISDICTIO,GLcerv,,"in sua iurisdictione, id est in suo foro, ""w swym prawie""",GLcerv,11,medium,glosses_marginalia,,True,False,GLcerv
+731.0,IURISDICTIO,Ib.,,iurisdictio est potestas de publico introducta cum necessitate iurisdicendi et a,GLcerv,13,medium,glosses_marginalia,,True,False,GLcerv
+732.0,IURISDICTIO,KodUJ II,a. 1444,in eorum contumaciam iurisdictionem in vim dictae commissionis nobis taliter fac,KodUJ,13,medium,diplomatic,15.0,False,False,KodUJ II
+733.0,IURISDICTIO,Ib.,a. 1463,ad nonnullos actus et terminos usque ad libelli articulati oblationem processimu,KodUJ,15,medium,diplomatic,15.0,False,False,KodUJ II
+735.0,IURISDICTIO,AKapSąd III,a. 1509,Alberto approbante ibidem iurisdictionem domini,AKapSąd,5,medium,judicial_court,16.0,False,False,AKapSąd III
+736.0,IURISDICTIO,AKapSąd II,a. 1464,procurator plebani citra approbationem iurisdictionis comparens excepit verbo co,AKapSąd,13,medium,judicial_court,15.0,False,False,AKapSąd II
+737.0,IURISDICTIO,ZabDziej II,a. 1483,in causa commissaria auctoritate apostolica citra approbacionem iurisdictionis d,ZabDziej,10,medium,chronicle_historical,15.0,False,False,ZabDziej II
+738.0,IURISDICTIO,Ib. III,a. 1490,tractabatur fundatio iurisdictionis,ZabDziej,3,short,chronicle_historical,15.0,False,False,ZabDziej III
+739.0,IURISDICTIO,Ib.,a. 1493,de cuius iurisdictionis non fundatione procurator protestatus est,ZabDziej,8,medium,chronicle_historical,15.0,False,False,ZabDziej III
+741.0,IURISDICTIO,Ib.,a. 1489,procuratoris impugnantis iurisdictionem,ZabDziej,3,short,chronicle_historical,15.0,False,False,ZabDziej II
+742.0,IURISDICTIO,AGZ XIII,a. 1462,"nolite iudicare consortem meam, detis ipsam ad meum ius, de mea iurisdictione, c",AGZ,18,long,judicial_court,15.0,True,False,AGZ XIII
+743.0,IURISDICTIO,ArPrawn X,a. 1413,"advocatus debet litteram ponere iurisdictionis sue, quod non habet hic de iure r",ArPrawn,15,medium,judicial_court,15.0,False,False,ArPrawn X
+744.0,IURISDICTIO,Ib.,a. 1415,"Petrus debet ponere privilegium civitatis Chancinensis iurisdictionis sue, quod ",ArPrawn,19,long,judicial_court,15.0,False,False,ArPrawn X
+745.0,IURISDICTIO,ArPrawn IV,,termini particulares semel infra mensem in quolibet districtu sive iurisdictione,ArPrawn,13,medium,judicial_court,,True,False,ArPrawn IV
+747.0,IURISDICTIO,TPaw IV,a. 1391,"fideiubuit statuere quatuor scrophas quod si non fecerit, absque iurisdictione t",TPaw,15,medium,diplomatic,14.0,False,False,TPaw IV
+748.0,IURISDICTIO,ArPrawn V,a. 1328,"sutor acquisivit quoddam pignus vera iurisdictione, quod potest vendere, ut iuri",ArPrawn,12,medium,judicial_court,14.0,False,False,ArPrawn V
+749.0,IURISDICTIO,TPaw IV,a. 1399,"Jacek iure euasit Johannem tali condicione, quod cum testibus erga Johannem comp",TPaw,23,long,diplomatic,14.0,False,False,TPaw IV
+750.0,IURISDICTIO,PrPol,a. 1400,"venientes ad iudicium monuerunt pro iurisdictione, wlgariter ""upominali se o pra",PrPol,11,medium,diplomatic,15.0,True,False,PrPol
+751.0,IURISDICTIO,AGZ XI,a. 1466,"tenes ipsam silvam violenter ultra iurisdictionem iuris, alias ""nad prawo""",AGZ,10,medium,judicial_court,15.0,True,False,AGZ XI
+752.0,IURISDICTIO,KsgCzer,a. 1407,Nicolaus debet dare kmethoni pacem tam diu quosque iurisdictio non perficietur a,KsgCzer,13,medium,diplomatic,15.0,False,False,KsgCzer
+753.0,IURISDICTIO,AGZ XI,a. 1425,extunc sine omni iurisdictione et sentencia pati debet tamquam reus,AGZ,10,medium,judicial_court,15.0,False,False,AGZ XI
+754.0,IURISDICTIO,AKapSąd II,a. 1428,dominus officialis non recedit a iurisdictione ulteriori in dictos Sigismundum e,AKapSąd,12,medium,judicial_court,15.0,False,False,AKapSąd II
+756.0,IURISDICTIO,AGZ XV,a. 1457,"debent statuere testes post palatini in Leopolim ingressum ad iurisdictionem, al",AGZ,13,medium,judicial_court,15.0,True,False,AGZ XV
+757.0,IURISDICTIO,TPaw III,a. 1389,"Albertus habet terminum cum domina Beata ad colloquium generale et debet omnes, ",TPaw,19,long,diplomatic,14.0,False,False,TPaw III
+758.0,IURISDICTIO,ArPrawn X,a. 1409,"ut quilibet suam iurisdictionem attemptare sciat in loco consueto, ubi de iure h",ArPrawn,13,medium,judicial_court,15.0,False,False,ArPrawn X
+759.0,IURISDICTIO,PP II,a. 1450,si aliqua sentencia diffinitiua diffinita fuerit et in illius decisione pars iur,PP,20,long,scholarly_periodical,15.0,False,False,PP II
+760.0,IURISDICTIO,StPPP II,a. 1432,capitaneus Cracouiensis cum aliquibus dominis debet sedere circa eandem jurisdic,StPPP,10,medium,diplomatic,15.0,False,False,StPPP II
+761.0,IURISDICTIO,KsgHenr,,filii Stephani in prefata silua nullam habent iurisdictionem requirendi uel redi,KsgHenr,11,medium,diplomatic,,False,False,KsgHenr
+762.0,IURISDICTIO,Ib.,,nullus heredum Stephani in dicta silua habeat unquam requirendi aliquam iurisdic,KsgHenr,11,medium,diplomatic,,False,False,KsgHenr
+764.0,IURISDICTIO,APozn I,a. 1459,"Pyecz nullam propinquitatem seu iurisdictionem in cloaca, quam in eodem muro Geo",APozn,18,long,judicial_court,15.0,False,False,APozn I
+765.0,IURISDICTIO,DokSZKr,a. 1325,Margareta nullum respectum aut iurisdictionem aliquam habebit ad predictam parte,DokSZKr,17,long,diplomatic,14.0,False,False,DokSZKr
+766.0,IURISDICTIO,KodKKr I,a. 1325,"ad cmethones scultetus suique successores, tam in iudicijs quam in penis siue an",KodKKr,19,long,diplomatic,14.0,False,False,KodKKr I
+767.0,IURISDICTIO,KsgŁawKr,a. 1375,"resignavit omnem iurisdictionem, quam habuit virtute quarundam litterarum scabin",KsgŁawKr,13,medium,diplomatic,14.0,False,False,KsgŁawKr
+768.0,IURISDICTIO,APozn I,a. 1463,"renunciaverunt omni iuri et iurisdictioni, quecumque super domo olim Nicolai hab",APozn,11,medium,judicial_court,15.0,False,False,APozn I
+769.0,IURISDICTIO,KodWp III,a. 1397,privilegia cassare promittimus omnis iurisdictionis vigorem ipsis auferentes,KodWp,8,medium,diplomatic,14.0,False,False,KodWp III
+770.0,IURISDICTIO,ArPrawn X,a. 1413,"non paruit ad probandam iurisdictionem sue excepcionis, cur et quare hic non deb",ArPrawn,15,medium,judicial_court,15.0,False,False,ArPrawn X
+1118.0,LEX,WŁODK. ScrSel I,,Deus misit imperatorem tamquam legem animatam in terris,WŁODK,8,medium,unknown,,False,False,WŁODK. ScrSel I
+1119.0,LEX,JAC. PAR. RefEccl,,"si lex animata, scilicet pastores subditos suos rexerint secundum legem inanimat",JAC,15,medium,unknown,,False,False,JAC. PAR. RefEccl
+1120.0,LEX,GLc,,"""zakon"", religio, lex",GLc,3,short,glosses_marginalia,,True,False,GLc
+1121.0,LEX,GLb,,"lex, ""pravo piszane, vel vstava"", lex spiritualis ""zakon duchowny""",GLb,9,medium,glosses_marginalia,,True,False,GLb
+1123.0,LEX,KADŁUB.,,lex de re militari,KADŁUB,4,short,chronicle_historical,,False,False,KADŁUB.
+1124.0,LEX,CodEp II,a. 1431,nec secundum Ieges imperiales sed secundum legem prophanam alias secundum ius Po,CodEp,14,medium,correspondence,15.0,False,False,CodEp II
+1125.0,LEX,Lites I,a. 1339,magister Bando licenciatus in legibus,Lites,5,medium,diplomatic,14.0,False,False,Lites I
+1126.0,LEX,ArPrawn I,a. 1376,papa supplicacionis cedulam legum doctori presentari fecit,ArPrawn,7,medium,judicial_court,14.0,False,False,ArPrawn I
+1128.0,LEX,DŁUG. Op.,,"tempus gratiae a tempore legis remota distantia discretum esse, cum maledictioni",DŁUG,17,long,chronicle_historical,,False,False,DŁUG. Op.
+1129.0,LEX,VAdAnt,,monastica lege viuere,VAdAnt,3,short,unknown,,False,False,VAdAnt
+1130.0,LEX,BYSTRZ. Log.,,"dat legem contradictoriarum, dicens quod",BYSTRZ,5,medium,literary_classical,,False,True,BYSTRZ. Log.
+1131.0,LEX,DŁUG. Op.,,Wyelislaus et Bogna perpetua se castitatis et abstinentiae lege devinciunt,DŁUG,10,medium,chronicle_historical,,False,False,DŁUG. Op.
+1132.0,LEX,Lites II,a. 1413,Samagite per Ordinem certis legibus privilegiati fuerunt,Lites,7,medium,diplomatic,15.0,False,False,Lites II
+1133.0,LEX,CRIC.,,"acies tunc frangere nostras, dum scissae fuerant et sine lege viri",CRIC,11,medium,unknown,,False,False,CRIC.
+357.0,LIBERTAS,GLb,,"libertas ""vyzwolenye""",GLb,2,short,glosses_marginalia,,True,False,GLb
+358.0,LIBERTAS,StMed XIX 2,a. 1444,contemplativa vita consistit in quadam libertate anime ad Deum,StMed,9,medium,unknown,15.0,False,False,StMed XIX 2
+359.0,LIBERTAS,KodMaz(K),a. 1172,"addens insuper hominibus libertatem omnium tributorum uel seruitiorum, que more ",KodMaz(K,16,long,diplomatic,12.0,False,False,KodMaz(K)
+360.0,LIBERTAS,KodMp II,a. 1198,"duos ex prelectis ducibus villis talem donasse, cessisse et tradidisse libertate",KodMp,20,long,diplomatic,12.0,False,False,KodMp II
+361.0,LIBERTAS,Ib. I,a. 1206,"omnesque in omnibus libertatibus, quas fratribus nostra liberalitas contulit man",KodMp,11,medium,diplomatic,13.0,False,False,KodMp I
+362.0,LIBERTAS,KodMp II,a. 1223,ne aliquis huiusce donationis libertatem convellere presumat,KodMp,7,medium,diplomatic,13.0,False,False,KodMp II
+364.0,LIBERTAS,KsgSądWar,a. 1511,"pro libertate alias ""wolą"", quam libertatem sibi dedit dominus per quatuor annos",KsgSądWar,14,medium,diplomatic,16.0,True,False,KsgSądWar
+365.0,LIBERTAS,StPPP XI,a. 1573,"tantum ad festum Assumptionis Marie libertatem alias ""wolia"" habent",StPPP,9,medium,diplomatic,16.0,True,False,StPPP XI
+366.0,LIBERTAS,ArHist V,a. 1392,contra Deum et iusticiam et ecclesiasticam libertatem hominem nostre ecclesie vi,ArHist,11,medium,chronicle_historical,14.0,False,False,ArHist V
+367.0,LIBERTAS,KodUJ III,a. 1485,census et proventus altari appropriare ecclesiasti caeque libertati et immunitat,KodUJ,13,medium,diplomatic,15.0,False,False,KodUJ III
+368.0,LIBERTAS,AKapSąd II,a. 1437,ne amodo inhibeat contra libertatem Ecclesiae,AKapSąd,6,medium,judicial_court,15.0,False,False,AKapSąd II
+369.0,LIBERTAS,KodMp II,a. 1155,"conferentes eidem militi Bosowicze villam possidendam, cum omni libertate milita",KodMp,11,medium,diplomatic,12.0,False,False,KodMp II
+370.0,LIBERTAS,Ib.,a. 1283,fratribus omnem graciam militalis libertatis dignum duximus conferendam,KodMp,8,medium,diplomatic,13.0,False,False,KodMp II
+371.0,LIBERTAS,KodMp II,a. 1318,villam abbati iure Theutunico locandam sub eadem libertate Theutunica donauimus,KodMp,10,medium,diplomatic,14.0,False,False,KodMp II
+372.0,LIBERTAS,KodMp II,a. 1198,"dux Casimirus talem huic foro contulit libertatem, ut ad ipsum uenientes, morant",KodMp,18,long,diplomatic,12.0,False,False,KodMp II
+373.0,LIBERTAS,DokSul,a. 1176,foro autem praedictae ecclesiae confero plenam libertatem et omnis tributariae s,DokSul,12,medium,diplomatic,12.0,False,False,DokSul
+374.0,LIBERTAS,KodPol I,,"erogavit praedicte domui has hereditates Koszcol, ubi concessit esse forum omni ",KodPol,15,medium,diplomatic,,False,False,KodPol I
+375.0,LIBERTAS,DokWp,a. 1253,ut forum in Ołobok et forum in Łubnic omnimodam habeat libertatem,DokWp,11,medium,diplomatic,13.0,True,False,DokWp
+378.0,LIBERTAS,DokSul,a. 1296,concedentes incolis a solutione decimae omnimodam libertatem,DokSul,7,medium,diplomatic,13.0,False,False,DokSul
+379.0,LIBERTAS,Ib.,a. 1296,ab omni exactione Polonicali vel Teutonicali duodecim annorum plenariam concedim,DokSul,11,medium,diplomatic,13.0,False,False,DokSul
+380.0,LIBERTAS,APozn III,a. 1505,libertas Iudee Channa ab altaristis,APozn,5,medium,judicial_court,16.0,False,False,APozn III
+381.0,LIBERTAS,DokMp I,a. 1272,de terra culta quattuor annorum plenaria gaudebunt libertate de silva densa sede,DokMp,15,medium,diplomatic,13.0,False,False,DokMp I
+382.0,LIBERTAS,LibBenP,a. 1516,habens de medio manso libertatem ad duos annos de medio manso habet libertatem a,LibBenP,16,long,diplomatic,16.0,False,False,LibBenP
+384.0,LIBERTAS,KsgSądWar,a. 1550,dedit ei libertatem super ortum quatuor annos,KsgSądWar,7,medium,diplomatic,16.0,False,False,KsgSądWar
+385.0,LIBERTAS,APozn I,a. 1447,non obstante libertate regis super non solucione censuum talium XIIII annis civi,APozn,13,medium,judicial_court,15.0,False,False,APozn I
+386.0,LIBERTAS,ib.,a. 1447,domina dedit libertatem super una marca census Mathie,APozn,8,medium,judicial_court,15.0,False,False,APozn I
+387.0,LIBERTAS,APozn III,a. 1503,"dedit libertatem molendinatori hinc usque ad dominicam Letare, quod nichil dabit",APozn,12,medium,judicial_court,16.0,False,False,APozn III
+388.0,LIBERTAS,KodMp III,a. 1378,concedimus incolis ville XXti annos libertatem,KodMp,6,medium,diplomatic,14.0,False,False,KodMp III
+389.0,LIBERTAS,KodMp III,a. 1333,damus eisdem libertatem a data presencium ad viginti annos a decima,KodMp,11,medium,diplomatic,14.0,False,False,KodMp III
+390.0,LIBERTAS,KodWp V,a. 1405,agros extirpantes libertatem habere debent ad sedecim annos,KodWp,8,medium,diplomatic,15.0,False,False,KodWp V
+391.0,LIBERTAS,KsgRWar,a. 1493,damus sibi census hereditarii ad tres annos libertatem,KsgRWar,8,medium,diplomatic,15.0,False,False,KsgRWar
+392.0,LIBERTAS,TArch,a. 1489,kmetho libertatem habet per duos annos,TArch,6,medium,unknown,15.0,False,False,TArch
+376.0,LIBERTAS,DokMp I,a. 1407,in annis libertatis quilibet cmeto super festum s. Martini unum grossum plebano ,DokMp,13,medium,diplomatic,15.0,False,False,DokMp I
+377.0,LIBERTAS,KsgRWar,a. 1510,a quo molendino Stanislao dederunt duos annos libertatis,KsgRWar,8,medium,diplomatic,16.0,False,False,KsgRWar
+393.0,LIBERTAS,StPPP VIII,a. 1388,in hiisdem marcis libertatem suam cum omni iure ipsis debet obligare,StPPP,11,medium,diplomatic,14.0,False,False,StPPP VIII
+394.0,LIBERTAS,Ib. IX,a. 1486,germani dicti Liberi de Crayawicze recognouerunt se vendidisse libertatem in Cra,StPPP,12,medium,diplomatic,15.0,False,False,StPPP IX
+396.0,LIBERTAS,Ib.,a. 1491,Bartholomeus posuit et dedit Nicolao quinque marcas pecunie annualis pro liberta,StPPP,15,medium,diplomatic,15.0,True,False,StPPP IX
+397.0,LIBERTAS,KodKKr I,a. 1335,"decimis ad mensam episcopalem pertinentibus, scilicet in Mnyscoua Uola et in Lib",KodKKr,15,medium,diplomatic,14.0,False,False,KodKKr I
+398.0,LIBERTAS,IurMas I,a. 1349,"villas Gawlowo, Brunowo, et Sladowo cum libertate",IurMas,7,medium,unknown,14.0,False,False,IurMas I
+400.0,LIBERTAS,DokMp IV,a. 1375,locavimus libertatem vulgariter dictam Zandkowska Wolia,DokMp,6,medium,diplomatic,14.0,False,False,DokMp IV
+401.0,LIBERTAS,AGZ XVIII,a. 1492,"excepto Volycza Malnow quam libertatem alias ""volycza"" reservat pro se",AGZ,10,medium,judicial_court,15.0,True,False,AGZ XVIII
+405.0,LIBERTAS,KsgKaz,a. 1375,apud consules Myczak piscator emit virgultas nemoris in Libertate civitatis pro ,KsgKaz,13,medium,diplomatic,14.0,False,False,KsgKaz
+402.0,LIBERTAS,KodMp IV,a. 1387,villas Pstroschicze et Libertatem Rospirzchow,KodMp,5,medium,diplomatic,14.0,False,False,KodMp IV
+403.0,LIBERTAS,DokMp I,a. 1370,usque ad metas Libertatis Scriptoris,DokMp,5,medium,diplomatic,14.0,False,False,DokMp I
+404.0,LIBERTAS,KodMp IV,a. 1404,"Nicolao de Zawada, Dirzkone de Ade Libertate",KodMp,7,medium,diplomatic,15.0,False,False,KodMp IV
+406.0,LIBERTAS,IurMas I,a. 1368,"de hiis villis videlicet: Rybno Mloczini, Libertas Grodensis, Bantkowska Wola",IurMas,10,medium,unknown,14.0,False,False,IurMas I
+407.0,LIBERTAS,AKapSąd II,a. 1418,in causa domini plebani contra nobilem super libertate ducture decime,AKapSąd,10,medium,judicial_court,15.0,False,False,AKapSąd II
+408.0,LIBERTAS,CodEp I 1,a. 1386,sicut eius melius et licite videtur facientes iuxta eorum libertatem,CodEp,10,medium,correspondence,14.0,False,False,CodEp I 1
+409.0,LIBERTAS,DŁUG. Hist. IV,,fuitque ipse Helias Siradiae longo tempore custoditus et servatus omniaque habeb,DŁUG,15,medium,chronicle_historical,,False,False,DŁUG. Hist. IV
+410.0,LIBERTAS,ArHist IV,a. 1283,contulimus Ratiborio cum utilitate qualibet omnimodam venandi libertatem,ArHist,8,medium,chronicle_historical,13.0,False,False,ArHist IV
+411.0,LIBERTAS,Lites I,a. 1339,"magister dedit sibi libertatem, quod posset exire dictam terram Pomoranie",Lites,10,medium,diplomatic,14.0,False,False,Lites I
+412.0,LIBERTAS,KodMp III,a. 1364,damus Nicolao molendinum cum Iibertate pisces prandendi in equis et fluuijs pref,KodMp,13,medium,diplomatic,14.0,False,False,KodMp III
+413.0,LIBERTAS,StPPP II,a. 1403,pueri in dicta silua libertatem ligna secandi et pisces prandendi in fluuio habe,StPPP,14,medium,diplomatic,15.0,False,False,StPPP II
+419.0,LIBERTAS,DokMp I,a. 1412,omnimodam libertatem extirpacionis et eradicacionis dederunt,DokMp,6,medium,diplomatic,15.0,False,False,DokMp I
+420.0,LIBERTAS,ArSang V,a. 1537,omnem libertatem illi admittimus ad venandum aves,ArSang,7,medium,unknown,16.0,False,False,ArSang V
+421.0,LIBERTAS,StPPP VIII,a. 1399,"pro libertate in silua wlgariter ""wramb""",StPPP,6,medium,diplomatic,14.0,True,False,StPPP VIII
+422.0,LIBERTAS,KodMp IV,a. 1413,"pro quadam libertate in pascuis, borris, rubetis et syluis",KodMp,9,medium,diplomatic,15.0,False,False,KodMp IV
+423.0,LIBERTAS,LibBenP,a. 1430,in orto damus perpetuam libetatem locare decem ortulanos,LibBenP,8,medium,diplomatic,15.0,False,False,LibBenP
+424.0,LIBERTAS,APozn I,a. 1458,"vendidit domum cum hac libertate, quod de postico eiusdem domus per cannale flue",APozn,17,long,judicial_court,15.0,False,False,APozn I
+425.0,LIBERTAS,JAC. PAR. RefEccl,,"data libertate a Cyro rege, ut possent reverti ad Ierusalem",JAC,10,medium,unknown,,False,False,JAC. PAR. RefEccl
+426.0,LIBERTAS,KsgRWar,a. 1506,muliere predicte pro dicta libertate duas sexagenas dare debebit et ipsa tunc ex,KsgRWar,18,long,diplomatic,16.0,False,False,KsgRWar
+415.0,LIBERTAS,DokMp I,a. 1403,pro ecclesia donavit nemorum Iibertatem,DokMp,5,medium,diplomatic,15.0,False,False,DokMp I
+416.0,LIBERTAS,AGZ XIII,a. 1446,vendiderunt villam cum libertate omnium silvarum,AGZ,6,medium,judicial_court,15.0,False,False,AGZ XIII
+418.0,LIBERTAS,AGZ XIII,a. 1466,"cum libertate silvarum, pascuum, venacionum, piscaturarum, aucupacionum in tota ",AGZ,10,medium,judicial_court,15.0,False,False,AGZ XIII
+427.0,LIBERTAS,StPPP VII,a. 1389,kmetho libertatem optinuit contra Vilczkonem et ab ipso libere transire potest,StPPP,11,medium,diplomatic,14.0,False,False,StPPP VII
+428.0,LIBERTAS,Ib. XI,a. 1413,"Johannes dedit libertatem de inpedimentis aliquibus rebus inchoatis Michaeli, qu",StPPP,14,medium,diplomatic,15.0,False,False,StPPP XI
+430.0,LIBERTAS,ArPrawn X,a. 1416,petentes patrem eorum ad bona predicta et eorum libertatem reponi,ArPrawn,10,medium,judicial_court,15.0,False,False,ArPrawn X
+431.0,LIBERTAS,APozn I,a. 1460,quibus persolutis ipse Servacius et successores libertate dicti medii parietis g,APozn,11,medium,judicial_court,15.0,False,False,APozn I
+432.0,LIBERTAS,KodPol I,a. 1252,"et ut nostra libertas clarius elucescat, volumus ut",KodPol,8,medium,diplomatic,13.0,False,False,KodPol I
+433.0,LIBERTAS,DokRad,a. 1442,"vota, que de mera seu regali libertate ordinantur",DokRad,8,medium,diplomatic,15.0,False,False,DokRad
+949.0,MAGISTRATUS,Tom. IV,a. 1518,consecrationis munus archiepiscopus Gnesnensis ceremoniarum vero magistratum Pet,Tom,10,medium,correspondence,16.0,False,False,Tom. IV
+950.0,MAGISTRATUS,JusPol,a. 1454,"majora nostra officia, puta cancellariatum, vicecancellariatum, marschalcatum, m",JusPol,9,medium,unknown,15.0,False,False,JusPol
+952.0,MAGISTRATUS,StPPP II,a. 1458,"magister moncium in Weliczka totum officium magistratus moncium alias ""barkmystr",StPPP,22,long,diplomatic,15.0,True,False,StPPP II
+953.0,MAGISTRATUS,DŁUG. Op.,,venatorius Sandomiriensis terrae magistratus,DŁUG,4,short,chronicle_historical,,False,False,DŁUG. Op.
+954.0,MAGISTRATUS,DokListPł,a. 1207,ego Johannes magister ecclesie Plocensis providens utilitati mee et successorum ,DokListPł,13,medium,diplomatic,13.0,False,False,DokListPł
+,MAGISTRATUS,DokListPł,a. 1207,"in Bresnic, villa magistratus",DokListPł,4,short,diplomatic,13.0,False,False,DokListPł
+955.0,MAGISTRATUS,KodWp I,a. 1268,magistro Mauricio tenente domus prefate magistratum,KodWp,6,medium,diplomatic,13.0,False,True,KodWp I
+956.0,MAGISTRATUS,DŁUG. Hist. IV,,Ulricus magister respondet lacrimas profudisse quod sub suo magistratu et regimi,DŁUG,18,long,chronicle_historical,,False,True,DŁUG. Hist. IV
+957.0,MAGISTRATUS,DługTor,a. 1500,redditus famoso magistratu civitatis Thorunensis arrendavimus,DługTor,6,medium,chronicle_historical,16.0,False,True,DługTor
+958.0,MAGISTRATUS,DługTor,a. 1500,ius in ipsum magistratum Thorunensem transtulimus,DługTor,6,medium,chronicle_historical,16.0,False,False,DługTor
+893.0,MAIESTAS,RFil XXII,a. 1512,"maiestatis ""moczy""",RFil,2,short,scholarly_periodical,16.0,True,False,RFil XXII
+894.0,MAIESTAS,MPVat III,a. 1360,civitatem Sendomiriensem in manus infidelium hostium proditorie olim tradiderat ,MPVat,20,long,unknown,14.0,False,False,MPVat III
+895.0,MAIESTAS,Tom. I,a. 1507,Moyżeszowa Judea cum aliis Judeis incarcerata est pro crimine lese divine maiest,Tom,17,long,correspondence,16.0,True,False,Tom. I
+897.0,MAIESTAS,ArPrawn X,a. 1408,literam priuilegialem regis Kazimiri maiestatis sigillo munitam,ArPrawn,7,medium,judicial_court,15.0,False,False,ArPrawn X
+898.0,MAIESTAS,*CodVit,a. 1409,antescripti articuli debent sigillari cum regis maiestate,CodVit,7,medium,correspondence,15.0,False,False,CodVit
+899.0,MAIESTAS,AGZ XII,a. 1461,villam vendidit cum litera desuper contexta et maiestate ad predicta bona pertin,AGZ,12,medium,judicial_court,15.0,False,False,AGZ XII
+900.0,MAIESTAS,AKapSąd III,a. 1497,sigillis maioribus seu alias maiestatis ducatus Mazovie,AKapSąd,7,medium,judicial_court,15.0,False,False,AKapSąd III
+901.0,MAIESTAS,IurMas II,a. 1488,iura que sub maiestatis et mediocri sigillis ducalibus sunt emanata,IurMas,10,medium,unknown,15.0,False,False,IurMas II
+902.0,MAIESTAS,DokRad,a. 1447,in cuius sigilli medio ymago coronata regalis in sede maiestatis ad modum regis ,DokRad,14,medium,diplomatic,15.0,False,False,DokRad
+903.0,MAIESTAS,MIECH. Chr.,,Moldauiae voieuoda fidelitatis homagium regi in maiestate sedenti praestitit,MIECH,9,medium,unknown,,False,False,MIECH. Chr.
+904.0,MAIESTAS,Tom. VII,a. 1525,erigitur suggestum amplissium prope pretorium urbis et presertim locus ille edit,Tom,19,long,correspondence,16.0,False,False,Tom. VII
+906.0,MAIESTAS,BiblMuz I 2,a. 1474,quo defuncto princeps Lodwigus successit in maiestate regni Polonie,BiblMuz,9,medium,unknown,15.0,False,True,BiblMuz I 2
+907.0,MAIESTAS,InwKKr,,in quo clipeo est maiestas Trinitatis Sanctae haec maiestas Trinitatis Sanctae e,InwKKr,22,long,unknown,,False,False,InwKKr
+908.0,MAIESTAS,SSrSil VII,a. 1467,Deo nostro sit gloria et maiestas,SSrSil,6,medium,unknown,15.0,False,False,SSrSil VII
+909.0,MAIESTAS,DŁUG. Hist. I,,"pavor, obsequela et maiestas Boleslao Poloniae regi a propriis et finitimis serv",DŁUG,12,medium,chronicle_historical,,False,False,DŁUG. Hist. I
+1195.0,MILES,GLcerv,,"miles ""rycerz""",GLcerv,2,short,glosses_marginalia,,True,False,GLcerv
+1196.0,MILES,AKapSąd II,a. 1527,milittes mercenarios cesaris,AKapSąd,3,short,judicial_court,16.0,False,False,AKapSąd II
+1198.0,MILES,KADŁUB.,,ut miles saltem fratris non rengni coheres estimetur,KADŁUB,8,medium,chronicle_historical,,False,True,KADŁUB.
+1199.0,MILES,DŁUG. Band,,milites omagiales episcopatus Zambiensis,DŁUG,4,short,chronicle_historical,,False,False,DŁUG. Band
+1201.0,MILES,AConst,a. 1233,"ecclesia Poloniae militibus Poloniae permiserit solvere decimas ad ecclesias, qu",AConst,11,medium,unknown,13.0,False,False,AConst
+1202.0,MILES,KodPol I,a. 1251,"ex cujus privilegii tenore comperimus, quod predicta hereditas Lanchino ab initi",KodPol,21,long,diplomatic,13.0,False,False,KodPol I
+1203.0,MILES,KodWp II,a. 1311,nos Nicolaus abbas Mogilnensis totusque conventus nobili viro ac strenuo militi ,KodWp,21,long,diplomatic,14.0,False,False,KodWp II
+1204.0,MILES,JusPol,saec. XIV med.,"pro capite militi famoso alias ""szlachcie"" sexaginta marcas",JusPol,8,medium,unknown,,True,False,JusPol
+1205.0,MILES,ZabDziej II,a. 1485,"ad instanciam nobilium dominorum militum alias ""rzyczerzow""",ZabDziej,7,medium,chronicle_historical,15.0,True,False,ZabDziej II
+1206.0,MILES,StPPP III,,"quicunque princeps, senator, capitaneus, nobilis, miles, vasallus dominiorum nos",StPPP,11,medium,diplomatic,,False,False,StPPP III
+1207.0,MILES,StPPP I,a. 1421,si aliquis nobilis vel miles nobili virgini violentiam intulerit,StPPP,9,medium,diplomatic,15.0,False,False,StPPP I
+1209.0,MILES,RFil XXIV,a. 1428,"milites ""wlodiky""",RFil,2,short,scholarly_periodical,15.0,True,False,RFil XXIV
+1217.0,MILES,KodMaz(K),a. 1228,militibus Christi fratribus de Dobrin,KodMaz(K,5,medium,diplomatic,13.0,False,False,KodMaz(K)
+1218.0,MILES,Tom. IV,a. 1518,gymnasii rector simul et literarum milites ad illustrem dominum Prosperum access,Tom,11,medium,correspondence,16.0,False,False,Tom. IV
+1219.0,MILITIA,GLcerv,,"militia ""rycerzstwo, żołnierka""",GLcerv,3,short,glosses_marginalia,,True,False,GLcerv
+1220.0,MILITIA,WAPOW. Chr.,,crucem sacrae militiae signum contra immanissimos Turcos,WAPOW,7,medium,unknown,,False,False,WAPOW. Chr.
+1221.0,MILITIA,KodPol III,a. 1228,ego Kazimirus dux de Opol cum omni militia baronum terre mee castrum Opol cepi m,KodPol,16,long,diplomatic,13.0,False,False,KodPol III
+1222.0,MILITIA,*KodMaz(K),a. 1228,primus episcopus Prutenorum considerans militiam ad expugnandum paganos in Prusc,KodMaz(K,18,long,diplomatic,13.0,False,False,KodMaz(K)
+1223.0,MILITIA,RHist III,a. 1510,cum militia nunc ordinis beatae Marie Theutonicorum in Prussia degencium,RHist,10,medium,unknown,16.0,False,False,RHist III
+1224.0,MILITIA,*KodMp II,a. 1249,fratres ordinis sancti Sepulcri pari cum militia Templi et hospitalarijs Ierosol,KodMp,18,long,diplomatic,13.0,False,False,KodMp II
+1225.0,MILITIA,IO. LUD. ,,"hii, qui nuper ad huius artis militiam ac certamen se contulerunt",IO,11,medium,unknown,,False,False,IO. LUD.
+1226.0,MILITIA,VHedv,,"reliqui duo Otto et Henricus seculari militie dediti, patri suo successerunt in ",VHedv,13,medium,unknown,,False,True,VHedv
+1228.0,MILITIA,ArHist V,a. 1405,persecutores militie clericalis corrigere et cohercere,ArHist,6,medium,chronicle_historical,15.0,False,False,ArHist V
+1229.0,MILITIA,CRIC. in Tom. I ,a. 1507,"occupatus fui febre plusculum, sed hec vetus militia est mea itaque jam occalui",CRIC,13,medium,unknown,16.0,False,False,CRIC. in Tom. I
+1230.0,MILITIA,GALL,,ipse quoque dux Pomoranorum adveniens Bolezlauo inclinavit eiusque se servicio e,GALL,13,medium,chronicle_historical,,False,False,GALL
+1231.0,MILITIA,PrPol,a. 1367,"nos Nicolaus judex cupientes statuta terre conservare, dictos heredes per fratre",PrPol,24,long,diplomatic,14.0,False,False,PrPol
+1232.0,MILITIA,StPPP VIII,a. 1376,Nicolaus penam XV contra Janconem pro vituperio militie,StPPP,8,medium,diplomatic,14.0,False,False,StPPP VIII
+1234.0,MILITIA,StPPP VII,a. 1400,"Cristinus Potrassium in militia sua uituperauit wlgariter ""w szlachcze przyganil",StPPP,10,medium,diplomatic,15.0,True,False,StPPP VII
+1235.0,MILITIA,RFil XXIII,a. 1444,"militia ""slachietnoscz""",RFil,2,short,scholarly_periodical,15.0,True,False,RFil XXIII
+1236.0,MILITIA,PrPol,a. 1417,"Michael vituperatus per Petrum nobilitatis sue militie medietatem compurgando, s",PrPol,33,long,diplomatic,15.0,True,False,PrPol
+1237.0,MILITIA,KodPol I,a. 1228,tota Cracoviensi et Sandomiriensi militia pro eo testimonium perhibente,KodPol,9,medium,diplomatic,13.0,False,False,KodPol I
+1238.0,MILITIA,IurMas I,a. 1359,nos Semovitus dux Masovie una cum baronibus et militia nostra,IurMas,10,medium,unknown,14.0,False,False,IurMas I
+1240.0,MILITIA,PrPol,a. 1398,"opponens se pro militia et infamia sua, nominavit sex testes de sua simplici mil",PrPol,14,medium,diplomatic,14.0,False,False,PrPol
+1241.0,MILITIA,AAlex,a. 1503,"contra Turcos, Tartaros pugnaturi ultramarinis pro vana gloria militia cinctis s",AAlex,12,medium,unknown,16.0,False,False,AAlex
+1242.0,MILITIA,Tom. IV,a. 1518,"hac die marchioni merito tanquam optimo militi palma cessit, sertum monili decor",Tom,24,long,correspondence,16.0,False,False,Tom. IV
+959.0,NATIO,KodWp III,a. 1383,"dominus Johannes natione Doliwa, episcopus Poznaniensis",KodWp,6,medium,diplomatic,14.0,False,False,KodWp III
+960.0,NATIO,StPPP VII,a. 1434,"Petrus dixit Stanislao, quod non esset ita bonus ex natione nobilitatis, qui tam",StPPP,21,long,diplomatic,15.0,False,False,StPPP VII
+962.0,NATIO,NieznHer,a. 1437,"Nicolaus sibi derogauit dicens ipsum non esse nobilem, sed natione rusticum",NieznHer,11,medium,unknown,15.0,False,True,NieznHer
+963.0,NATIO,CracArt I,a. 1423,"Jodocus scriptor de Cracovia, natione de Goltberg",CracArt,7,medium,unknown,15.0,False,False,CracArt I
+964.0,NATIO,APozn I,a. 1456,"Alberto olim de Bogdanka, natione de Lancicia",APozn,7,medium,judicial_court,15.0,False,False,APozn I
+966.0,NATIO,KodMp III,a. 1379,particulam hereditatis sibi ex paterna natione contingentem,KodMp,7,medium,diplomatic,14.0,False,False,KodMp III
+643.0,NOBILIS,ib.,,"nobilis nobilitate bonarum operationum est nobilis absolute, sed ille solum resp",ZABOR,14,medium,chronicle_historical,,False,False,ZABOR. Tract.
+644.0,NOBILIS,DokMp IV,a. 1235,praesente nobili principe domino Henrico duce Zlesiae,DokMp,7,medium,diplomatic,13.0,False,False,DokMp IV
+645.0,NOBILIS,KodWp II,a. 1290,nobilem discretum virum dominum Albertum decanum Cracoviensem,KodWp,7,medium,diplomatic,13.0,False,False,KodWp II
+646.0,NOBILIS,PommUrk IV,a. 1306,noverit nobilis etas presentium et futurorum,PommUrk,6,medium,diplomatic,14.0,False,False,PommUrk IV
+647.0,NOBILIS,KsgŁawKr,a. 1373,nobilis Helena magistri Benedicti filie filia,KsgŁawKr,6,medium,diplomatic,14.0,False,False,KsgŁawKr
+648.0,NOBILIS,CodVit,a. 1429,maiores et nobiliores culpas et iniurias,CodVit,6,medium,correspondence,15.0,False,False,CodVit
+649.0,NOBILIS,DŁUG. LibBen I,,insignita est Cracoviensis ecclesia praelatorum et canonicorum iusto et nobili n,DŁUG,11,medium,chronicle_historical,,False,False,DŁUG. LibBen I
+651.0,NOBILIS,RFil XVI,saec. XV in.,"""chorąsny"" nobiliores, validiores",RFil,3,short,scholarly_periodical,,True,False,RFil XVI
+652.0,NOBILIS,GLcerv,,"nobilis ""szlachetny""",GLcerv,2,short,glosses_marginalia,,True,False,GLcerv
+654.0,NOBILIS,KsgCzer,a. 1424,"manserunt circa jus nobile alias ""slachdnem prawe""",KsgCzer,7,medium,diplomatic,15.0,True,False,KsgCzer
+655.0,NOBILIS,NieznHer,a. 1431,"debuit iurare pro vulneribus nobilibus, sed idem asseruit, quod non esset nobili",NieznHer,12,medium,unknown,15.0,False,False,NieznHer
+658.0,NOBILIS,RotPozn,a. 1426,"nobiles alias ""panicze""",RotPozn,3,short,unknown,15.0,True,False,RotPozn
+659.0,NOBILIS,StPPP VII,a. 1429,"nobilis homo minor alias ""wlodika""",StPPP,5,medium,diplomatic,15.0,True,False,StPPP VII
+660.0,NOBILIS,KodKWil,a. 1501,"nobilis et servus alias ""boyaryn"" domini Stanislai",KodKWil,7,medium,diplomatic,16.0,True,False,KodKWil
+661.0,NOBILIS,StPPP II,a. 1431,"ipsam dixit non perfectam nobilem alias ""nyedoslą sclachczanką""",StPPP,8,medium,diplomatic,15.0,True,False,StPPP II
+662.0,NOBILIS,IurMas III,a. 1410,si nobilis communis militem maxillaverit,IurMas,5,medium,unknown,15.0,False,False,IurMas III
+663.0,NOBILIS,PrPol,a. 1416,"dixit se esse medium nobilem wlgariter ""wlodica""",PrPol,7,medium,diplomatic,15.0,True,False,PrPol
+664.0,NOBILIS,MPVat II,a. 1374,"revelaverunt XXXII nobiles magnos, qui fuerunt cambiati pro LXIIII florenis auri",MPVat,11,medium,unknown,14.0,False,False,MPVat II
+665.0,NOBILIS,CodVit,a. 1413,in quibus sacculis diversi floreni aurei una cum nobilibus Anglicanis contineban,CodVit,11,medium,correspondence,15.0,False,False,CodVit
+911.0,NOBILITAS,KomKadł,,"ex epistola praesenti duplex nobilitas potest elici: quaedam naturalis, quae ex ",KomKadł,50,long,unknown,,False,False,KomKadł
+912.0,NOBILITAS,KomKadł,,"alia est nobilitas formalis, quae secundum Senecam De moribus est generositas an",KomKadł,16,long,unknown,,False,False,KomKadł
+914.0,NOBILITAS,BYSTRZ. Top.,,triplex est nobilitas quedam est que nihil aliud est quam diuitie inueterate: cu,BYSTRZ,25,long,literary_classical,,False,False,BYSTRZ. Top.
+915.0,NOBILITAS,BYSTRZ. Top.,,"alia est nobilitas, que est quedam aptitudo et inclinatio ad bonas operationes, ",BYSTRZ,17,long,literary_classical,,False,False,BYSTRZ. Top.
+916.0,NOBILITAS,BYSTRZ. Top.,,alia est nobilitas animi siue virtutis de illa loquitur Gualterus in Alexandreid,BYSTRZ,19,long,literary_classical,,False,False,BYSTRZ. Top.
+917.0,NOBILITAS,*KodWp I,a. 1207,nobilitatem tuam monemus et hortamur,KodWp,5,medium,diplomatic,13.0,False,True,KodWp I
+918.0,NOBILITAS,KodWp II,a. 1295,religiosam vitam eligentibus favorabili et benigno nobilitatis convenit adesse p,KodWp,10,medium,diplomatic,13.0,False,False,KodWp II
+919.0,NOBILITAS,APozn I,a. 1438,quas tua nobilitas habuit,APozn,4,short,judicial_court,15.0,False,True,APozn I
+920.0,NOBILITAS,GOST. Th.,,intelligentie primarie influunt super intellectus secundos bonitates siue nobili,GOST,14,medium,unknown,,False,False,GOST. Th.
+922.0,NOBILITAS,KsgZPozn,a. 1403,"pro inputacione ipsius nobilitati wlgariter ""naganene czsci""",KsgZPozn,7,medium,diplomatic,15.0,True,False,KsgZPozn
+923.0,NOBILITAS,ArPrawn VIII,a. 1399,plenum ius supreme nobilitatis,ArPrawn,4,short,judicial_court,14.0,False,False,ArPrawn VIII
+924.0,NOBILITAS,ArHist VIII,a. 1411,"testimonium perhibuit pro Stanislao, quod est de genere sue nobilitatis",ArHist,10,medium,chronicle_historical,15.0,False,False,ArHist VIII
+925.0,NOBILITAS,AGZ XIII,a. 1445,ipse est verus nobilis de vera nobilitate natus,AGZ,8,medium,judicial_court,15.0,False,False,AGZ XIII
+926.0,NOBILITAS,DŁUG. Op.,,"nobilitas Polonica a Wladislao Loktek creata, quae se Valni appellat",DŁUG,10,medium,chronicle_historical,,False,False,DŁUG. Op.
+928.0,NOBILITAS,ArPrawn I,a. 1527,magna frequentia castellanorum et nobilitatum aliarum terrarum,ArPrawn,7,medium,judicial_court,16.0,False,False,ArPrawn I
+968.0,OFFICIUM,CALLIM. Rhet.,,"officium quod quidem secundum etatem, scientiam et dignitatem persone circumstan",CALLIM,16,long,unknown,,False,False,CALLIM. Rhet.
+969.0,OFFICIUM,StKapWł,a. 1500,si naturali vitae fungerentur officio,StKapWł,5,medium,unknown,16.0,False,False,StKapWł
+971.0,OFFICIUM,MARTIN. OP. Chr.,,proni et humiliati coelestis regis famulentur officio,MARTIN,7,medium,literary_classical,,False,False,MARTIN. OP. Chr.
+972.0,OFFICIUM,KodMp II,a. 1232,homines ob multiformes pressuras sub umbram protectionis ducis Lestconis conuola,KodMp,15,medium,diplomatic,13.0,False,False,KodMp II
+973.0,OFFICIUM,DokMp I,a. 1322,Cochanus debebit nobiscum equitare ad expeditionem officium famulatus impendendo,DokMp,9,medium,diplomatic,14.0,False,False,DokMp I
+974.0,OFFICIUM,Inst.,,"hoc officium meum in eam accipias partem uelim, ut",Inst,9,medium,unknown,,False,True,Inst.
+975.0,OFFICIUM,Tom. III,a. 1515,quod officium jocunda et benivola mente a nobis acceptum,Tom,9,medium,correspondence,16.0,False,False,Tom. III
+976.0,OFFICIUM,StPPP XII,a. 1503,"omnis cera, quae datur ad officium, debet cedere pro ecclesia",StPPP,10,medium,diplomatic,16.0,False,False,StPPP XII
+977.0,OFFICIUM,Visit.,a. 1511,"consulatus habet censum valvarum officium ""stawne"", de quibus colliguntur annuat",Visit,12,medium,unknown,16.0,True,False,Visit.
+978.0,OFFICIUM,APozn II,a. 1499,"quilibet sociorum magistrari volens imprimis officium magisterii alias ""stuka"" c",APozn,13,medium,judicial_court,15.0,True,False,APozn II
+979.0,OFFICIUM,ALBERT.,,officio instrumenti armillarum depraehensum est Veneris deferentem ab ecliptica ,ALBERT,10,medium,unknown,,False,False,ALBERT.
+980.0,OFFICIUM,COPERN. Rv,,fiat normarum officio triangulum isosceles,COPERN,5,medium,unknown,,False,False,COPERN. Rv
+982.0,OFFICIUM,PrzMog,,"fortune officio me abiectum, nature beneficio minus provectum",PrzMog,8,medium,scholarly_periodical,,False,False,PrzMog
+983.0,OFFICIUM,NIC. BŁ. Serm. I,,coniugium in lege naturae institutum est in officium: crescite et multiplicamini,NIC,11,medium,literary_classical,,False,False,NIC. BŁ. Serm. I
+984.0,OFFICIUM,JAC. PAR. Serm.,,matrimonium est institutum in officium prolis generandae,JAC,7,medium,unknown,,False,False,JAC. PAR. Serm.
+985.0,OFFICIUM,VSt,,Petrus miles peracto veritatis officio quievit in suo sepulcro,VSt,9,medium,unknown,,False,False,VSt
+986.0,OFFICIUM,MARTIN. OP. Serm.,,"differebat officio, alie enim stelle create sunt, ut signent tempora, hec autem ",MARTIN,17,long,literary_classical,,False,True,MARTIN. OP. Serm.
+987.0,OFFICIUM,KodWp V,a. 1422,hominum memoria solo scripturarum et testium pascitur officio,KodWp,8,medium,diplomatic,15.0,False,False,KodWp V
+988.0,OFFICIUM,CodSil XV,a. 1443,super hiis velit nobis officio litterarum respondere,CodSil,7,medium,diplomatic,15.0,False,False,CodSil XV
+989.0,OFFICIUM,URSIN.,,quomodo epistolare officium et eius genera consequi possimus,URSIN,8,medium,unknown,,False,False,URSIN.
+991.0,OFFICIUM,Gramm.,saec. XV,"licet res non possit trahi de sua natura, trahitur tamen aliquando de suo offici",Gramm,46,long,unknown,,False,False,Gramm.
+992.0,OFFICIUM,BYSTRZ. AnalPr,,"sex termini secundum vocem numeraliter distincti, non tamen sunt tot distincti s",BYSTRZ,13,medium,literary_classical,,False,False,BYSTRZ. AnalPr
+993.0,OFFICIUM,STOB. Aret.,,iustitiae legalis quatuor sunt officia; primum est sanctas et rectas leges conde,STOB,12,medium,literary_classical,,False,False,STOB. Aret.
+994.0,OFFICIUM,WROCŁ. Dial.,,est officium copule denotare veram unionem predicati cum subiecto,WROCŁ,9,medium,unknown,,False,False,WROCŁ. Dial.
+995.0,OFFICIUM,AKapSąd III,a. 1479,"gerere officium navis alias ""sternykyem bycz""",AKapSąd,6,medium,judicial_court,15.0,True,False,AKapSąd III
+996.0,OFFICIUM,KodWp I,a. 1251,tendunt termini ad officium parandorum vitrorum,KodWp,6,medium,diplomatic,13.0,False,False,KodWp I
+997.0,OFFICIUM,Ztschr. VI,a. 1323,"vendidimus advocatiam cum curia mactatoria stationibus sutorialibus, cum officio",Ztschr,10,medium,unknown,14.0,False,False,Ztschr. VI
+998.0,OFFICIUM,*MPH I,saec. XI,monasterium cum universis eius officiis ab ipsis fundamentis erigens,MPH,9,medium,chronicle_historical,,False,False,MPH I
+999.0,OFFICIUM,BreslUB,a. 1273,"cives edificent officium, quo vasa de curribus ad alia loca trahuntur",BreslUB,11,medium,unknown,13.0,False,False,BreslUB
+1001.0,OFFICIUM,KodMp III,a. 1334,"salifodine officium ""hutmanstwo""",KodMp,3,short,diplomatic,14.0,True,False,KodMp III
+1003.0,OFFICIUM,IusMet,a. 1368,"officium in zuppa nostra Bochnensi ""barkmistrzostwo"" nuncupatum",IusMet,7,medium,unknown,14.0,True,False,IusMet
+1004.0,OFFICIUM,*BreslUB,a. 1352,"civitati damus officium veccionis vasorum, quod vulgo ""schrotampt"" dicitur",BreslUB,9,medium,unknown,14.0,True,True,BreslUB
+1005.0,OFFICIUM,AKapSąd II,a. 1434,in causa officii contra Petrum plebanum,AKapSąd,6,medium,judicial_court,15.0,False,False,AKapSąd II
+1006.0,OFFICIUM,StPPP VII,a. 1544,"officii causae sunt istae, quae carent districtu, pro quibus regia maiestas extr",StPPP,27,long,diplomatic,16.0,False,False,StPPP VII
+1007.0,OFFICIUM,AKapSąd III,a. 1508,testis ex officio Albertus presbiter,AKapSąd,5,medium,judicial_court,16.0,False,False,AKapSąd III
+1008.0,OFFICIUM,ArLit I,a. 1429,pincerna in officio suo circa mensam comunem magistrorum servire tenebitur,ArLit,10,medium,unknown,15.0,False,False,ArLit I
+1010.0,OFFICIUM,KH XLI,a. 1376,nos iurati recognoscimus per officium quod,KH,6,medium,unknown,14.0,False,False,KH XLI
+1012.0,OFFICIUM,KodUJ I,a. 1433,"procurator de fiendis in posterum protestatur, vestro super hoc officio humilite",KodUJ,12,medium,diplomatic,15.0,False,True,KodUJ I
+1013.0,OFFICIUM,ARect I,a. 1493,Andreas proposuit contra Iohannem quomodo ipse eum traxit ad iudices non suos pe,ARect,21,long,unknown,15.0,False,False,ARect I
+1014.0,OFFICIUM,AKapSąd III,a. 1510,contra furem auxilium et officium capitanei implorabat et exequucionem eiusdem o,AKapSąd,16,long,judicial_court,16.0,False,False,AKapSąd III
+1015.0,OFFICIUM,KodKKr I,a. 1328,quotidianam inter capitulum prelatos canonicos Cracouienses et officium ac iudic,KodKKr,12,medium,diplomatic,14.0,False,True,KodKKr I
+1016.0,OFFICIUM,ArPrawn I,a. fere 1400,dum presidebat iudicio et officio,ArPrawn,5,medium,judicial_court,15.0,False,False,ArPrawn I
+1017.0,OFFICIUM,*LhnUrk II,a. 1515,"officium ducatus nostri Oppavie, quem hactenus Emericus Czobor a nobis pro offic",LhnUrk,17,long,unknown,16.0,False,True,LhnUrk II
+1018.0,OFFICIUM,*Tom. IV,a. 1516,deturbatis vojevodis provincias more Turcarum ad officia et prefecturas partiatu,Tom,10,medium,correspondence,16.0,False,True,Tom. IV
+1020.0,OFFICIUM,DŁUG. Op.,,ob quae officia singularis exhibebatur honos,DŁUG,6,medium,chronicle_historical,,False,True,DŁUG. Op.
+1021.0,OFFICIUM,AGZ III,a. 1362,taliter ordinando pro eadem civitate et officio lanificum ac utilitate comuni,AGZ,11,medium,judicial_court,14.0,False,False,AGZ III
+1022.0,OFFICIUM,AGZ III,a. 1362,"ne lanifices inferiorum pannorum valoris orbentur officio, qui hactenus ex eo co",AGZ,16,long,judicial_court,14.0,False,False,AGZ III
+1024.0,OFFICIUM,RFil XXIII,saec. XV med.,"peracto mutue salutationis officio ""vczinywszy spolnego poszdrowyenya vrząd""",RFil,8,medium,scholarly_periodical,,True,False,RFil XXIII
+1025.0,OFFICIUM,StSyn III,,quicunque matutinali officio festi eiusdem in ecclesia interfuerint,StSyn,8,medium,diplomatic,,False,False,StSyn III
+1026.0,OFFICIUM,StSyn III,,"qui prime, tercie, sexte, none et completorii officiis interfuerint",StSyn,9,medium,diplomatic,,False,False,StSyn III
+1028.0,OFFICIUM,DokKKr I,a. 1405,officium ordinarium occurrens pro tempore rector impendit,DokKKr,7,medium,diplomatic,15.0,False,True,DokKKr I
+1029.0,OFFICIUM,InwKKr,,pro officio coena Domini,InwKKr,4,short,unknown,,False,False,InwKKr
+1030.0,OFFICIUM,DŁUG. Hist. I ,,"Urbanus secundus statuit, ut hore Beatae Mariae Virginis quotidie, officium vero",DŁUG,15,medium,chronicle_historical,,False,False,DŁUG. Hist. I
+1031.0,OFFICIUM,InwKKr,,cantionale pro officio Beatae Virginis solemniter decantando,InwKKr,7,medium,unknown,,False,False,InwKKr
+1033.0,OFFICIUM,PEREGR.,,currunt domum de ecclesia officio non conpleto,PEREGR,7,medium,unknown,,False,False,PEREGR.
+1034.0,OFFICIUM,KodTyn,a. 1453,"pro vobis fiat officium, quod pro fratribus nostris fieri consuevit",KodTyn,10,medium,diplomatic,15.0,False,False,KodTyn
+1036.0,OFFICIUM,DŁUG. Hist. V,,coactus est cardinalis officium desponsationis conficere,DŁUG,6,medium,chronicle_historical,,False,False,DŁUG. Hist. V
+1037.0,OFFICIUM,LIBAN. Acc.,,plerique charissimis officia veniarum fieri voluerunt,LIBAN,6,medium,literary_classical,,False,False,LIBAN. Acc.
+1039.0,OFFICIUM,AnnCrac,saec. XV med.,dando ipsum in officium manuale Nicolao notario,AnnCrac,7,medium,unknown,,False,True,AnnCrac
+1040.0,OFFICIUM,KodUJ II,a. 1454,officium praedicationis nec dum certum directorem seu praedicatorem nec etiam ce,KodUJ,13,medium,diplomatic,15.0,False,False,KodUJ II
+1055.0,PALATINUS,AGZ IV,a. 1357,"Felix Mathie diocesis Cracoviensis clericus vicecomes palatinus, protunc in Anti",AGZ,12,medium,judicial_court,14.0,False,False,AGZ IV
+1056.0,PALATINUS,VPriefl,,cellam ab Agnete palatina comitissa suscepit,VPriefl,6,medium,unknown,,False,True,VPriefl
+1057.0,PALATINUS,Dogiel I,a. 1341,Margaretham quondam comitissam palatinam Rheni ducissam Bavariae,Dogiel,7,medium,diplomatic,14.0,False,False,Dogiel I
+1058.0,PALATINUS,*SSrSil XVII,a. 1506,"scribe longo succedunt ordine: palatinus seu atriensis, erarius",SSrSil,8,medium,unknown,16.0,False,False,SSrSil XVII
+1059.0,PALATINUS,GALL,,nullum in curia sua palatinum vel palatini vicarium prefecit,GALL,9,medium,chronicle_historical,,False,True,GALL
+1060.0,PALATINUS,DokMp IV,a. 1235,incolae ab omni iure castrorum totaliter sint exempti nec citentur coram palatin,DokMp,16,long,diplomatic,13.0,False,False,DokMp IV
+1061.0,PALATINUS,DokMp I,a. 1257,"quorum ista sunt nomina Nicolaus palatinus Cracouiensis, Sangneus palatinus Sand",DokMp,10,medium,diplomatic,13.0,False,True,DokMp I
+1062.0,PALATINUS,GLt,,"palatinus ""woyewoda""",GLt,2,short,glosses_marginalia,,True,False,GLt
+1064.0,PALATINUS,KodMp IV,a. 1441,Laurencio de Hedravara Regni Hungarie palatino,KodMp,6,medium,diplomatic,15.0,False,False,KodMp IV
+1065.0,PALATINUS,AKap Sąd ΙII,a. 1505,tempore belli contra palatinum Moldavie,AKap,5,medium,judicial_court,16.0,False,False,AKap Sąd ΙII
+1067.0,PALATINUS,PEREGR. ,,Filius Dei quasi quidam palatinus debellata omni potestate dyabolica surrexit,PEREGR,10,medium,unknown,,False,False,PEREGR.
+1101.0,PARLAMENTUM,ConcPol VII,ante a. 1420,"prohibeatis, ne in ecclesiis fiant parlamenta, collocuciones, susurraciones",ConcPol,8,medium,unknown,15.0,False,False,ConcPol VII
+1102.0,PARLAMENTUM,DokKKr I,a. 1404,"cessent in illo publica parlamenta, vana et multo fortius faeda et profana collo",DokKKr,16,long,diplomatic,15.0,False,True,DokKKr I
+1104.0,PARLAMENTUM,*PommUrk V,a. 1318,"in monasterio placita seu publica parlamenta, ad que cum magna multitudine equit",PommUrk,17,long,diplomatic,14.0,False,False,PommUrk V
+1105.0,PARLAMENTUM,Dogiel V,a. 1399,nec parlamentum seu capitulum faciant in eadem,Dogiel,7,medium,diplomatic,14.0,False,True,Dogiel V
+1106.0,PARLAMENTUM,KodMaz(L),a. 1239,parlamentum generale in ciuitate nostra Zacroczimiensi cum dignitarijs et consil,KodMaz(L,12,medium,diplomatic,13.0,False,False,KodMaz(L)
+1108.0,PARLAMENTUM,AUnii,a. 1413,"barones et nobiles regni Poloniae et terrarum Littwaniae, conventiones et parlam",AUnii,16,long,diplomatic,15.0,True,False,AUnii
+1109.0,PARLAMENTUM,GLcerv,,"parlamentum ""seym""",GLcerv,2,short,glosses_marginalia,,True,False,GLcerv
+1110.0,PARLAMENTUM,AKapSąd II,a. 1459,"procurator Boguslai proposuit contra Iohannem, quomodo ipse Iohannes cum laborio",AKapSąd,21,long,judicial_court,15.0,True,False,AKapSąd II
+1267.0,PATRIMONIUM,PP III,a. 1446,"satisfecit Katherine racione patrimonij wlgariter ""za oczyznu""",PP,7,medium,scholarly_periodical,15.0,True,False,PP III
+1268.0,PATRIMONIUM,StPPP XII,a. 1525,"ius adiudicavit patrimonium alias ""dzadowyszna""",StPPP,5,medium,diplomatic,16.0,True,False,StPPP XII
+1269.0,PATRIMONIUM,KodMp I,a. 1192,mundus Crucifixi patrimonia uiolenter diripere et ad usus illicitos uendicare co,KodMp,11,medium,diplomatic,12.0,False,False,KodMp I
+1270.0,PATRIMONIUM,CodSil(M) II,a. 1211,ne quis hominum ecclesie inhabitans patrimonium alias ad iudicium iudicandus per,CodSil(M,11,medium,diplomatic,13.0,False,False,CodSil(M) II
+1272.0,PATRIMONIUM,NIC. BŁ. Tract.,,"dicitur matrimonium potius quam patrimonium, quod maiora onera sunt in matre qua",NIC,14,medium,literary_classical,,False,False,NIC. BŁ. Tract.
+1273.0,PATRIMONIUM,ŁASKI ComPriv,,Laurentius non fuit de legitimo patrimonio sive thoro procreatus,ŁASKI,9,medium,literary_classical,,False,False,ŁASKI ComPriv
+667.0,PAX,GLc,,"pax, foedus, ""mir""",GLc,3,short,glosses_marginalia,,True,False,GLc
+669.0,PAX,RHist I,a. 1537,pacem viarum publicarum et deversoriorum observare et custodire,RHist,8,medium,unknown,16.0,False,False,RHist I
+670.0,PAX,KodMp I,a. 1192,Phulco episcopus uniuersis fidelibus salutem et pacem,KodMp,7,medium,diplomatic,12.0,False,False,KodMp I
+671.0,PAX,CantMAe I,saec. XIV,"amor Patris Filiique, pax amborum, par utrique veni Sancte Spiritus",CantMAe,10,medium,unknown,,False,False,CantMAe I
+674.0,PAX,MARTIN. Op. Serm.,,"pax pectoris est tranquillitas mentis, quando Spiritus Sanctus compescit motus c",MARTIN,37,long,literary_classical,,False,False,MARTIN. Op. Serm.
+675.0,PAX,PommUB,a. 1303,ut monachi freti pace temporanea paci pectoris intendere valeant et ad pacem ete,PommUB,16,long,diplomatic,14.0,False,False,PommUB
+676.0,PAX,MATTH. Lect. II,,pax viae respectu pacis futurae in patria est quedam fames et poena,MATTH,12,medium,unknown,,False,False,MATTH. Lect. II
+677.0,PAX,BRUNO Qfr,,presbiter uetulus euntibus ex more fratribus ad pacem accedere non sapuit,BRUNO,11,medium,unknown,,False,False,BRUNO Qfr
+679.0,PAX,PommUrk II,a. 1283,"compromisimus communem pacem terre, que wlgariter ""lantfrede""",PommUrk,7,medium,diplomatic,13.0,True,False,PommUrk II
+678.0,PAX,StPPP VIII,a. 1400,"habet a me pacem ""przemirze"" dictam",StPPP,6,medium,diplomatic,15.0,True,False,StPPP VIII
+680.0,PAX,MARTIN. OP. Serm.,,si pacem habeant ad omnes,MARTIN,5,medium,literary_classical,,False,False,MARTIN. OP. Serm.
+681.0,PAX,KodMp IV,a. 1418,agger stetit in pace et indestructus,KodMp,6,medium,diplomatic,15.0,False,False,KodMp IV
+682.0,PAX,AKapSąd II,a. 1426,ea frumenta in pace stare permittant,AKapSąd,6,medium,judicial_court,15.0,False,False,AKapSąd II
+688.0,PAX,InwKKr,,cantori ab eodem cantico Salve Regina et pro pace quotidiano ac a responsorio As,InwKKr,22,long,unknown,,False,False,InwKKr
+683.0,PAX,PommUB,a. 1292,"cum cives sub pace nocturno tempore deposuissent, castrenses eos rapuerunt",PommUB,10,medium,diplomatic,13.0,False,False,PommUB
+684.0,PAX,KsgMaz I,a. 1416,fui in meo hospicio in mea pace,KsgMaz,7,medium,diplomatic,15.0,False,False,KsgMaz I
+685.0,PAX,AKapSąd III,a. 1513,ponatis nos hic in curia in pace,AKapSąd,7,medium,judicial_court,16.0,False,False,AKapSąd III
+686.0,PAX,AKapSąd II,a. 1490,plebanus ad vesperas ad matutinas et pro pace pulset more solito; etiam pro pace,AKapSąd,15,medium,judicial_court,15.0,False,False,AKapSąd II
+689.0,PAX,HESSE Matth. II,,concertant fullones quousque maculas tergant nec est pax eis usque dum insit vir,HESSE,13,medium,unknown,,False,False,HESSE Matth. II
+690.0,PAX,AKapSąd III,a. 1531,ut amodo cum suspectis mulieribus pacem habeat et ut neque ipse ad eas neque ips,AKapSąd,18,long,judicial_court,16.0,False,False,AKapSąd III
+691.0,PAX,NIC. BŁ. Serm. I,,"discordia, quae inter Deum et hominem durabat, reconciliationem sumebat et pacem",NIC,11,medium,literary_classical,,False,False,NIC. BŁ. Serm. I
+692.0,PAX,Ztschr. XII,a. 1449,comparauerunt ad capellam vnum pacem deauratum in quo continentur reliquiae sanc,Ztschr,11,medium,unknown,15.0,False,False,Ztschr. XII
+143.0,POPULUS-1,ChrMP,,nonnulli diffugio dilapsi totusque populus nostri exercitus emarcuit,ChrMP,8,medium,unknown,,False,False,ChrMP
+144.0,POPULUS-1,KodMp II,a. 1257,terram memoratam alterius gentis non aplicet populo aut a Polonica natione diuel,KodMp,12,medium,diplomatic,13.0,False,False,KodMp II
+145.0,POPULUS-1,PARK.,,"""luud"" id est populus",PARK,4,short,unknown,,True,False,PARK.
+147.0,POPULUS-1,GLcerv,,"plebs et populus in hoc differunt, quia populus continet ordines maiores et mino",GLcerv,25,long,glosses_marginalia,,True,False,GLcerv
+148.0,POPULUS-1,RachPodKr,a. 1393,dominica Populus Syon,RachPodKr,3,short,financial_administrative,14.0,False,False,RachPodKr
+149.0,POPULUS-1,DokMp I,a. 1403,"datum et actum in dominica, qua in ecclesia Domini decantatur Populus Syon",DokMp,12,medium,diplomatic,15.0,False,False,DokMp I
+150.0,POPULUS-1,RachJag,a. 1389,"dominica Salus populi ad totam septimanam viceprocuratori cum aduenis pisum, mil",RachJag,11,medium,financial_administrative,14.0,False,False,RachJag
+151.0,POPULUS-2,KsgZPozn,a. 1403,"unam populum que ""topola"" wlgariter appellatur",KsgZPozn,6,medium,diplomatic,15.0,True,False,KsgZPozn
+56.0,POTESTAS,ArPrawn X,a. 1393,advocatus et iurati potestatem et mandatum dederunt intromittendi facultatem Nic,ArPrawn,12,medium,judicial_court,14.0,False,False,ArPrawn X
+57.0,POTESTAS,StPPP VIII,a. 1398,non habens potestatem nec procuratorium causam defendebat,StPPP,7,medium,diplomatic,14.0,False,False,StPPP VIII
+59.0,POTESTAS,KsgLub,a. 1453,"cui ministerialis addidit potestatem alias ""moczy""",KsgLub,6,medium,diplomatic,15.0,True,False,KsgLub
+60.0,POTESTAS,StPPP VIII,a. 1400,dedit potestatem Wenceslao possessionem hereditatis recipiendum et nomine suo ca,StPPP,10,medium,diplomatic,15.0,False,False,StPPP VIII
+61.0,POTESTAS,Lites II,a. 1238,"officialem, potestatem et mandatum non habentem a regno ad obligandum mobilia re",Lites,12,medium,diplomatic,13.0,False,False,Lites II
+62.0,POTESTAS,DokKKr II,a. 1447,"mandatum, robur et omnimodam potestatem de et super solucione census",DokKKr,10,medium,diplomatic,15.0,False,False,DokKKr II
+63.0,POTESTAS,DŁUG. Hist. V,,postquam in eum omnis Thartarorum relata foret potestas,DŁUG,8,medium,chronicle_historical,,False,False,DŁUG. Hist. V
+64.0,POTESTAS,Tom. XVI,a. 1534,cum Moskoviae potestas trunca et minime formidabilis exsistat,Tom,8,medium,correspondence,16.0,False,False,Tom. XVI
+66.0,POTESTAS,VITELO Epist.,,"in individuis, quorum substantiae per sensitivas potestates cognoscunur",VITELO,8,medium,unknown,,False,False,VITELO Epist.
+67.0,POTESTAS,BYSTRZ. Log.,,logica naturalis est quedam naturalis potestas anime,BYSTRZ,7,medium,literary_classical,,False,False,BYSTRZ. Log.
+69.0,POTESTAS,KsgGrWp II,a. 1397,"nuncius Przibislai dixit, quod jacet in potestate Dei, vlgariter ""uf Bosze kaszn",KsgGrWp,12,medium,diplomatic,14.0,True,False,KsgGrWp II
+71.0,POTESTAS,GLcerv,,"potestas ""moc, vrząd""",GLcerv,3,short,glosses_marginalia,,True,False,GLcerv
+72.0,POTESTAS,Ib.,,"patria potestas, quae habet sub se liberos, ""moc oycowska""",GLcerv,9,medium,glosses_marginalia,,True,False,GLcerv
+73.0,POTESTAS,DecrICC I,a. 1471,"bona habet in sua potestate alias ""w gwarze""",DecrICC,8,medium,unknown,15.0,True,False,DecrICC I
+74.0,POTESTAS,Ib.,a. 1476,"induxit paratas pecunias in suam potestatem alias ""w gwar""",DecrICC,9,medium,unknown,15.0,True,False,DecrICC I
+76.0,POTESTAS,StPPP IX ,a. 1482,"iudex dedit seruitorem ad potestatem alias ""na wyazanye"" huius scultecij",StPPP,10,medium,diplomatic,15.0,True,False,StPPP IX
+77.0,POTESTAS,GŁOG. ExLog ,,una potestas syllogismi est plura concludere,GŁOG,6,medium,chronicle_historical,,False,False,GŁOG. ExLog
+78.0,POTESTAS,GŁOG. ExLog ,,potestas syllogistica est proprietas syllogismi gracia forme ei attributa racion,GŁOG,19,long,chronicle_historical,,False,False,GŁOG. ExLog
+80.0,POTESTAS,DŁUG. Op.,,"dum Tarvisium venisset, potestate civitatis Tarvisiensis arestatus est",DŁUG,8,medium,chronicle_historical,,False,False,DŁUG. Op.
+81.0,POTESTAS,GŁOG. Anim.,,genus in latitudine sue potestatis continet omnes species suas,GŁOG,9,medium,chronicle_historical,,False,False,GŁOG. Anim.
+82.0,POTESTAS,STOB. Parv. ,,"erit igitur nomen hoc organicum expositio atque interpretatio eius, quod est pot",STOB,14,medium,literary_classical,,False,False,STOB. Parv.
+84.0,POTESTAS,HESSE Quaest.,,"tempus quoad materiale non est in potestate nostra, sed tempus quoad formale, sc",HESSE,22,long,unknown,,False,False,HESSE Quaest.
+1191.0,PRAEFECTUS,GLb,,"praefectus ""starszy, stharosta""",GLb,3,short,glosses_marginalia,,True,False,GLb
+1192.0,PRAEFECTUS,GLcerv,,"praefectus vrbis est, cui a rege comissa est urbis administratio, qui et capitan",GLcerv,15,medium,glosses_marginalia,,True,False,GLcerv
+1193.0,PRAEFECTUS,CorpJP IV,a. 1525,"praefectus alias ""porucznik"" gentium sub sua administratione centum equites habu",CorpJP,10,medium,unknown,16.0,True,False,CorpJP IV
+1194.0,PRAEFECTUS,Tom. IX,a. 1527,"eligemus praefectos militum ""poruczniki""",Tom,4,short,correspondence,16.0,True,False,Tom. IX
+1188.0,PRAETOR,KodWp I,a. 1251,"termini Mornenses attingentes munimen quoddam piscatorium in Wartha, cuius praet",KodWp,13,medium,diplomatic,13.0,False,False,KodWp I
+1189.0,PRAETOR,GLb,,"praetor ""sholtisz""",GLb,2,short,glosses_marginalia,,True,False,GLb
+1190.0,PRAETOR,ArPrawn VII,a. 1566,"quicunque ascripticii in ciuitatem Vilnensem profugerint, magistratus eorum loco",ArPrawn,18,long,judicial_court,16.0,True,False,ArPrawn VII
+117.0,PRINCEPS,PEREGR.,,"sis princeps oculorum tuorum, ne inspiciant illa, que vulnerant animam tuam",PEREGR,11,medium,unknown,,False,False,PEREGR.
+118.0,PRINCEPS,KodWp I,,"ego Boleslaus, dux Zlesie, filius primogenitus illustris condam principis Wladyz",KodWp,10,medium,diplomatic,,False,False,KodWp I
+119.0,PRINCEPS,DokMp IV,a. 1235,presente nobili principe domino Henrico duce Zlesiae,DokMp,7,medium,diplomatic,13.0,False,False,DokMp IV
+120.0,PRINCEPS,Lites I,a. 1320,illustrem principem dominum Wladislaum regem Polonie,Lites,6,medium,diplomatic,14.0,False,False,Lites I
+121.0,PRINCEPS,KsgŁawKr,a. 1392,serenissimum principem dominum W. regem Polonie,KsgŁawKr,6,medium,diplomatic,14.0,False,False,KsgŁawKr
+122.0,PRINCEPS,GLcerv,,"principis appellatione intelligitur rex, ""krol""",GLcerv,5,medium,glosses_marginalia,,True,False,GLcerv
+123.0,PRINCEPS,KodWp III,,"dominus Jaroslaus sancte Gnezdnensis ecclesie archiepiscopus, princeps noster di",KodWp,9,medium,diplomatic,,False,False,KodWp III
+124.0,PRINCEPS,KodWp V,a. 1410,ad Albertum episcopum litterae: princeps praesul eximie,KodWp,7,medium,diplomatic,15.0,False,False,KodWp V
+125.0,PRINCEPS,IurMas II,a. 1496,iure quod feodalibus omagialibusque concedi consveuit principbus,IurMas,7,medium,unknown,15.0,False,False,IurMas II
+126.0,PRINCEPS,Tom. XVI 1 ,a. 1534,dux Prussiae feudatarius princeps Regni Poloniae,Tom,6,medium,correspondence,16.0,False,False,Tom. XVI 1
+127.0,PRINCEPS,Dogiel IV ,a. 1541,pro feudatarii principis officio,Dogiel,4,short,diplomatic,16.0,False,False,Dogiel IV
+129.0,PRINCEPS,GALL,,Setheus qui tunc milicie princeps erat,GALL,6,medium,chronicle_historical,,False,False,GALL
+130.0,PRINCEPS,Ib.,,"Scarbimirum, milicie principem",GALL,3,short,chronicle_historical,,False,False,GALL
+131.0,PRINCEPS,KADŁUB. (Pl),,"sacri palatii principem, summe uirtutis uirum Nicolaum",KADŁUB,7,medium,chronicle_historical,,False,False,KADŁUB. (Pl)
+132.0,PRINCEPS,PommUrk IV,a. 1302,"Agnes, Dei gracia princeps Ruyanorum",PommUrk,5,medium,diplomatic,14.0,False,False,PommUrk IV
+133.0,PRINCEPS,Ztschr. IV,a. 1351,"anno MCCCLI feria quinta obiit Constantina, preclarissima princeps Ladislawiensi",Ztschr,9,medium,unknown,14.0,False,False,Ztschr. IV
+135.0,PRINCEPS,DokMp VI,a. 1386,"serenissime principis domine Hethuigis, regine Polonie",DokMp,6,medium,diplomatic,14.0,False,False,DokMp VI
+136.0,PRINCEPS,DokMp I,a. 1390,cum inter nobilem virum et inter illustrissimam principem Agnetem seu conventum ,DokMp,17,long,diplomatic,14.0,False,False,DokMp I
+137.0,PRINCEPS,ArPrawn X,a. 1394,Szado cum domina abbatissa monasterii s. Andree de Cracovia terminum habent ad p,ArPrawn,19,long,judicial_court,14.0,False,False,ArPrawn X
+139.0,PRINCEPS,StPPP VIII,a. 1397,princeps monasterii sancti Andree de Cracouia ducit testes contra consortem Milo,StPPP,11,medium,diplomatic,14.0,False,False,StPPP VIII
+140.0,PRINCEPS,FormJ,a. 1401,sapiencia Dei gracia princeps mundi suprema,FormJ,6,medium,unknown,15.0,False,False,FormJ
+141.0,PRINCEPS,DŁUG. Op.,,primam et summam omnium virtutum dominatricem et principem virginitatem delegit ,DŁUG,12,medium,chronicle_historical,,False,False,DŁUG. Op.
+808.0,PRIVILEGIUM,StPPP X,,"privilegium est specialis donacio loci, possessionis seu alicuius prerogative ex",StPPP,15,medium,diplomatic,,False,False,StPPP X
+809.0,PRIVILEGIUM,KodMp II,a. 1217,idcirco a prudentibus obliuionis incommodo per instrumenta et privilegia occurit,KodMp,20,long,diplomatic,13.0,False,False,KodMp II
+810.0,PRIVILEGIUM,DokKKr I,a. 1219,innotesco presentibus super dotaliciis ecclesie mihi oblatum fuisse privilegium ,DokKKr,10,medium,diplomatic,13.0,False,False,DokKKr I
+811.0,PRIVILEGIUM,KodMp II,a. 1233,verum privilegium vidimus et tenuimus non abrasum non abolitum,KodMp,9,medium,diplomatic,13.0,False,False,KodMp II
+812.0,PRIVILEGIUM,KodMp I,saec. XIII,presens privilegium manu propria sigillo roboravit,KodMp,6,medium,diplomatic,,False,False,KodMp I
+813.0,PRIVILEGIUM,StPPP X,saec. XV,differencia est inter privilegium et instrumentum; privilegium enim caret signo ,StPPP,34,long,diplomatic,,False,False,StPPP X
+814.0,PRIVILEGIUM,StPPP X,saec. XV,privilegium est quoddam conscriptum seu futurorum contestacio humane operacionis,StPPP,20,long,diplomatic,,False,False,StPPP X
+815.0,PRIVILEGIUM,StPPP IX,a. 1469,"pars aduersa posuit privilegium radicale alias ""corzennij"" scultecie",StPPP,8,medium,diplomatic,15.0,True,False,StPPP IX
+816.0,PRIVILEGIUM,Visit.,a. 1511,"de quo privilegio radicali, ubi sit, advocato non constat",Visit,9,medium,unknown,16.0,False,False,Visit.
+818.0,PRIVILEGIUM,AKapSąd II,a. 1515,privilegium ipsi domino ad imprimendum libros concessum est,AKapSąd,8,medium,judicial_court,16.0,False,False,AKapSąd II
+819.0,PRIVILEGIUM,AKapSąd III,a. 1499,privilegium cum innovacione antiqui privilegiii concedere,AKapSąd,6,medium,judicial_court,15.0,False,False,AKapSąd III
+820.0,PRIVILEGIUM,StPPP VIII,a. 1388,ponet privilegium pro iure suo ad terminos parvos,StPPP,8,medium,diplomatic,14.0,False,False,StPPP VIII
+821.0,PRIVILEGIUM,StPPP VIII,a. 1389,ponere privilegium pro iure Theutonico,StPPP,5,medium,diplomatic,14.0,False,False,StPPP VIII
+822.0,PRIVILEGIUM,AKapSąd III,a. 1508,privilegium quo ad non residenciam,AKapSąd,5,medium,judicial_court,16.0,False,False,AKapSąd III
+823.0,PRIVILEGIUM,Lites II,a. 1294,super Slaves aliquot privilegium irritum et inane,Lites,7,medium,diplomatic,13.0,False,False,Lites II
+824.0,PRIVILEGIUM,Lites I,a. 1339,super hoc vidit privilegia,Lites,4,short,diplomatic,14.0,False,False,Lites I
+825.0,PRIVILEGIUM,DokMp I,a. 1284,privilegiis nostrorum predecessorum super libertate collata,DokMp,6,medium,diplomatic,13.0,False,False,DokMp I
+826.0,PRIVILEGIUM,KodMp II,a. 1325,privilegia seu instrumenta super hereditate,KodMp,5,medium,diplomatic,14.0,False,False,KodMp II
+827.0,PRIVILEGIUM,PrzywKr,a. 1299,privilegium quod abbas et conventus tenetur exaccionem dare,PrzywKr,8,medium,scholarly_periodical,13.0,False,False,PrzywKr
+828.0,PRIVILEGIUM,StPPP VIII,a. 1384,"privilegium ostendit et posuit, quod kmethones non habent in iudicio regali resp",StPPP,12,medium,diplomatic,14.0,False,False,StPPP VIII
+829.0,PRIVILEGIUM,StPPP VIII,a. 1388,"privilegium ponet contra Garnconem, quia homines suos in curia sua habet iudicar",StPPP,12,medium,diplomatic,14.0,False,False,StPPP VIII
+830.0,PRIVILEGIUM,StPPP VIII,a. 1376,Johannes tenetur a privilegio pro Modzillo,StPPP,6,medium,diplomatic,14.0,False,False,StPPP VIII
+831.0,PRIVILEGIUM,StPPP VIII,a. 1382,wlodarius fideiussit tres scotos pro Gregorio a privilegio,StPPP,8,medium,diplomatic,14.0,False,False,StPPP VIII
+833.0,PRIVILEGIUM,StPPP IX,a. 1462,"dominus Krosczon dedit Gotarthoni viginti marcas et si privilegium alias ""szapys",StPPP,15,medium,diplomatic,15.0,True,False,StPPP IX
